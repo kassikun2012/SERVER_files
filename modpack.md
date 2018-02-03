@@ -1,6 +1,6 @@
 
 # 1.7.10
-## SERVER 0.0.4
+## SERVER 0.0.5
 [Dropbox link](https://www.dropbox.com/s/u2828cz36baswai/finalcitymodconfig0.0.4.zip?dl=0)
 
  - carpentersblocks
@@ -20,7 +20,6 @@
  - BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.jar
  - betterrecords-1.7.10-1.2.1.jar
  - BiblioCraft[v1.11.5][MC1.7.10].jar
- - BloodMagic-1.7.10-1.3.3-17.jar
  - BluePower-1.7.10-0.2.962-universal.jar
  - Botania r1.8-249.jar
  - Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar
@@ -32,6 +31,7 @@
  - Computronics-1.7.10-1.6.5.jar
  - CraftTweaker-1.7.10-3.0.13.jar
  - CustomNPCs_1.7.10d(21feb16).jar
+ - CustomStuff3-0.7.10-MC1.7.10.jar
  - CyanosLootableBodies-1.7.10-backport_1.3.7.jar
  - Decocraft-2.4_1.7.10.jar
  - DynamicTransport-0.1.2.0.jar
@@ -68,6 +68,8 @@
  - netherportalfix-mc1.7.10-1.1.0.jar
  - NoMoreRecipeConflict-0.3(1.7.10).jar
  - NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+ - obscore-1.4.1_mc1.7.10.jar
+ - obsaoa-1.0.0_mc1.7.10.jar
  - OpenBlocks-1.7.10-1.6.jar
  - OpenComputers-MC1.7.10-1.6.2.12-universal.jar
  - OpenModsLib-1.7.10-0.10.jar
@@ -107,7 +109,7 @@
  - Ztones-1.7.10-2.2.1.jar
  - PlayerAPI-src-1.7.10-1.4.zip
 
-## CLIENT 0.0.4
+## CLIENT 0.0.5
  - AddonforAMT-JP-1.7.10_1.4h.jar
  - ae2stuff-0.5.1.61-mc1.7.10.jar
  - AgriCraft-1.7.10-1.5.0.jar
@@ -137,6 +139,7 @@
  - Computronics-1.7.10-1.6.5.jar
  - CraftTweaker-1.7.10-3.0.13.jar
  - CustomNPCs_1.7.10d(21feb16).jar
+ - CustomStuff3-0.7.10-MC1.7.10.jar
  - CyanosLootableBodies-1.7.10-backport_1.3.7.jar
  - Decocraft-2.4_1.7.10.jar
  - DynamicTransport-0.1.2.0.jar
@@ -173,6 +176,8 @@
  - netherportalfix-mc1.7.10-1.1.0.jar
  - NoMoreRecipeConflict-0.3(1.7.10).jar
  - NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+ - obsaoa-1.0.0_mc1.7.10.jar
+ - obscore-1.4.1_mc1.7.10.jar
  - OpenBlocks-1.7.10-1.6.jar
  - OpenComputers-MC1.7.10-1.6.2.12-universal.jar
  - OpenModsLib-1.7.10-0.10.jar
