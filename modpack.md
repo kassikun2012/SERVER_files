@@ -68,8 +68,8 @@
  - netherportalfix-mc1.7.10-1.1.0.jar
  - NoMoreRecipeConflict-0.3(1.7.10).jar
  - NotEnoughItems-1.7.10-1.0.5.120-universal.jar
- - obscore-1.4.1_mc1.7.10.jar
  - obsaoa-1.0.0_mc1.7.10.jar
+ - obscore-1.4.1_mc1.7.10.jar
  - OpenBlocks-1.7.10-1.6.jar
  - OpenComputers-MC1.7.10-1.6.2.12-universal.jar
  - OpenModsLib-1.7.10-0.10.jar
@@ -126,7 +126,6 @@
  - BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.jar
  - betterrecords-1.7.10-1.2.1.jar
  - BiblioCraft[v1.11.5][MC1.7.10].jar
- - BloodMagic-1.7.10-1.3.3-17.jar
  - BluePower-1.7.10-0.2.962-universal.jar
  - Botania r1.8-249.jar
  - Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar
