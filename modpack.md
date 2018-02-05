@@ -1,6 +1,6 @@
 
 # Modpack 0.0.7 Minecraft 1.7.10
-[FINALCITY modpack 0.0.7 ](https://www.dropbox.com/s/f5o2rm4m9inam2o/finalcitymodconfig0.0.6.zip?dl=0) Dropbox
+[FINALCITY modpack 0.0.7](https://www.dropbox.com/s/rm1k824o8hrx9h4/finalcitymodconfig0.0.7.zip?dl=0) Dropbox
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](https://www.dropbox.com/sh/6f50pthzwuf9bhh/AADRUPXRXjg4f3fA4FlbP5m0a?dl=0) Dropbox
