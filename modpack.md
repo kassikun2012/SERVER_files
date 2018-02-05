@@ -64,6 +64,8 @@
  - [MowziesMobs-1.2.99.jar](https://minecraft.curseforge.com/projects/mowzies-mobs/files/2327392) Curseforge
  - [MrCrayfishFurnitureModv3.4.7(1.7.10).jar](https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2221679) Curseforge
  - nashorn.jar
+   - [このサイト](http://customnpcs-jp.game-info.wiki/d/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8%A4%CE%C6%B3%C6%FE)をご参照ください｡
+   - またMinecraftを実行するJavaのバージョンが変わった場合は新しいものに差し替えることを強くおすすめします｡
  - [netherportalfix-mc1.7.10-1.1.0.jar](https://minecraft.curseforge.com/projects/netherportalfix/files/2279400) Curseforge
  - [NoMoreRecipeConflict-0.3(1.7.10).jar](https://minecraft.curseforge.com/projects/stimmedcow-nomorerecipeconflict/files/2267374) Curseforge
  - [NotEnoughItems-1.7.10-1.0.5.120-universal.jar](https://minecraft.curseforge.com/projects/notenoughitems/files/2302312) Curseforge
@@ -76,7 +78,7 @@
  - [Pam's HarvestCraft 1.7.10Lb.jar](https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2270206) Curseforge
  - [platforms-1.7.10-0.1.2.jar](https://minecraft.curseforge.com/projects/platforms/files/2309925) Curseforge
  - [PlayerAPI-1.7.10-1.4.jar](https://minecraft.curseforge.com/projects/player-api/files/2248928) Curseforge
- - [PlayerAPI-src-1.7.10-1.4.zip](https://www.dropbox.com/sh/wfd5j8p3hp6rhmd/AACRgjxNT176S1cma_MijD_Fa?preview=MC%201.7.10%20-%20Player%20API%20core%201.4.zip) Dropbox 多分なくていい 
+ - [PlayerAPI-src-1.7.10-1.4.zip](https://www.dropbox.com/sh/wfd5j8p3hp6rhmd/AACRgjxNT176S1cma_MijD_Fa?preview=MC%201.7.10%20-%20Player%20API%20core%201.4.zip) Dropbox 多分なくていい
  - [QmunityLib-1.7.10-0.1.114-universal.jar](https://minecraft.curseforge.com/projects/qmunitylib/files/2241123) Curseforge
  - [RandomThings-2.2.4.jar](https://minecraft.curseforge.com/projects/random-things/files/2225310) Curseforge
  - [rhino1_7R4.zip](https://github.com/downloads/mozilla/rhino/rhino1_7R4.zip)
@@ -171,6 +173,8 @@
  - [MowziesMobs-1.2.99.jar](https://minecraft.curseforge.com/projects/mowzies-mobs/files/2327392) Curseforge
  - [MrCrayfishFurnitureModv3.4.7(1.7.10).jar](https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2221679) Curseforge
  - nashorn.jar
+   - [このサイト](http://customnpcs-jp.game-info.wiki/d/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8%A4%CE%C6%B3%C6%FE)をご参照ください
+   - またMinecraftを実行するJavaのバージョンが変わった場合は新しいものに差し替えることを強くおすすめします｡
  - [netherportalfix-mc1.7.10-1.1.0.jar](https://minecraft.curseforge.com/projects/netherportalfix/files/2279400) Curseforge
  - [NoMoreRecipeConflict-0.3(1.7.10).jar](https://minecraft.curseforge.com/projects/stimmedcow-nomorerecipeconflict/files/2267374) Curseforge
  - [NotEnoughItems-1.7.10-1.0.5.120-universal.jar](https://minecraft.curseforge.com/projects/notenoughitems/files/2302312) Curseforge
