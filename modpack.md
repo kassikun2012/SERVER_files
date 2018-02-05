@@ -9,7 +9,7 @@
  - [AoA-2.4.B.jar](https://adventofascension.gamepedia.com/Download)
  - [AOBD-2.9.2.jar](https://minecraft.curseforge.com/projects/another-one-bites-the-dust/files/2305237) Curseforge
  - [AppleCore-mc1.7.10-1.3.9.jar](https://minecraft.curseforge.com/projects/applecore/files/2391966) Curseforge
- - [AppleMilkTea2-1.7.10_2.9n.jar](https://www.dropbox.com/sh/w1mrciofe19uyk7/AADnwzlVtSIvEHInhiCsbyAKa?dl=0) Dropbox
+ - [AppleMilkTea2-1.7.10_2.9n.jar](https://minecraft.curseforge.com/projects/applemilktea2/files/2341197) Curseforge
  - [appliedenergistics2-rv2-stable-10.jar](https://minecraft.curseforge.com/projects/applied-energistics-2/files/2245762) Curseforge
  - [archimedesshipsplus-1.7.10-1.8.1.jar](https://minecraft.curseforge.com/projects/davincis-vessels/files/2282145) Curseforge
  - [ArchitectureCraft-1.7.2-mc1.7.10.jar](https://minecraft.curseforge.com/projects/architecturecraft/files/2352554) Curseforge
