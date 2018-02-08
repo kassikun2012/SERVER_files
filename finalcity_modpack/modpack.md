@@ -1,7 +1,7 @@
 
-# Modpack 0.0.7 Minecraft 1.7.10
- - [FINALCITY modpack 0.0.7](https://www.dropbox.com/s/bj95qxheexiicwz/finalcitymodconfig0.0.7.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.0.7](Finalcitytwitch.zip) その手の人向け
+# Modpack 0.0.8 Minecraft 1.7.10
+ - [FINALCITY modpack 0.0.8](https://www.dropbox.com/s/27ak4mksri5fvq1/finalcitymodconfig0.0.8.zip?dl=0) Dropbox  
+ - [FINALCITY twitchpack 0.0.8](Finalcitytwitch.zip) その手の人向け
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](https://www.dropbox.com/sh/6f50pthzwuf9bhh/AADRUPXRXjg4f3fA4FlbP5m0a?dl=0) Dropbox
@@ -107,6 +107,7 @@
  - [Totemic-1.7.10-0.6.2.jar](https://minecraft.curseforge.com/projects/totemic/files/2273691) Curseforge
  - [TravellersGear-1.7.10-1.16.6.jar](https://minecraft.curseforge.com/projects/travellers-gear/files/2262112) Curseforge
  - [twilightforest-1.7.10-2.3.7.jar](https://minecraft.curseforge.com/projects/the-twilight-forest/files/2238492) Curseforge
+ - [vending-v1.2.3.jar](https://minecraft.curseforge.com/projects/vending-block/files/2289924) Curseforge
  - [Waila-1.5.10_1.7.10.jar](https://minecraft.curseforge.com/projects/waila/files/2230518) Curseforge
  - [Waystones-mc1.7.10-1.0.5.jar](https://minecraft.curseforge.com/projects/waystones/files/2424015) Curseforge
  - [WirelessCraftingTerminal-1.7.10-rv2-1.8.7b.jar](https://minecraft.curseforge.com/projects/wireless-crafting-terminal/files/2307155) Curseforge
