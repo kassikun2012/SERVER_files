@@ -8,8 +8,8 @@
    - modpack一覧とそのリンク  
  2. [mod_config](mod_config)  
   - configファイル  
- 3. ~~plugins~~ 
-  - Under construction  
+ 3. [plugins_config](plugin_config)
+  - プラグインの設定ファイル
 
 ## finalcity_modpack
 modpack更新管理
@@ -22,7 +22,7 @@ modpack更新管理
 ## mod_config
  configファイル
  
-## plugins 
- 名称未定
+## plugin_config
+  pluginの設定ファイル
  
 <!--  土曜の夜は“Happy Sounds”-->
