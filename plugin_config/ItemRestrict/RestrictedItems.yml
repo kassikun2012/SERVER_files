@@ -21,8 +21,8 @@
 
 OwnershipBanned:
 
-- 6597:0:craftingupgrade:You can't get this item!
-
+- 9064:0:divisionsigil:You can't get this item!
+- 4103:0:chopstick:You can't get this item!
 
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to
 CraftingBanned:
