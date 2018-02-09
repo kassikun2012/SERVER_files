@@ -1,0 +1,305 @@
+#############################################################################
+#                                                                           #
+#                   Autorank 2 Advanced Config                              #
+#                                                                           #
+#   Please use the SimpleConfig unless you know what you are doing and      #
+#   need functionality that the SimpleConfig doesn't provide.               #
+#                                                                           #
+#############################################################################
+
+ranks:
+    visitor:
+        requirements:
+            time:
+                value: 1h
+        results:
+            rank change: visitor;resident
+            command: 'say &p got to resident' 
+
+
+    resident:
+        requirements:
+            time:
+                value: 5h
+            money:
+                value: 100
+            has item:
+                value: 5630;1
+        results:
+            rank change: resident;charged-resident
+            command: 'say &p got to charged-resident; give &p 5347 1' 
+
+
+    farmer1:
+        requirements:
+            time:
+                value: 15h
+            money:
+                value: 500
+            has item:
+                value: 5630;5
+        results:
+            rank change: farmer1;farmer2
+            command: 'say &p got to farmer2' 
+
+    engineer1:
+        requirements:
+            time:
+                value: 15h
+            money:
+                value: 500
+            has item:
+                value: 5630;5
+        results:
+            rank change: engineer1;engineer2
+            command: 'say &p got to engineer2' 
+
+    explorer1:
+        requirements:
+            time:
+                value: 15h
+            money:
+                value: 500
+            has item:
+                value: 5630;5
+        results:
+            rank change: explorer1;explorer2
+            command: 'say &p got to explorer2' 
+
+    wizard1:
+        requirements:
+            time:
+                value: 15h
+            money:
+                value: 500
+            has item:
+                value: 5630;5
+        results:
+            rank change: wizard1;wizard2
+            command: 'say &p got to wizard2' 
+
+    farmer2:
+        requirements:
+            time:
+                value: 30h
+            money:
+                value: 1000
+            has item:
+                value: 5630;10
+        results:
+            rank change: farmer2;charged-farmer2
+            command: 'say &p got to charged-farmer2; give &p 5348 1' 
+
+    engineer2:
+        requirements:
+            time:
+                value: 30h
+            money:
+                value: 1000
+            has item:
+                value: 5630;10
+        results:
+            rank change: engineer2;charged-engineer2
+            command: 'say &p got to charged-engineer2; give &p 5349 1' 
+
+    explorer2:
+        requirements:
+            time:
+                value: 30h
+            money:
+                value: 1000
+            has item:
+                value: 5630;10
+        results:
+            rank change: explorer2;charged-explorer2
+            command: 'say &p got to charged-explorer2; give &p 5350 1' 
+
+    wizard2:
+        requirements:
+            time:
+                value: 30h
+            money:
+                value: 1000
+            has item:
+                value: 5630;10
+        results:
+            rank change: wizard2;charged-wizard2
+            command: 'say &p got to charged-wizard2; give &p 5351 1' 
+
+    combiner:
+        requirements:
+            time:
+                value: 50h
+            money:
+                value: 3000
+            has item:
+                value: 5630;15
+        results:
+            rank change: combiner;charged-combiner
+            command: 'say &p got to charged-combiner; give &p 5648 1' 
+
+    skyconquester:
+        requirements:
+            time:
+                value: 50h
+            money:
+                value: 3000
+            has item:
+                value: 5630;15
+        results:
+            rank change: skyconquester;charged-skyconquester
+            command: 'say &p got to charged-skyconquester; give &p 5650 1' 
+
+    stranger:
+        requirements:
+            time:
+                value: 50h
+            money:
+                value: 3000
+            has item:
+                value: 5630;15
+        results:
+            rank change: stranger;charged-stranger
+            command: 'say &p got to charged-stranger; give &p 5649 1' 
+
+    woodman:
+        requirements:
+            time:
+                value: 50h
+            money:
+                value: 3000
+            has item:
+                value: 5630;15
+        results:
+            rank change: woodman;charged-woodman
+            command: 'say &p got to charged-woodman; give &p 5627 1' 
+
+    forester:
+        requirements:
+            time:
+                value: 100h
+            money:
+                value: 5000
+            has item:
+                value: 5630;30
+        results:
+            rank change: forester;URANUS
+            command: 'say &p got to URANUS'
+
+    technomancer:
+        requirements:
+            time:
+                value: 100h
+            money:
+                value: 5000
+            has item:
+                value: 5630;30
+        results:
+            rank change: technomancer;URANUS
+            command: 'say &p got to URANUS'
+
+    EXmachina:
+        requirements:
+            time:
+                value: 100h
+            money:
+                value: 5000
+            has item:
+                value: 5630;30
+        results:
+            rank change: EXmachina;MOEBIUS
+            command: 'say &p got to MOEBIUS'
+
+    saduj:
+        requirements:
+            time:
+                value: 100h
+            money:
+                value: 5000
+            has item:
+                value: 5630;30
+        results:
+            rank change: saduj;MOEBIUS
+            command: 'say &p got to MOEBIUS'
+
+    URANUS:
+        requirements:
+            time:
+                value: 200h
+            money:
+                value: 10000
+            has item:
+                value: 5630;60
+        results:
+            rank change: URANUS;TOKIO
+            command: 'say &p got to TOKIO'
+
+    MOEBIUS:
+        requirements:
+            time:
+                value: 200h
+            money:
+                value: 10000
+            has item:
+                value: 5630;60
+        results:
+            rank change: MOEBIUS;TOKIO
+            command: 'say &p got to TOKIO'
+
+    TOKIO:
+        requirements:
+            money:
+                value: 200000
+        results:
+            rank change: TOKIO;TT
+            command: 'say &p got to TT!!'
+
+    TT:
+        requirements:
+            money:
+                value: 400000
+        results:
+            rank change: TT;TTT
+            command: 'say &p got to TTT!!'
+
+
+            
+# new requirements and results can be added by other plugins that hook into the Autorank API
+# these are the ones that are included in the main plugin:
+# 
+#   requirements:
+#       time: 1d 1h 1m
+#       exp: 20 (level)
+#       money: 2000 (requires vault ! Player has to have at least this amount of money)
+#       world: world_nether (player has to be in this world to get ranked)
+#       gamemode: 1 (player has to have a certain gamemode, 0 = Survival mode, 1 = Creative mode, 2 = Adventure mode)
+#       has item: id(;amount;data;name) (checks the players inventory for the item, the name would be the display name of the item)
+#       blocks broken: id(;amount;data;name) (a player has to have broken x amount blocks of item id and data) (Requires Stats) (when no data or amount is given, it will check total blocks)
+#       Example: break 10 magenta wool would be: 'blocks broken: 35;10;2' 35 = itemid, 10 = amount, 2 = damagevalue
+#       blocks placed: id(;amount;data) (a player has to have placed x amount blocks of item id and data) (Requires Stats) (when no data or amount is given, it will check total blocks)
+#       votes: 10 (player has to have voted at least 10 times) (Requires Stats and Votifier)
+#       damage taken: 10 (player has to have taken 10 damage) (damage is not counted in hearts) (Requires Stats)
+#       mobs killed: 5;spider (player has to have killed 5 spiders) (if no entity is specified, then any kill counts) (Requires Stats) (for a list of entities: http://jd.bukkit.org/rb/apidocs/org/bukkit/entity/EntityType.html)
+#       location: x;y;z;world;radius (player has to be in a location or within its radius)
+#       faction power: 10 (Amount of power a faction has to have) (Requires Factions)
+#       players killed: 10 (Player has to kill at least 10 players) (Requires Stats)
+#       global time: 10d 1h 5m (Player has to be online for at least 10 days, 1 hour and 5 mins) (Global time is the accumulated time over all servers you have connected the MySQL database with)
+#       total time: 50d 1h (Player has to be with this server for at least 50 days and 1 hour) (The time from when the player joined for the first time is the reference point. This means that when a player has joined 3 weeks ago, his 'total time' = 3 weeks)
+#       blocks moved: 1000;0 (Player has to move at least an x amount of blocks. Second argument is what kind of movement: 0=walk, 1=boat, 2=train, 3=pig, 4=pig in train, 5=horse) (Need Stats for this)
+#       worldguard region: TestRegion (Player has to be in a certain WorldGuard region) (requires WorldGuard)
+#       mcmmo skill level: 100;mining (Player has to have at least level 100 in mining) (requires McMMO)
+#       mcmmo power level: 100 (Player has to have at least power level 100) (requires McMMO)
+#       permission: i.need.a.permission (Player has to have this permission)
+#       fish caught: 10 (Player has to have caught at least 10 fish) (requires Stats)
+#       items crafted: 7 (Player has to have crafted at least 7 items) (requires Stats)
+#       times sheared: 15 (Player has to have sheared at least 15 sheep) (requires Stats)
+#
+#   results:
+#       rank change: new-rank
+#       rank change: old-rank; new-rank
+#       rank change: old-rank; new-rank; world (only works for permissions plugins that support this)
+#       message: 'You got ranked up'
+#       command: 'say &p hi; give &p 1 100'(executes a console command. &p will be replaced by the player name) You can perform more commands with the ';' sign.
+#       effect: STEP_SOUND;8 (first argument is the effect name, second is the effect data. For a list of possible effects go to http://jd.bukkit.org/rb/doxygen/d8/db9/enumorg_1_1bukkit_1_1Effect.html)
+#       tp: x;y;z;world;yaw;pitch (tp: 0;0;0;world_nether;1.0;2.0)
+#       firework: target;power;type;R;G;B (Spawn a firework with on a player or spawn, with specified power, type and RGB colour) (target can be 'player' or 'spawn', power is an integer, type is a type (see http://jd.bukkit.org/rb/doxygen/d0/d54/enumorg_1_1bukkit_1_1FireworkEffect_1_1Type.html), R;G;B is a RGB colour code (see http://www.rapidtables.com/web/color/RGB_Color.htm))

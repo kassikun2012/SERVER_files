@@ -1,0 +1,112 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1rank up menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'cw'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling; tell: &eYou opened the rank up menu.'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 5351
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+poopoo:
+  COMMAND: 'tell: manu closed'
+  NAME: 'charged-resident rank up menu'
+  LORE:
+    - '複合トライヴ tier3'
+  ID: 5649
+  POSITION-X: 5
+  POSITION-Y: 1
+
+
+test-from-console1:
+  REQUIRED-ITEM: '5351'
+  COMMAND: 'console: pex user {player} group set stranger; console: Say {player} got to stranger!'
+  NAME: '&cstranger'
+  LORE:
+    - '異なる世界軸の始まり'
+  ID: 1290
+  DATA-VALUE: 5
+  POSITION-X: 4
+  POSITION-Y: 4
+
+
+test-from-console2:
+  REQUIRED-ITEM: '5351'
+  COMMAND: 'console: pex user {player} group set woodman; console: Say {player} got to woodman!'
+  NAME: '&cwoodman'
+  LORE:
+    - '森に住む木人'
+  ID: 1291
+  DATA-VALUE: 10
+  POSITION-X: 6
+  POSITION-Y: 4
+
+
+
+
+poopoo55:
+  NAME: '@@@'
+  LORE:
+    - '@@@'
+  ID: 5648
+  POSITION-X: 1
+  POSITION-Y: 1
+
+
+poopoo555:
+  NAME: '@@@'
+  LORE:
+    - '@@@'
+  ID: 5648
+  POSITION-X: 9
+  POSITION-Y: 1
+
+
+poopoo5555:
+  NAME: '@@@'
+  LORE:
+    - '@@@'
+  ID: 5648
+  POSITION-X: 1
+  POSITION-Y: 6
+
+
+poopoo55555:
+  NAME: '@@@'
+  LORE:
+    - '@@@'
+  ID: 5648
+  POSITION-X: 9
+  POSITION-Y: 6

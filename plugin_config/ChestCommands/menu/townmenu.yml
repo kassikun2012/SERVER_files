@@ -1,0 +1,260 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1TOWNY TERMINAL'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'tmenu'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling; tell: &eYou opened the towny menu.'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+poopoo:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 1
+  POSITION-Y: 1
+poopoo1:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 2
+  POSITION-Y: 1
+poopoo2:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 3
+  POSITION-Y: 1
+poopoo3:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 4
+  POSITION-Y: 1
+poopoo4:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 5
+  POSITION-Y: 1
+poopoo5:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 6
+  POSITION-Y: 1
+poopoo6:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 7
+  POSITION-Y: 1
+poopoo7:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 8
+  POSITION-Y: 1
+poopoo8:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 9
+  POSITION-Y: 1
+
+poopoo54:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 1
+  POSITION-Y: 6
+poopoo144:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 2
+  POSITION-Y: 6
+poopoo244:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 3
+  POSITION-Y: 6
+poopoo344:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 4
+  POSITION-Y: 6
+poopoo4444:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 5
+  POSITION-Y: 6
+poopoo5444:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 6
+  POSITION-Y: 6
+poopoo64444:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 7
+  POSITION-Y: 6
+poopoo74444:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 8
+  POSITION-Y: 6
+poopoo84444:
+  COMMAND: 'tell: manu closed'
+  NAME: 'FREEBUG TERMINAL v1.0a'
+  LORE:
+    - '/fでもこの画面を開く事ができる'
+  ID: 5645
+  POSITION-X: 9
+  POSITION-Y: 6
+towninfo:
+  COMMAND: 'town'
+  NAME: '&eYour Town Infomation'
+  LORE:
+    - '{player}の所属Townの情報を表示する'
+    - ''
+    - 'TownとはPlayerの集まりのことで、町を表します。'
+    - '参加募集をしている町もあるので探してみましょう!'
+  ID: 5647
+  POSITION-X: 4
+  POSITION-Y: 2
+nationinfo:
+  COMMAND: 'nation'
+  NAME: '&eYour nation Infomation'
+  LORE:
+    - '{player}の所属Nationの情報を表示する'
+    - ''
+    - 'NationとはTownの共同体のことで、国を表します。'
+    - '国を作ると様々な特典や便利なことがあります。'
+  ID: 5647
+  POSITION-X: 6
+  POSITION-Y: 2
+map:
+  COMMAND: 'towny map'
+  NAME: '&eTown Map'
+  LORE:
+    - '周辺のTownを表示します'
+  ID: 5654:637
+  DATA-VALUE: 637
+  POSITION-X: 5
+  POSITION-Y: 5
+mayor:
+  COMMAND: 'tell: こっから先は一方通行だ、退いてもらうぜ。(Message 01)'
+  NAME: '&eTown Owner Menu'
+  LORE:
+    - 'TownのMayor/Assistant用のメニューを開きます。'
+    - 'でもまだできてません。'
+  ID: 5644
+  POSITION-X: 1
+  POSITION-Y: 5
+townlist:
+  COMMAND: 'town list'
+  NAME: '&eTown List'
+  LORE:
+    - '今あるTownのリストを表示します'
+    - '[Town名][人数] のように表示されます。'
+    - '入りたいTownを見つけよう！'
+  ID: 5654:1216
+  DATA-VALUE: 329
+  POSITION-X: 9
+  POSITION-Y: 5
+townytime:
+  COMMAND: 'towny time'
+  NAME: '&ePay Clock'
+  LORE:
+    - '次の維持費支払いまでの時間を表示します。'
+    - '現在の維持費は 5peso/day です。'
+    - 'TownBankに入金するのを忘れないようにしましょう。'
+  ID: 5654:641
+  DATA-VALUE: 641
+  POSITION-X: 2
+  POSITION-Y: 5
+residenttop:
+  COMMAND: 'towny top residents'
+  NAME: '&eResidents Ranking'
+  LORE:
+    - '住人の数のランキングを表示します'
+    - 'Townの住人数によって町やリーダーの称号が変わる...?'
+  ID: 5654:1048
+  POSITION-X: 8
+  POSITION-Y: 5
+landtop:
+  COMMAND: 'towny top land'
+  NAME: '&eLand Ranking'
+  LORE:
+    - '土地の数のランキングを表示します。'
+    - 'しかし、土地の数では称号は変わらない。'
+  ID: 2
+  POSITION-X: 7
+  POSITION-Y: 5

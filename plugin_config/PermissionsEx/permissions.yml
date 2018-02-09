@@ -1,0 +1,233 @@
+users:
+  f3592ee1-8b4a-480c-a5d5-330c788cd012:
+    group:
+    - visitor
+    permissions:
+    - permissions.manage.reload
+    - permissions.*
+    - scs.create.unlimited
+    - essentials.setspawn
+    - casinoslots.admin
+    - coloredtags.reload
+    - lottery.admin.addtopot
+    - lottery.admin.editconfig
+    - towny.command.townyadmin.*
+    - towny.chat.general
+    - chestcommands.command.reload
+    - chestcommands.command.reload
+    - chestcommands.command.open
+    - chestcommands.command.open.others
+    - chestcommands.command.list
+    - randombox.*
+    - worldguard.*
+    - towny.chat.mod
+    - chestcommands.open.core.yml
+    - minecraft.command.effect
+    - portal.sender
+    - portal.receiver
+    - portal.twoway
+    - portal.delete
+    - worldedit.selection.pos
+    - worldedit.wand
+    - essentials.broadcast
+    - essentials.balancetop
+    - essentials.balancetop
+    - essentials.vanish
+    - essentials.god
+    options:
+      name: a0n0f
+  84c641f7-d888-43fe-94c9-f4327f574fbc:
+    group:
+    - visitor
+    permissions:
+    - ItemRestrict.bypass.5304.0.own
+    - customnpcs.npc.gui
+    - customnpcs.npc.create
+    - customnpcs.npc.edit
+    - customnpcs.npc.delete
+    - customnpcs.npc.reset
+    - customnpcs.npc.freeze
+    - customnpcs.npc.ai
+    - customnpcs.npc.stats
+    - customnpcs.npc.display
+    - customnpcs.npc.inventory
+    - customnpcs.npc.advanced
+    - customnpcs.pather
+    - customnpcs.mounter
+    - customnpcs.villager
+    - towny.chat.mod
+    - customnpcs.spawner.mob
+    - customnpcs.spawner.create
+    - customnpcs.global.playerdata
+    - customnpcs.global.bank
+    - customnpcs.global.dialog
+    - customnpcs.global.transport
+    - customnpcs.global.faction
+    - customnpcs.global.quest
+    - customnpcs.global.recipe
+    - customnpcs.global.naturalspawn
+    - customnpcs.*
+    options:
+      name: eache
+groups:
+  visitor:
+    permissions:
+    - essentials.kits.new
+    - chestcommands.open.terminal.yml
+    - essentials.list
+    - essentials.motd
+    - essentials.msg
+    - essentials.suicide
+    - essentials.afk
+    - essentials.afk.auto
+    - iConomy.holdings
+    - iConomy.payment
+    - randombox.openbox
+    - autorank.check
+    - autorank.leaderboard
+    - scs.use
+    - portal.use.*
+    - automessage.receive.*
+    - cofh.*
+    - casinoslots.use.*
+    - essentials.gc
+    - randombox.main
+    - towny.wild.*
+    - towny.chat.local
+    - towny.chat.general
+    - towny.chat.town
+    - towny.chat.nation
+    - towny.command.plot.*
+    - towny.command.town.*
+    - essentials.silentquit
+    options:
+      default: true
+  resident:
+    inheritance:
+    - visitor
+    permissions:
+    - scs.create.buy
+    - scs.create.sell
+    - scs.manage
+    - scs.remove
+    - essentials.spawn
+    options: {}
+  charged-resident:
+    inheritance:
+    - resident
+    permissions:
+    - chestcommands.open.cresident.yml
+    options: {}
+  farmer1:
+    inheritance:
+    - charged-resident
+    permissions:
+    options: {}
+  farmer2:
+    inheritance:
+    - farmer1
+    permissions:
+    options: {}
+  charged-farmer2:
+    inheritance:
+    - farmer2
+    - chestcommands.open.cf2.yml
+    permissions:
+    options: {}
+  farmer3a:
+    inheritance:
+    - charged-farmer2
+    permissions:
+    options: {}
+  farmer3b:
+    inheritance:
+    - charged-farmer2
+    permissions:
+    options: {}
+  city_dev_fa:
+    inheritance:
+    - farmer3a
+    permissions:
+    options: {}
+  city_dev_fb:
+    inheritance:
+    - farmer3b
+    permissions:
+    options: {}
+  engineer1:
+    inheritance:
+    - charged-resident
+    permissions:
+    options: {}
+  engineer2:
+    inheritance:
+    - engineer1
+    permissions:
+    options: {}
+  charged-engineer2:
+    permissions:
+    inheritance:
+    - engineer2
+    - chestcommands.open.ce2.yml
+    options: {}
+  engineer3a:
+    inheritance:
+    - charged-engineer2
+    permissions:
+    options: {}
+  engineer3b:
+    inheritance:
+    - charged-engineer2
+    permissions:
+    options: {}
+  city_dev_ea:
+    inheritance:
+    - engineer3a
+    permissions:
+    options: {}
+  city_dev_eb:
+    inheritance:
+    - engineer3b
+    permissions:
+    options: {}
+  wizard1:
+    inheritance:
+    - charged-resident
+    permissions:
+    options: {}
+  wizard2:
+    inheritance:
+    - wizard1
+    permissions:
+    options: {}
+  charged-wizard2:
+    permissions:
+    inheritance:
+    - wizard2
+    - chestcommands.open.cw2.yml
+    options: {}
+  wizard3a:
+    inheritance:
+    - charged-wizard2
+    permissions:
+    options: {}
+  wizard3b:
+    inheritance:
+    - charged-wizard2
+    permissions:
+    options: {}
+  city_dev_wa:
+    inheritance:
+    - wizard3a
+    permissions:
+    options: {}
+  city_dev_wb:
+    inheritance:
+    - wizard3b
+    permissions:
+    options: {}
+worlds:
+  nether:
+    inheritance:
+    - world
+schema-version: 1

@@ -1,0 +1,40 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1FREEBUG TERMINAL'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'core'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+
+stop:
+  COMMAND: 'console: stop'
+  NAME: '&e//サーバーリスタート圧倒的同意を複数から得た時に発動させてください'
+  ID: 6949
+  DATA-VALUE: 112
+  POSITION-X: 5
+  POSITION-Y: 3
