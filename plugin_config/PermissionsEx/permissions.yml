@@ -1,7 +1,7 @@
 users:
   f3592ee1-8b4a-480c-a5d5-330c788cd012:
     group:
-    - visitor
+    - 0000
     permissions:
     - permissions.manage.reload
     - permissions.*
@@ -38,7 +38,7 @@ users:
       name: a0n0f
   84c641f7-d888-43fe-94c9-f4327f574fbc:
     group:
-    - visitor
+    - 0000
     permissions:
     - ItemRestrict.bypass.5304.0.own
     - customnpcs.npc.gui
@@ -70,8 +70,9 @@ users:
     options:
       name: eache
 groups:
-  visitor:
+  0000:
     permissions:
+    - essentials.spawn
     - essentials.kits.new
     - chestcommands.open.terminal.yml
     - essentials.list
@@ -92,140 +93,173 @@ groups:
     - casinoslots.use.*
     - essentials.gc
     - randombox.main
-    - towny.wild.*
-    - towny.chat.local
-    - towny.chat.general
-    - towny.chat.town
-    - towny.chat.nation
-    - towny.command.plot.*
-    - towny.command.town.*
     - essentials.silentquit
     options:
       default: true
-  resident:
+  0010:
     inheritance:
-    - visitor
+    - 0000
     permissions:
-    - scs.create.buy
-    - scs.create.sell
-    - scs.manage
-    - scs.remove
     - essentials.spawn
     options: {}
-  charged-resident:
+  C010:
     inheritance:
-    - resident
+    - 0010
     permissions:
     - chestcommands.open.cresident.yml
     options: {}
-  farmer1:
+  0E10:
     inheritance:
-    - charged-resident
+    - C010
     permissions:
     options: {}
-  farmer2:
+  CE10:
     inheritance:
-    - farmer1
+    - 0E10
     permissions:
     options: {}
-  charged-farmer2:
+  0E20:
     inheritance:
-    - farmer2
-    - chestcommands.open.cf2.yml
+    - CE10
     permissions:
     options: {}
-  farmer3a:
+  CE20:
     inheritance:
-    - charged-farmer2
+    - 0E20
     permissions:
     options: {}
-  farmer3b:
+  0E3A:
     inheritance:
-    - charged-farmer2
+    - CE20
     permissions:
     options: {}
-  city_dev_fa:
+  0E3B:
     inheritance:
-    - farmer3a
+    - CE20
     permissions:
     options: {}
-  city_dev_fb:
+  CE3A:
     inheritance:
-    - farmer3b
+    - 0E3A
     permissions:
     options: {}
-  engineer1:
+  CE3B:
     inheritance:
-    - charged-resident
+    - 0E3B
     permissions:
     options: {}
-  engineer2:
+  0E4A:
     inheritance:
-    - engineer1
+    - CE3A
     permissions:
     options: {}
-  charged-engineer2:
-    permissions:
+  0E4B:
     inheritance:
-    - engineer2
-    - chestcommands.open.ce2.yml
-    options: {}
-  engineer3a:
-    inheritance:
-    - charged-engineer2
+    - CE3B
     permissions:
     options: {}
-  engineer3b:
+  0F10:
     inheritance:
-    - charged-engineer2
+    - C010
     permissions:
     options: {}
-  city_dev_ea:
+  CF10:
     inheritance:
-    - engineer3a
+    - 0F10
     permissions:
     options: {}
-  city_dev_eb:
+  0F20:
     inheritance:
-    - engineer3b
+    - CF10
     permissions:
     options: {}
-  wizard1:
+  CF20:
     inheritance:
-    - charged-resident
+    - 0F20
     permissions:
     options: {}
-  wizard2:
+  0F3A:
     inheritance:
-    - wizard1
+    - CF20
     permissions:
     options: {}
-  charged-wizard2:
-    permissions:
+  0F3B:
     inheritance:
-    - wizard2
-    - chestcommands.open.cw2.yml
-    options: {}
-  wizard3a:
-    inheritance:
-    - charged-wizard2
+    - CF20
     permissions:
     options: {}
-  wizard3b:
+  CF3A:
     inheritance:
-    - charged-wizard2
+    - 0F3A
     permissions:
     options: {}
-  city_dev_wa:
+  CF3B:
     inheritance:
-    - wizard3a
+    - 0F3B
     permissions:
     options: {}
-  city_dev_wb:
+  0F4A:
     inheritance:
-    - wizard3b
+    - CF3A
     permissions:
     options: {}
+  0F4B:
+    inheritance:
+    - CF3B
+    permissions:
+    options: {}
+  0W10:
+    inheritance:
+    - C010
+    permissions:
+    options: {}
+  CW10:
+    inheritance:
+    - 0W10
+    permissions:
+    options: {}
+  0W20:
+    inheritance:
+    - CW10
+    permissions:
+    options: {}
+  CW20:
+    inheritance:
+    - 0W20
+    permissions:
+    options: {}
+  0W3A:
+    inheritance:
+    - CW20
+    permissions:
+    options: {}
+  0W3B:
+    inheritance:
+    - CW20
+    permissions:
+    options: {}
+  CW3A:
+    inheritance:
+    - 0W3A
+    permissions:
+    options: {}
+  CW3B:
+    inheritance:
+    - 0W3B
+    permissions:
+    options: {}
+  0W4A:
+    inheritance:
+    - CW3A
+    permissions:
+    options: {}
+  0W4B:
+    inheritance:
+    - CW3B
+    permissions:
+    options: {}
+
+
 worlds:
   nether:
     inheritance:
