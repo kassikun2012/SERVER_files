@@ -1,7 +1,7 @@
 users:
   f3592ee1-8b4a-480c-a5d5-330c788cd012:
     group:
-    - 0000
+    - E100
     permissions:
     - permissions.manage.reload
     - permissions.*
@@ -38,7 +38,7 @@ users:
       name: a0n0f
   84c641f7-d888-43fe-94c9-f4327f574fbc:
     group:
-    - 0000
+    - V000
     permissions:
     - ItemRestrict.bypass.5304.0.own
     - customnpcs.npc.gui
@@ -70,7 +70,7 @@ users:
     options:
       name: eache
 groups:
-  0000:
+  V000:
     permissions:
     - essentials.spawn
     - essentials.kits.new
@@ -96,170 +96,138 @@ groups:
     - essentials.silentquit
     options:
       default: true
-  0010:
+  R000:
     inheritance:
-    - 0000
+    - V000
     permissions:
     - essentials.spawn
     options: {}
-  C010:
+  R00C:
     inheritance:
-    - 0010
+    - R000
     permissions:
     - chestcommands.open.cresident.yml
     options: {}
-  0E10:
+  E100:
     inheritance:
-    - C010
-    permissions:
+    - R00C
     options: {}
-  CE10:
+  E10C:
     inheritance:
-    - 0E10
-    permissions:
+    - E100
     options: {}
-  0E20:
+  E200:
     inheritance:
-    - CE10
-    permissions:
+    - E10C
     options: {}
-  CE20:
+  E20C:
     inheritance:
-    - 0E20
-    permissions:
+    - E200
     options: {}
-  0E3A:
+  E3A0:
     inheritance:
-    - CE20
-    permissions:
+    - E20C
     options: {}
-  0E3B:
+  E3B0:
     inheritance:
-    - CE20
-    permissions:
+    - E20C
     options: {}
-  CE3A:
+  E3AC:
     inheritance:
-    - 0E3A
-    permissions:
+    - E3A0
     options: {}
-  CE3B:
+  E3BC:
     inheritance:
-    - 0E3B
-    permissions:
+    - E3B0
     options: {}
-  0E4A:
+  E4A0:
     inheritance:
-    - CE3A
-    permissions:
+    - E3AC
     options: {}
-  0E4B:
+  E4B0:
     inheritance:
-    - CE3B
-    permissions:
+    - E3BC
     options: {}
-  0F10:
+  F100:
     inheritance:
-    - C010
-    permissions:
+    - R00C
     options: {}
-  CF10:
+  F10C:
     inheritance:
-    - 0F10
-    permissions:
+    - F100
     options: {}
-  0F20:
+  F200:
     inheritance:
-    - CF10
-    permissions:
+    - F10C
     options: {}
-  CF20:
+  F20C:
     inheritance:
-    - 0F20
-    permissions:
+    - F200
     options: {}
-  0F3A:
+  F3A0:
     inheritance:
-    - CF20
-    permissions:
+    - F20C
     options: {}
-  0F3B:
+  F3B0:
     inheritance:
-    - CF20
-    permissions:
+    - F20C
     options: {}
-  CF3A:
+  F3AC:
     inheritance:
-    - 0F3A
-    permissions:
+    - F3A0
     options: {}
-  CF3B:
+  F3BC:
     inheritance:
-    - 0F3B
-    permissions:
+    - F3B0
     options: {}
-  0F4A:
+  F4A0:
     inheritance:
-    - CF3A
-    permissions:
+    - F3AC
     options: {}
-  0F4B:
+  F4B0:
     inheritance:
-    - CF3B
-    permissions:
+    - F3BC
     options: {}
-  0W10:
+  W100:
     inheritance:
-    - C010
-    permissions:
+    - W00C
     options: {}
-  CW10:
+  W10C:
     inheritance:
-    - 0W10
-    permissions:
+    - W100
     options: {}
-  0W20:
+  W200:
     inheritance:
-    - CW10
-    permissions:
+    - W10C
     options: {}
-  CW20:
+  W20C:
     inheritance:
-    - 0W20
-    permissions:
+    - W200
     options: {}
-  0W3A:
+  W3A0:
     inheritance:
-    - CW20
-    permissions:
+    - W20C
     options: {}
-  0W3B:
+  W3B0:
     inheritance:
-    - CW20
-    permissions:
+    - W20C
     options: {}
-  CW3A:
+  W3AC:
     inheritance:
-    - 0W3A
-    permissions:
+    - W3A0
     options: {}
-  CW3B:
+  W3BC:
     inheritance:
-    - 0W3B
-    permissions:
+    - W3B0
     options: {}
-  0W4A:
+  W4A0:
     inheritance:
-    - CW3A
-    permissions:
+    - W3AC
     options: {}
-  0W4B:
+  W4B0:
     inheritance:
-    - CW3B
-    permissions:
+    - W3BC
     options: {}
-
-
 worlds:
   nether:
     inheritance:
