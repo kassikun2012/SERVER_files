@@ -1,0 +1,47 @@
+#.
+#.    ######################
+#.    #       GROUPS       #
+#.    ######################
+#.
+#. These are the names of the groups defined in you permissions plugin.
+#. If a user has multiple groups, the group with the highest rank will
+#. be chosen, as your chat plugin does.
+#.
+#. Prefixes or suffixes CANNOT be longer than 16 chars, including colors.
+#.
+#. <name> is the separator of prefix and suffix. If you don't include it,
+#. the string will used as prefix.
+#.
+0000: '<&70000&f> '
+0010: '<&70010&f> '
+C010: '<&7C010&f> '
+0E10: '<&f0E10&f> '
+CE10: '<&fCE10&f> '
+0E20: '<&f0E20&f> '
+CE20: '<&fCE20&f> '
+0E3A: '<&10E3A&f> '
+0E3B: '<&10E3B&f> '
+CE3A: '<&1CE3A&f> '
+CE3B: '<&1CE3B&f> '
+0E4A: '<&90E4A&f> '
+0E4B: '<&90E4B&f> '
+0F10: '<&f0F10&f> '
+CF10: '<&fCF10&f> '
+0F20: '<&f0F20&f> '
+CF20: '<&fCF20&f> '
+0F3A: '<&20F3A&f> '
+0F3B: '<&20F3B&f> '
+CF3A: '<&2CF3A&f> '
+CF3B: '<&2CF3B&f> '
+0F4A: '<&a0F4A&f> '
+0F4B: '<&a0F4B&f> '
+0W10: '<&f0W10&f> '
+CW10: '<&fCW10&f> '
+0W20: '<&f0W20&f> '
+CW20: '<&fCW20&f> '
+0W3A: '<&50W3A&f> '
+0W3B: '<&50W3B&f> '
+CW3A: '<&5CW3A&f> '
+CW3B: '<&5CW3B&f> '
+0W4A: '<&d0W4A&f> '
+0W4B: '<&d0W4B&f> '
