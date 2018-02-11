@@ -20,9 +20,59 @@
 
 
 OwnershipBanned:
-
-- 9064:0:divisionsigil:You can't get this item!
+#E1
+- 3305:*:machine_frame:You can't get this item!
+- 3294:0:redstone_furnace:You can't get this item!
+- 3294:1:pulverizer:You can't get this item!
+- 3294:2:sawmill:You can't get this item!
+- 3297:1:leadstone_energy_cell:You can't get this item!
+- 7034:0:engineer's_hammer:You can't get this item!
+- 6263:1:basic_gear:You can't get this item!
+- 2253:0:sagmill:You can't get this item!
+- 2254:0:alloysmelter:You can't get this item!
+#E2
+- 2276:0:crafter:You can't get this item!
+- 2289:0:inventorypanel:You can't get this item!
+- 3464:0:autoprojecttable:You can't get this item!
+- 3391:0:manager:You can't get this item!
+#F1
+- 165:0:teamaker:You can't get this item!
+- 166:0:blackteamaker:You can't get this item!
+- 180:0:genatsujyouryuuki:You can't get this item!
+- 178:0:foodprocessor:You can't get this item!
+- 168:0:donabe:You can't get this item!
+- 169:0:donabe:You can't get this item!
+- 177:0:tyouriyouteppan:You can't get this item!
+- 7363:0:pot:You can't get this item!
+- 2896:0:pot:You can't get this item!
+- 7369:0:juicer:You can't get this item!
+#F2
+- 2903:0:market:You can't get this item!
+#F3ab
+- 4253:0:market:You can't get this item!
+#W1
+- 180:0:genatsujyouryuuki:You can't get this item!
+- 1634:*:petal_apothecary:You can't get this item!
+- 5560:*:thaumwand:You can't get this item!
+- 1606:15:arcaneworkbench:You can't get this item!
+- 8178:14:mutandis:You can't get this item!
+- 8178:15:mutandis:You can't get this item!
+- 3185:0:altar:You can't get this item!
+#W2
+- 1678:0:terrestrial_a_p:You can't get this item!
+- 1642:0:mana_pylon:You can't get this item!
+- 5577:*:void:You can't get this item!
+- 5010:0:runepouch:You can't get this item!
+#W3a
+- 8178:8:broom:You can't get this item!
+- 8178:9:broom:You can't get this item!
+#W3b
+- 241:1:panache:You can't get this item!
+- 1642:2:gaia_pylon:You can't get this item!
+#other
+- 9064:0:sigil:You can't get this item!
 - 4103:0:chopstick:You can't get this item!
+
 
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to
 CraftingBanned:
