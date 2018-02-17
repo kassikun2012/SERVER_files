@@ -1,7 +1,7 @@
 
-# Modpack 0.0.8 Minecraft 1.7.10
- - [FINALCITY modpack 0.0.8](https://www.dropbox.com/s/27ak4mksri5fvq1/finalcitymodconfig0.0.8.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.0.8](Finalcitytwitch.zip) その手の人向け
+# Modpack 0.0.9 Minecraft 1.7.10
+ - [FINALCITY modpack 0.0.9](https://www.dropbox.com/s/yltumelxdi0arlf/finalcitymodconfig0.0.9.zip?dl=0) Dropbox  
+ - [FINALCITY twitchpack 0.0.9](Finalcitytwitch.zip) その手の人向け
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](https://www.dropbox.com/sh/6f50pthzwuf9bhh/AADRUPXRXjg4f3fA4FlbP5m0a?dl=0) Dropbox
@@ -41,7 +41,7 @@
  - [extrautilities-1.2.12.jar](https://minecraft.curseforge.com/projects/extra-utilities/files/2264383) Curseforge
  - [forestry_1.7.10-4.2.16.64.jar](https://minecraft.curseforge.com/projects/forestry/files/2333823) Curseforge
  - [fossilsarcheology-7.3.2.jar](https://minecraft.curseforge.com/projects/fossils-and-archeology-revival/files/2321502) Curseforge
- - [freebug.jar](https://github.com/finalcity/freebug.jar) *Originalmod*
+ - [freebug_1.7.10_0.0.5.jar](https://github.com/finalcity/freebug.jar) *Originalmod*
  - [Galacticraft-Planets-1.7-3.0.12.497.jar](http://ci.micdoodle8.com/job/Galacticraft-1.7/497/artifact/Forge/build/libs/Galacticraft-Planets-1.7-3.0.12.497.jar)
  - [GalacticraftCore-1.7-3.0.12.497.jar](http://ci.micdoodle8.com/job/Galacticraft-1.7/497/artifact/Forge/build/libs/GalacticraftCore-1.7-3.0.12.497.jar)
  - [Hats-4.0.1.jar](https://minecraft.curseforge.com/projects/hats/files/2232170) Curseforge
@@ -56,6 +56,7 @@
  - [llibrary-1.5.1-1.7.10.jar](https://minecraft.curseforge.com/projects/llibrary/files/2319767) Curseforge
  - [Mantle-1.7.10-0.3.2b.jar](https://minecraft.curseforge.com/projects/mantle/files/2264244) Curseforge
  - [Mariculture-Deluxe-1.7.10-1.2.4.2a-5.jar](https://minecraft.curseforge.com/projects/mariculture/files/2309889) Curseforge
+ - [Mekanism-1.7.10-9.1.1.1031.jar](https://minecraft.curseforge.com/projects/mekanism/files/2475797) Curseforge
  - [MetallurgyCore-1.7.10-4.0.4.18.jar](https://minecraft.curseforge.com/projects/metallurgy-core/files/2215714) Curseforge
  - [meteors-1.7.10-2.14.3.jar](https://minecraft.curseforge.com/projects/falling-meteors-mod/files/2242266) Curseforge
  - [MicdoodleCore-1.7-3.0.12.497.jar](http://ci.micdoodle8.com/job/Galacticraft-1.7/497/artifact/Forge/build/libs/MicdoodleCore-1.7-3.0.12.497.jar)
@@ -79,11 +80,9 @@
  - [Pam's HarvestCraft 1.7.10Lb.jar](https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2270206) Curseforge
  - [platforms-1.7.10-0.1.2.jar](https://minecraft.curseforge.com/projects/platforms/files/2309925) Curseforge
  - [PlayerAPI-1.7.10-1.4.jar](https://minecraft.curseforge.com/projects/player-api/files/2248928) Curseforge
- - [PlayerAPI-src-1.7.10-1.4.zip](https://www.dropbox.com/sh/wfd5j8p3hp6rhmd/AACRgjxNT176S1cma_MijD_Fa?preview=MC%201.7.10%20-%20Player%20API%20core%201.4.zip) Dropbox 多分なくていい
  - [QmunityLib-1.7.10-0.1.114-universal.jar](https://minecraft.curseforge.com/projects/qmunitylib/files/2241123) Curseforge
  - [RandomThings-2.2.4.jar](https://minecraft.curseforge.com/projects/random-things/files/2225310) Curseforge
  - [RenderPlayerAPI-1.7.10-1.4.jar](https://minecraft.curseforge.com/projects/render-player-api/files/2248933) Curseforge CLIENTONLY
- - [RenderPlayerAPI-src-1.7.10-1.4.zip](https://www.dropbox.com/sh/2nfhgvo4nh037xp/AADeghcvD5uON-c-uFuGUL6Ja?preview=MC%201.7.10%20-%20Render%20Player%20API%20core%201.4.zip) Dropbox CLIENTONLY 多分なくていい
  - [RikMuldsCore_1.0c.jar](http://www.rikmuld.com/download/corerm/1.0c)
  - [roguelike-1.7.10-1.5.0b.jar](https://minecraft.curseforge.com/projects/roguelike-dungeons/files/2294894) Curseforge
  - [RTG-1.7.10-1.1.1.6.jar](https://minecraft.curseforge.com/projects/realistic-terrain-generation/files/2445079) Curseforge
