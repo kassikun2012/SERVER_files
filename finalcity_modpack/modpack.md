@@ -1,7 +1,7 @@
 
 # Modpack 0.0.9 Minecraft 1.7.10
  - [FINALCITY modpack 0.0.9](https://www.dropbox.com/s/yltumelxdi0arlf/finalcitymodconfig0.0.9.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.0.9](Finalcitytwitch.zip) その手の人向け
+ - [FINALCITY twitchpack 0.0.9](../Finalcitytwitch.zip) その手の人向け
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](https://www.dropbox.com/sh/6f50pthzwuf9bhh/AADRUPXRXjg4f3fA4FlbP5m0a?dl=0) Dropbox
