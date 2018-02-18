@@ -1,6 +1,6 @@
 
 # Modpack 0.0.9 Minecraft 1.7.10
- - [FINALCITY modpack 0.0.9](https://www.dropbox.com/s/yltumelxdi0arlf/finalcitymodconfig0.0.9.zip?dl=0) Dropbox  
+ - [FINALCITY modpack 0.0.9](https://www.dropbox.com/s/tdio5pk2xu11a3i/finalcitymodconfig0.1.0.zip?dl=0) Dropbox  
  - [FINALCITY twitchpack 0.0.9](../Finalcitytwitch.zip) その手の人向け
 
 ## ModList
@@ -57,6 +57,7 @@
  - [Mantle-1.7.10-0.3.2b.jar](https://minecraft.curseforge.com/projects/mantle/files/2264244) Curseforge
  - [Mariculture-Deluxe-1.7.10-1.2.4.2a-5.jar](https://minecraft.curseforge.com/projects/mariculture/files/2309889) Curseforge
  - [Mekanism-1.7.10-9.1.1.1031.jar](https://minecraft.curseforge.com/projects/mekanism/files/2475797) Curseforge
+ - [MekanismGenerators-1.7.10-9.1.1.1031.jar](https://minecraft.curseforge.com/projects/mekanism/files/2475797) Curseforge
  - [MetallurgyCore-1.7.10-4.0.4.18.jar](https://minecraft.curseforge.com/projects/metallurgy-core/files/2215714) Curseforge
  - [meteors-1.7.10-2.14.3.jar](https://minecraft.curseforge.com/projects/falling-meteors-mod/files/2242266) Curseforge
  - [MicdoodleCore-1.7-3.0.12.497.jar](http://ci.micdoodle8.com/job/Galacticraft-1.7/497/artifact/Forge/build/libs/MicdoodleCore-1.7-3.0.12.497.jar)
