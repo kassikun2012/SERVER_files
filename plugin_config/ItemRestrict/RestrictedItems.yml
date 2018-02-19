@@ -21,20 +21,70 @@
 
 OwnershipBanned:
 #E1
+- 7100:2:redstone_transmission_coil:You can't get this item!
+- 7100:1:redstone_reception_coil:You can't get this item!
+- 7100:3:redstone_conductance_coil:You can't get this item!
+- 7100:0:pneumatic_servo:You can't get this item!
 - 3305:*:machine_frame:You can't get this item!
-- 3294:0:redstone_furnace:You can't get this item!
-- 3294:1:pulverizer:You can't get this item!
-- 3294:2:sawmill:You can't get this item!
 - 3297:1:leadstone_energy_cell:You can't get this item!
+
+- 3296:0:Steam_Dynamo:You can't get this item!
+- 3296:1:Magmatic_Dynamo:You can't get this item!
+- 3296:2:Compression_Dynamo:You can't get this item!
+- 3296:3:Reactant_Dynamo:You can't get this item!
+- 3296:4:Enervation_Dynamo:You can't get this item!
 - 7034:0:engineer's_hammer:You can't get this item!
+- 1602:9:Kinetic_Dynamo:You can't get this item!
+- 6264:2:binder_composite:You can't get this item!
 - 6263:1:basic_gear:You can't get this item!
-- 2253:0:sagmill:You can't get this item!
-- 2254:0:alloysmelter:You can't get this item!
+- 6262:0:basic_capasitor:You can't get this item!
+
+- 2249:0:StirlingGenerator:You can't get this item!
+- 2250:0:CombustionGenerator:You can't get this item!
+- 2251:0:ZombieGenerator:You can't get this item!
+- 2252:0:PhotovoltaicCell:You can't get this item!
+- 2252:1:AdvancedPhotovoltaicCell:You can't get this item!
+
+- 9134:0:CompressedCarbon:You can't get this item!
+- 9204:0:CompressedRedstone:You can't get this item!
+- 9188:0:CompressedDiamond:You can't get this item!
+- 9149:0:CompressedObsidian:You can't get this item!
+- 9165:0:EnrichedAlloy:You can't get this item!
+- 9241:0:ReinforcedAlloy:You can't get this item!
+- 9197:0:AtomicAlloy:You can't get this item!
+- 9213:0:ControlCircuit:You can't get this item!
+- 9213:1:ControlCircuit:You can't get this item!
+- 9213:2:ControlCircuit:You can't get this item!
+- 9213:3:ControlCircuit:You can't get this item!
+- 9184:0:ElectrolyticCore:You can't get this item!
+- 9228:0:TeleportationCore:You can't get this item!
+- 9153:0:EnergyTablet:You can't get this item!
+- 3681:8:SteelCasing:You can't get this item!
+- 9123:0:ObsidianIngot:You can't get this item!
+- 9244:0:SolarPanel:You can't get this item!
+- 3692:0:HeatGenerator:You can't get this item!
+- 3692:3:Gas-BurningGenerator:You can't get this item!
+- 3692:4:Bio-Generator:You can't get this item!
+- 3692:6:WindGenerator:You can't get this item!
+- 3692:1:SolarGenerator:You can't get this item!
+- 3692:5:Advanced Solar Generator:You can't get this item!
+
+- 2462:1:peat-firedengine:You can't get this item!
+- 2462:2:biogusengine:You can't get this item!
+- 2462:4:clockworkengine:You can't get this item!
+
 #E2
-- 2276:0:crafter:You can't get this item!
-- 2289:0:inventorypanel:You can't get this item!
-- 3464:0:autoprojecttable:You can't get this item!
-- 3391:0:manager:You can't get this item!
+- 6314:512:pyrotheum_dust:You can't get this item!
+- 3681:14:ThermalEvaporationController:You can't get this item!
+#E3a
+- 6314:140:enderium_gear:You can't get this item!
+- 3690:0:ReactorController:You can't get this item!
+#E3b
+- 6314:513:Cryotheumdust:You can't get this item!
+- 3690:0:ReactorController:You can't get this item!
+
+
+
 #F1
 - 165:0:teamaker:You can't get this item!
 - 166:0:blackteamaker:You can't get this item!
@@ -49,7 +99,7 @@ OwnershipBanned:
 #F2
 - 2903:0:market:You can't get this item!
 #F3ab
-- 4253:0:market:You can't get this item!
+- 4253:0:cropsticks:You can't get this item!
 #W1
 - 180:0:genatsujyouryuuki:You can't get this item!
 - 1634:*:petal_apothecary:You can't get this item!
