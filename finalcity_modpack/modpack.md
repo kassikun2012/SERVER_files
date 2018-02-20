@@ -1,7 +1,7 @@
 
-# Modpack 0.0.9 Minecraft 1.7.10
- - [FINALCITY modpack 0.0.9](https://www.dropbox.com/s/tdio5pk2xu11a3i/finalcitymodconfig0.1.0.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.0.9](../Finalcitytwitch.zip) その手の人向け
+# Modpack 0.1.1 Minecraft 1.7.10
+ - [FINALCITY modpack 0.1.1](https://www.dropbox.com/s/cc4srw07inu9wrs/finalcitymodconfig0.1.1.zip?dl=0) Dropbox  
+ - [FINALCITY twitchpack 0.1.1](../Finalcitytwitch.zip) その手の人向け
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](https://www.dropbox.com/sh/6f50pthzwuf9bhh/AADRUPXRXjg4f3fA4FlbP5m0a?dl=0) Dropbox
@@ -32,7 +32,6 @@
  - [CraftTweaker-1.7.10-3.0.13.jar](https://minecraft.curseforge.com/projects/crafttweaker/files/2338487) Curseforge
  - [CustomNPCs_1.7.10d(21feb16).jar](http://minecraft-forum.net/v/file/7b3eb1f4)
  - [CyanosLootableBodies-1.7.10-backport_1.3.7.jar](https://minecraft.curseforge.com/projects/drcyanos-lootable-bodies/files/2276543) Curseforge
- - [Decocraft-2.4_1.7.10.jar](https://minecraft.curseforge.com/projects/decocraft2/files/2402069) Curseforge
  - [DynamicTransport-0.1.2.0.jar](https://minecraft.curseforge.com/projects/dynamic-transport/files/2230737) Curseforge
  - [Enchiridion 2-1.7.10-2.0.2a.jar](https://minecraft.curseforge.com/projects/enchiridion/files/2242855) Curseforge
  - [EnderCore-1.7.10-0.2.0.39_beta.jar](https://minecraft.curseforge.com/projects/endercore/files/2331048) Curseforge
@@ -74,9 +73,7 @@
  - [NotEnoughItems-1.7.10-1.0.5.120-universal.jar](https://minecraft.curseforge.com/projects/notenoughitems/files/2302312) Curseforge
  - [obsaoa-1.0.0_mc1.7.10.jar](https://minecraft.curseforge.com/projects/obscore/files/2338946) Curseforge
  - [obscore-1.4.1_mc1.7.10.jar](https://minecraft.curseforge.com/projects/obsaoa/files/2338961) Curseforge
- - [OpenBlocks-1.7.10-1.6.jar](https://minecraft.curseforge.com/projects/openblocks/files/2386733) Curseforge
  - [OpenComputers-MC1.7.10-1.6.2.12-universal.jar](https://minecraft.curseforge.com/projects/opencomputers/files/2385983) Curseforge
- - [OpenModsLib-1.7.10-0.10.jar](https://minecraft.curseforge.com/projects/openmodslib/files/2386726) Curseforge
  - [p455w0rdslib-1.7.10-1.0.4.jar](https://minecraft.curseforge.com/projects/p455w0rds-library/files/2359471) Curseforge
  - [Pam's HarvestCraft 1.7.10Lb.jar](https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2270206) Curseforge
  - [platforms-1.7.10-0.1.2.jar](https://minecraft.curseforge.com/projects/platforms/files/2309925) Curseforge
