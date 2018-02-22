@@ -38,36 +38,6 @@ recipes.remove(<MekanismGenerators:Generator:6>);
 /* -------------------- */
 
 
-/* NEI Settings */
-// Mekanism
-NEI.hide(<Mekanism:CompressedCarbon>);
-NEI.hide(<Mekanism:CompressedRedstone>);
-NEI.hide(<Mekanism:CompressedDiamond>);
-NEI.hide(<Mekanism:CompressedObsidian>);
-NEI.hide(<Mekanism:EnrichedAlloy>);
-NEI.hide(<Mekanism:ReinforcedAlloy>);
-NEI.hide(<Mekanism:AtomicAlloy>);
-NEI.hide(<Mekanism:ControlCircuit:0>);
-NEI.hide(<Mekanism:Ingot:0>);
-NEI.hide(<Mekanism:ControlCircuit:1>);
-NEI.hide(<Mekanism:ControlCircuit:2>);
-NEI.hide(<Mekanism:ControlCircuit:3>);
-NEI.hide(<Mekanism:ElectrolyticCore>);
-NEI.hide(<Mekanism:TeleportationCore>);
-NEI.hide(<Mekanism:EnergyTablet>);
-NEI.hide(<Mekanism:BasicBlock:8>);
-NEI.hide(<MekanismGenerators:SolarPanel>);
-NEI.hide(<MekanismGenerators:Generator:0>);
-NEI.hide(<MekanismGenerators:Generator:1>);
-NEI.hide(<MekanismGenerators:Generator:3>);
-NEI.hide(<MekanismGenerators:Generator:4>);
-NEI.hide(<MekanismGenerators:Generator:5>);
-NEI.hide(<MekanismGenerators:Generator:6>);
-
-
-/* -------------------- */
-
-
 /* Tooltip Settings */
 // Mekanism
 <Mekanism:CompressedCarbon>.addTooltip(format.red("Tier1 Not Crafting."));
