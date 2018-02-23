@@ -40,71 +40,48 @@ recipes.remove(<MekanismGenerators:Generator:6>);
 
 /* Tooltip Settings */
 // Mekanism
-<Mekanism:CompressedCarbon>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:CompressedCarbon>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:CompressedCarbon>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:CompressedRedstone>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:CompressedRedstone>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:CompressedRedstone>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:CompressedDiamond>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:CompressedDiamond>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:CompressedDiamond>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:CompressedObsidian>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:CompressedObsidian>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:CompressedObsidian>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:EnrichedAlloy>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:EnrichedAlloy>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:EnrichedAlloy>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:ReinforcedAlloy>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:ReinforcedAlloy>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:ReinforcedAlloy>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:AtomicAlloy>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:AtomicAlloy>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:AtomicAlloy>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:ControlCircuit:0>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:ControlCircuit:0>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:ControlCircuit:0>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:Ingot:0>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:Ingot:0>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:Ingot:0>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:ControlCircuit:1>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:ControlCircuit:1>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:ControlCircuit:1>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:ControlCircuit:2>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:ControlCircuit:2>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:ControlCircuit:2>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:ControlCircuit:3>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:ControlCircuit:3>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:ControlCircuit:3>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:ElectrolyticCore>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:ElectrolyticCore>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:ElectrolyticCore>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:TeleportationCore>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:TeleportationCore>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:TeleportationCore>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:EnergyTablet>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:EnergyTablet>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:EnergyTablet>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<Mekanism:BasicBlock:8>.addTooltip(format.red("Tier1 Not Crafting."));
-<Mekanism:BasicBlock:8>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<Mekanism:BasicBlock:8>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<MekanismGenerators:SolarPanel>.addTooltip(format.red("Tier1 Not Crafting."));
-<MekanismGenerators:SolarPanel>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<MekanismGenerators:SolarPanel>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<MekanismGenerators:Generator:0>.addTooltip(format.red("Tier1 Not Crafting."));
-<MekanismGenerators:Generator:0>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<MekanismGenerators:Generator:0>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<MekanismGenerators:Generator:1>.addTooltip(format.red("Tier1 Not Crafting."));
-<MekanismGenerators:Generator:1>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<MekanismGenerators:Generator:1>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<MekanismGenerators:Generator:3>.addTooltip(format.red("Tier1 Not Crafting."));
-<MekanismGenerators:Generator:3>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<MekanismGenerators:Generator:3>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<MekanismGenerators:Generator:4>.addTooltip(format.red("Tier1 Not Crafting."));
-<MekanismGenerators:Generator:4>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<MekanismGenerators:Generator:4>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<MekanismGenerators:Generator:5>.addTooltip(format.red("Tier1 Not Crafting."));
-<MekanismGenerators:Generator:5>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<MekanismGenerators:Generator:5>.addTooltip(format.aqua("Requierd 'E100'"));
 
-<MekanismGenerators:Generator:6>.addTooltip(format.red("Tier1 Not Crafting."));
-<MekanismGenerators:Generator:6>.addTooltip(format.aqua("After Tier Ok Crafting!!"));
+<MekanismGenerators:Generator:6>.addTooltip(format.aqua("Requierd 'E100'"));
