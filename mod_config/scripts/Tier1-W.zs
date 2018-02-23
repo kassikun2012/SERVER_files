@@ -23,14 +23,20 @@ recipes.remove(<witchery:mysticbranch>);
 
 //Botania
 <Botania:altar>.addTooltip(format.aqua("Required 'W100'"));
-<Botania:spreader>.addTooltip(format.aqua("Required 'W100'"));
+<Botania:manaResource:0>.addTooltip(format.aqua("Required 'W100'"));
+<Botania:manaResource:1>.addTooltip(format.aqua("Required 'W100'"));
+<Botania:manaResource:2>.addTooltip(format.aqua("Required 'W100'"));
+<Botania:manaResource:23>.addTooltip(format.aqua("Required 'W100'"));
+<Botania:spreader:0>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:spreader:1>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:spreader:2>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:spreader:3>.addTooltip(format.aqua("Required 'W100'"));
 
 //Thaumcraft
 <Thaumcraft:WandCasting:*>.addTooltip(format.aqua("Required 'W100'"));
+<Thaumcraft:blockTable:15>.addTooltip(format.aqua("Required 'W100'"));
 
 //witchery
+<witchery:ingredient:14>.addTooltip(format.aqua("Required 'W100'"));
 <witchery:altar>.addTooltip(format.aqua("Required 'W100'"));
 <witchery:mysticbranch>.addTooltip(format.aqua("Required 'W100'"));

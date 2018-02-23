@@ -24,6 +24,8 @@ recipes.remove(<waystones:warpScrol>);
 <Botania:terraPlate>.addTooltip(format.aqua("Required 'W200'"));
 <Botania:pylon>.addTooltip(format.aqua("Required 'W200'"));
 
+//Thaumcraft
+<Thaumcraft:ItemResource:17>.addTooltip(format.aqua("Required 'W200'"));
 //waystones
 <waystones:waystone>.addTooltip(format.aqua("Required 'W200'"));
 <waystones:warpStone>.addTooltip(format.aqua("Required 'W200'"));
