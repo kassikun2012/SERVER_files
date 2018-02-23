@@ -8,7 +8,7 @@ import mods.mekanism.Compressor;
 /* -------------------- */
 
 
-/* Tech - Remove */
+/* Remove */
 // Mekanism
 Enrichment.removeRecipe(<minecraft:coal:*>, <Mekanism:CompressedCarbon>);
 Enrichment.removeRecipe(<minecraft:redstone>, <Mekanism:CompressedRedstone>);
