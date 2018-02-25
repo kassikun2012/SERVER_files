@@ -1,0 +1,66 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			"aba",
+			"ded",
+			"aha"
+		],
+		"ingredients": {
+			"a": {
+				"type": "ENDERIO_ITEMALLOY",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"b": {
+				"type": "ENDERIO_ITEMFRANKENSKULL",
+				"damage": 3,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"d": {
+				"type": "ENDERIO_BLOCKFUSEDQUARTZ",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"e": {
+				"type": "ENDERIO_ITEMMATERIAL",
+				"damage": 8,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"h": {
+				"type": "ENDERIO_ITEMBASICCAPACITOR",
+				"damage": 2,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "ENDERIO_BLOCKTRANSCEIVER",
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"E3B0"
+	]
+}

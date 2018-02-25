@@ -1,0 +1,44 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			" b ",
+			"beb",
+			" b "
+		],
+		"ingredients": {
+			"b": {
+				"type": "THERMALFOUNDATION_MATERIAL",
+				"damage": 76,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"e": {
+				"type": "IRON_INGOT",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "THERMALFOUNDATION_MATERIAL",
+		"damage": 140,
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"E3A0"
+	]
+}

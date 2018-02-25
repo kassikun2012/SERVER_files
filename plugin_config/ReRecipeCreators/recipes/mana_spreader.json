@@ -1,0 +1,49 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			"aaa",
+			"de ",
+			"aaa"
+		],
+		"ingredients": {
+			"a": {
+				"type": "BOTANIA_LIVINGWOOD",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"d": {
+				"type": "GOLD_INGOT",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"e": {
+				"type": "BOTANIA_PETAL",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "BOTANIA_SPREADER",
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"W100"
+	]
+}

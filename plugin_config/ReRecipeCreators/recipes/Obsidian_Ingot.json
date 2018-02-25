@@ -1,0 +1,39 @@
+{
+	"shapeless_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"ingredients": [
+			{
+				"type": "MEKANISM_OTHERDUST",
+				"damage": 5,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			{
+				"type": "MEKANISM_INGOT",
+				"damage": 1,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		]
+	},
+	"craft_result": {
+		"type": "MEKANISM_INGOT",
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"E100"
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			"a  ",
+			"a  ",
+			"   "
+		],
+		"ingredients": {
+			"a": {
+				"type": "BOTANIA_LIVINGWOOD",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "BOTANIA_MANARESOURCE",
+		"damage": 3,
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"W100"
+	]
+}

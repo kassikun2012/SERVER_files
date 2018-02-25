@@ -1,0 +1,58 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			"aba",
+			"ded",
+			"   "
+		],
+		"ingredients": {
+			"a": {
+				"type": "THERMALFOUNDATION_MATERIAL",
+				"damage": 64,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"b": {
+				"type": "SMOOTH_BRICK",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"d": {
+				"type": "WOOD_STEP",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"e": {
+				"type": "FORESTRY_THERMIONICTUBES",
+				"damage": 1,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "FORESTRY_FFARM",
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"F200"
+	]
+}

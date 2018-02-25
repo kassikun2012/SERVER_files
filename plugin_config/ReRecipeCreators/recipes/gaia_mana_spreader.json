@@ -1,0 +1,53 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			"abc",
+			"   ",
+			"   "
+		],
+		"ingredients": {
+			"a": {
+				"type": "BOTANIA_MANARESOURCE",
+				"damage": 5,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"b": {
+				"type": "BOTANIA_SPREADER",
+				"damage": 2,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"c": {
+				"type": "BOTANIA_MANARESOURCE",
+				"damage": 9,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "BOTANIA_SPREADER",
+		"damage": 3,
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"W100"
+	]
+}

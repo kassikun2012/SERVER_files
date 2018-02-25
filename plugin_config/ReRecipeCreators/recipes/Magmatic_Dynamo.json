@@ -1,0 +1,61 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			" b ",
+			"ded",
+			"ehe"
+		],
+		"ingredients": {
+			"b": {
+				"type": "THERMALEXPANSION_MATERIAL",
+				"damage": 2,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"d": {
+				"type": "THERMALFOUNDATION_MATERIAL",
+				"damage": -120,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"e": {
+				"type": "THERMALFOUNDATION_MATERIAL",
+				"damage": 72,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"h": {
+				"type": "REDSTONE",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "THERMALEXPANSION_DYNAMO",
+		"damage": 1,
+		"amount": 1,
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"E100"
+	]
+}

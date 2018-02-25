@@ -1,0 +1,66 @@
+{
+	"shaped_recipe": {
+		"output": {
+			"type": "FREEBUG_FREEBUG",
+			"meta": {
+				"\u003d\u003d": "ItemMeta",
+				"meta-type": "UNSPECIFIC"
+			}
+		},
+		"rows": [
+			"abc",
+			"ded",
+			"ded"
+		],
+		"ingredients": {
+			"a": {
+				"type": "WITCHERY_INGREDIENT",
+				"damage": 32,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"b": {
+				"type": "POTION",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "POTION"
+				}
+			},
+			"c": {
+				"type": "WITCHERY_INGREDIENT",
+				"damage": 31,
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"d": {
+				"type": "SMOOTH_BRICK",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			},
+			"e": {
+				"type": "WITCHERY_WITCHLOG",
+				"meta": {
+					"\u003d\u003d": "ItemMeta",
+					"meta-type": "UNSPECIFIC"
+				}
+			}
+		}
+	},
+	"craft_result": {
+		"type": "WITCHERY_ALTAR",
+		"amount": 3,
+		"meta": {
+			"\u003d\u003d": "ItemMeta",
+			"meta-type": "UNSPECIFIC"
+		}
+	},
+	"alias": [
+		"W100"
+	]
+}
