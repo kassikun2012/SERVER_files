@@ -3,7 +3,7 @@
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 #How to add items to the restricted list? Here is an example:
 #
-# - itemID:DataValue:Description:BannedReason
+# - itemID:DataValue:Description #BannedReason
 #
 # itemID -> represents the item ID
 # DataValue -> represents the item damage value, to cover all values use *
@@ -11,8 +11,8 @@
 # BannedReson -> (optional) Here you can provide a reason to let your players know why this item is restricted, the reason will be sent to players when they try to get/interact with a banned item.
 #
 # Example:
-# - 7:*:Bedrock:You can't get this item!
-# - 383:50:CreeperEgg:Used to grief
+# - 7:*:Bedrock #You can't get this item!
+# - 383:50:CreeperEgg #Used to grief
 #
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,108 +20,120 @@
 
 
 OwnershipBanned:
-#E1
-- 7100:2:redstone_transmission_coil:You can't get this item!
-- 7100:1:redstone_reception_coil:You can't get this item!
-- 7100:3:redstone_conductance_coil:You can't get this item!
-- 7100:0:pneumatic_servo:You can't get this item!
-- 3305:*:machine_frame:You can't get this item!
-- 3297:1:leadstone_energy_cell:You can't get this item!
+# ------------ E100 ------------ 
+- 7100:2:???:I don't know what it is #redstone_transmission_coil
 
-- 3296:0:Steam_Dynamo:You can't get this item!
-- 3296:1:Magmatic_Dynamo:You can't get this item!
-- 3296:2:Compression_Dynamo:You can't get this item!
-- 3296:3:Reactant_Dynamo:You can't get this item!
-- 3296:4:Enervation_Dynamo:You can't get this item!
-- 7034:0:engineer's_hammer:You can't get this item!
-- 1602:9:Kinetic_Dynamo:You can't get this item!
-- 6264:2:binder_composite:You can't get this item!
-- 6263:1:basic_gear:You can't get this item!
-- 6262:0:basic_capasitor:You can't get this item!
+- 7100:1:???:I don't know what it is #redstone_reception_coil
+- 7100:3:???:I don't know what it is #redstone_conductance_coil
+- 7100:0:???:I don't know what it is #pneumatic_servo
+- 3305:*:???:I don't know what it is #machine_frame
+- 3297:1:???:I don't know what it is #leadstone_energy_cell
 
-- 2249:0:StirlingGenerator:You can't get this item!
-- 2250:0:CombustionGenerator:You can't get this item!
-- 2251:0:ZombieGenerator:You can't get this item!
-- 2252:0:PhotovoltaicCell:You can't get this item!
-- 2252:1:AdvancedPhotovoltaicCell:You can't get this item!
+- 3296:0:???:I don't know what it is #Steam_Dynamo
+- 3296:1:???:I don't know what it is #Magmatic_Dynamo
+- 3296:2:???:I don't know what it is #Compression_Dynamo
+- 3296:3:???:I don't know what it is #Reactant_Dynamo
+- 3296:4:???:I don't know what it is #Enervation_Dynamo
+- 7034:0:???:I don't know what it is #engineer's_hammer
+- 1602:9:???:I don't know what it is #Kinetic_Dynamo
+- 6264:2:???:I don't know what it is #binder_composite
+- 6263:1:???:I don't know what it is #basic_gear
+- 6262:0:???:I don't know what it is #basic_capasitor
 
-- 9134:0:CompressedCarbon:You can't get this item!
-- 9204:0:CompressedRedstone:You can't get this item!
-- 9188:0:CompressedDiamond:You can't get this item!
-- 9149:0:CompressedObsidian:You can't get this item!
-- 9165:0:EnrichedAlloy:You can't get this item!
-- 9241:0:ReinforcedAlloy:You can't get this item!
-- 9197:0:AtomicAlloy:You can't get this item!
-- 9213:0:ControlCircuit:You can't get this item!
-- 9213:1:ControlCircuit:You can't get this item!
-- 9213:2:ControlCircuit:You can't get this item!
-- 9213:3:ControlCircuit:You can't get this item!
-- 9184:0:ElectrolyticCore:You can't get this item!
-- 9228:0:TeleportationCore:You can't get this item!
-- 9153:0:EnergyTablet:You can't get this item!
-- 3681:8:SteelCasing:You can't get this item!
-- 9123:0:ObsidianIngot:You can't get this item!
-- 9244:0:SolarPanel:You can't get this item!
-- 3692:0:HeatGenerator:You can't get this item!
-- 3692:3:Gas-BurningGenerator:You can't get this item!
-- 3692:4:Bio-Generator:You can't get this item!
-- 3692:6:WindGenerator:You can't get this item!
-- 3692:1:SolarGenerator:You can't get this item!
-- 3692:5:Advanced Solar Generator:You can't get this item!
+- 2249:0:???:I don't know what it is #StirlingGenerator
+- 2250:0:???:I don't know what it is #CombustionGenerator
+- 2251:0:???:I don't know what it is #ZombieGenerator
+- 2252:0:???:I don't know what it is #PhotovoltaicCell
+- 2252:1:???:I don't know what it is #AdvancedPhotovoltaicCell
 
-- 2462:1:peat-firedengine:You can't get this item!
-- 2462:2:biogusengine:You can't get this item!
-- 2462:4:clockworkengine:You can't get this item!
+- 9134:0:???:I don't know what it is #CompressedCarbon
+- 9204:0:???:I don't know what it is #CompressedRedstone
+- 9188:0:???:I don't know what it is #CompressedDiamond
+- 9149:0:???:I don't know what it is #CompressedObsidian
+- 9165:0:???:I don't know what it is #EnrichedAlloy
+- 9241:0:???:I don't know what it is #ReinforcedAlloy
+- 9197:0:???:I don't know what it is #AtomicAlloy
+- 9213:0:???:I don't know what it is #ControlCircuit
+- 9213:1:???:I don't know what it is #ControlCircuit
+- 9213:2:???:I don't know what it is #ControlCircuit
+- 9213:3:???:I don't know what it is #ControlCircuit
+- 9184:0:???:I don't know what it is #ElectrolyticCore
+- 9228:0:???:I don't know what it is #TeleportationCore
+- 9153:0:???:I don't know what it is #EnergyTablet
+- 3681:8:???:I don't know what it is #SteelCasing
+- 9123:0:???:I don't know what it is #ObsidianIngot
+- 9244:0:???:I don't know what it is #SolarPanel
+- 3692:0:???:I don't know what it is #HeatGenerator
+- 3692:3:???:I don't know what it is #Gas-BurningGenerator
+- 3692:4:???:I don't know what it is #Bio-Generator
+- 3692:6:???:I don't know what it is #WindGenerator
+- 3692:1:???:I don't know what it is #SolarGenerator
+- 3692:5:???:I don't know what it is #Advanced Solar Generator
 
-#E2
-- 6314:512:pyrotheum_dust:You can't get this item!
-- 3681:14:ThermalEvaporationController:You can't get this item!
-#E3a
-- 6314:140:enderium_gear:You can't get this item!
-- 3690:0:ReactorController:You can't get this item!
-#E3b
-- 6314:513:Cryotheumdust:You can't get this item!
-- 3690:0:ReactorController:You can't get this item!
+- 2462:1:???:I don't know what it is #peat-firedengine
+- 2462:2:???:I don't know what it is #biogusengine
+- 2462:4:???:I don't know what it is #clockworkengine
 
+# ------------ E200 ------------
+- 6314:512:???:I don't know what it is #pyrotheum_dust
+- 3681:14:???:I don't know what it is #ThermalEvaporationController
 
+# ------------ E3A0 ------------
+- 6314:140:???:I don't know what it is #enderium_gear
+- 3690:0:???:I don't know what it is #ReactorController
 
-#F1
-- 165:0:teamaker:You can't get this item!
-- 166:0:blackteamaker:You can't get this item!
-- 180:0:genatsujyouryuuki:You can't get this item!
-- 178:0:foodprocessor:You can't get this item!
-- 168:0:donabe:You can't get this item!
-- 169:0:donabe:You can't get this item!
-- 177:0:tyouriyouteppan:You can't get this item!
-- 7363:0:pot:You can't get this item!
-- 2896:0:pot:You can't get this item!
-- 7369:0:juicer:You can't get this item!
-#F2
-- 2903:0:market:You can't get this item!
-#F3ab
-- 4253:0:cropsticks:You can't get this item!
-#W1
-- 180:0:genatsujyouryuuki:You can't get this item!
-- 1634:*:petal_apothecary:You can't get this item!
-- 5560:*:thaumwand:You can't get this item!
-- 1606:15:arcaneworkbench:You can't get this item!
-- 8178:14:mutandis:You can't get this item!
-- 8178:15:mutandis:You can't get this item!
-- 3185:0:altar:You can't get this item!
-#W2
-- 1678:0:terrestrial_a_p:You can't get this item!
-- 1642:0:mana_pylon:You can't get this item!
-- 5577:*:void:You can't get this item!
-- 5010:0:runepouch:You can't get this item!
-#W3a
-- 8178:8:broom:You can't get this item!
-- 8178:9:broom:You can't get this item!
-#W3b
-- 241:1:panache:You can't get this item!
-- 1642:2:gaia_pylon:You can't get this item!
-#other
-- 9064:0:sigil:You can't get this item!
-- 4103:0:chopstick:You can't get this item!
+# ------------ E3B0 ------------
+- 6314:513:???:I don't know what it is #Cryotheumdust
+- 3690:0:???:I don't know what it is #ReactorController
+
+# ------------ F100 ------------ 
+- 165:0:???:I don't know what it is #teamaker
+- 166:0:???:I don't know what it is #blackteamaker
+- 180:0:???:I don't know what it is #genatsujyouryuuki
+- 178:0:???:I don't know what it is #foodprocessor
+- 168:0:???:I don't know what it is #donabe
+- 169:0:???:I don't know what it is #donabe
+- 177:0:???:I don't know what it is #tyouriyouteppan
+- 7363:0:???:I don't know what it is #pot
+- 2896:0:???:I don't know what it is #pot
+- 7369:0:???:I don't know what it is #juicer
+
+# ------------ F2 ------------
+- 2903:0:???:I don't know what it is #market
+
+# ------------ F300 ------------
+- 4253:0:???:I don't know what it is #cropsticks
+
+# ------------ F3A0 ------------
+
+# ------------ F3B0 ------------
+
+# ------------ W100 ------------
+- 180:0:???:I don't know what it is #genatsujyouryuuki
+- 1634:*:???:I don't know what it is #petal_apothecary
+- 5560:*:???:I don't know what it is #thaumwand
+- 1606:15:???:I don't know what it is #arcaneworkbench
+- 8178:14:???:I don't know what it is #mutandis
+- 8178:15:???:I don't know what it is #mutandis
+- 3185:0:???:I don't know what it is #altar
+
+# ------------ W200 ------------
+- 1678:0:???:I don't know what it is #terrestrial_a_p
+- 1642:0:???:I don't know what it is #mana_pylon
+- 5577:*:???:I don't know what it is #void
+- 5010:0:???:I don't know what it is #runepouch
+
+# ------------ W3A0 ------------
+- 8178:8:???:I don't know what it is #broom
+- 8178:9:???:I don't know what it is #broom
+
+# ------------ W3B0 ------------
+- 241:1:???:I don't know what it is #panache
+- 1642:2:???:I don't know what it is #gaia_pylon
+
+# ------------ other ------------
+- 9064:0:???:I don't know what it is #sigil
+- 4103:0:???:I don't know what it is #chopstick
 
 
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to
