@@ -26,6 +26,14 @@ recipes.remove(<EnderIO:blockFarmStation>);
 //Mariculture
 recipes.remove(<Mariculture:machines_single:5>);
 
+//botania
+recipes.remove(<Botania:manaResource:3>);
+
+//ExtraUtilities
+recipes.remove(<ExtraUtilities:watering_can:0>);
+recipes.remove(<ExtraUtilities:watering_can:1>);
+recipes.remove(<ExtraUtilities:watering_can:2>);
+
 /*----- tooltips -----*/
 
 //Forestry
@@ -51,3 +59,11 @@ recipes.remove(<Mariculture:machines_single:5>);
 
 //Mariculture
 <Mariculture:machines_single:5>.addTooltip(format.aqua("Required 'F200'"));
+
+//botania
+<Botania:manaResource:3>..addTooltip(format.aqua("Required 'F200'"));
+
+//ExtraUtilities
+<ExtraUtilities:watering_can:0>.addTooltip(format.aqua("Required 'F200'"));
+<ExtraUtilities:watering_can:1>.addTooltip(format.aqua("Required 'F200'"));
+<ExtraUtilities:watering_can:2>.addTooltip(format.aqua("Required 'F200'"));

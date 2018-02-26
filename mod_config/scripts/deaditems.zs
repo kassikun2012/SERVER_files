@@ -12,7 +12,7 @@ mods.botania.ManaInfusion.removeRecipe(<Botania:manaCookie>);
 recipes.remove(<ExtraUtilities:angelRing:*>);
 recipes.remove(<ExtraUtilities:unstableingot:*>);
 recipes.remove(<ExtraUtilities:nodeUpgrade:*>);
-recipes.remove(<ExtraUtilities:watering_can:*>);
+recipes.remove(<ExtraUtilities:watering_can:3>); //Reinforced
 //SoulEnabled=true>false - cfg
 
 // - Blocks

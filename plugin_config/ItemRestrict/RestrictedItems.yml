@@ -22,61 +22,61 @@
 OwnershipBanned:
 # ------------ E100 ------------ 
 # ThermalExpansion
-- 7100:0:pneumatic_servo           :I don't know what it is 
-- 7100:1:redstone_reception_coil   :I don't know what it is 
-- 7100:2:redstone_transmission_coil:I don't know what it is 
-- 7100:3:redstone_conductance_coil :I don't know what it is 
-- 3305:*:machine_frame             :I don't know what it is 
-- 3297:1:leadstone_energy_cell     :I don't know what it is 
-- 3296:0:Steam_Dynamo              :I don't know what it is 
-- 3296:1:Magmatic_Dynamo           :I don't know what it is 
-- 3296:2:Compression_Dynamo        :I don't know what it is 
-- 3296:3:Reactant_Dynamo           :I don't know what it is 
-- 3296:4:Enervation_Dynamo         :I don't know what it is 
+- 7100:0  :pneumatic_servo           :I don't know what it is 
+- 7100:1  :redstone_reception_coil   :I don't know what it is 
+- 7100:2  :redstone_transmission_coil:I don't know what it is 
+- 7100:3  :redstone_conductance_coil :I don't know what it is 
+- 3305:*  :machine_frame             :I don't know what it is 
+- 3297:1  :leadstone_energy_cell     :I don't know what it is 
+- 3296:0  :Steam_Dynamo              :I don't know what it is 
+- 3296:1  :Magmatic_Dynamo           :I don't know what it is 
+- 3296:2  :Compression_Dynamo        :I don't know what it is 
+- 3296:3  :Reactant_Dynamo           :I don't know what it is 
+- 3296:4  :Enervation_Dynamo         :I don't know what it is 
 
 # ImmersiveEngineering
-- 7034:0:engineer's_hammer :I don't know what it is 
-- 1602:9:Kinetic_Dynamo    :I don't know what it is 
+- 7034:0  :engineer's_hammer :I don't know what it is 
+- 1602:9  :Kinetic_Dynamo    :I don't know what it is 
 
 #  EnderIO
-- 6264:2:binder_composite        :I don't know what it is 
-- 6263:1:basic_gear              :I don't know what it is 
-- 6262:0:basic_capasitor         :I don't know what it is 
-- 2249:0:StirlingGenerator       :I don't know what it is 
-- 2250:0:CombustionGenerator     :I don't know what it is 
-- 2251:0:ZombieGenerator         :I don't know what it is 
-- 2252:0:PhotovoltaicCell        :I don't know what it is 
-- 2252:1:AdvancedPhotovoltaicCell:I don't know what it is 
+- 6264:2  :binder_composite        :I don't know what it is 
+- 6263:1  :basic_gear              :I don't know what it is 
+- 6262:0  :basic_capasitor         :I don't know what it is 
+- 2249:0  :StirlingGenerator       :I don't know what it is 
+- 2250:0  :CombustionGenerator     :I don't know what it is 
+- 2251:0  :ZombieGenerator         :I don't know what it is 
+- 2252:0  :PhotovoltaicCell        :I don't know what it is 
+- 2252:1  :AdvancedPhotovoltaicCell:I don't know what it is 
 
 # Mekanism
-- 9134:0:CompressedCarbon        :I don't know what it is
-- 9204:0:CompressedRedstone      :I don't know what it is
-- 9188:0:CompressedDiamond       :I don't know what it is
-- 9149:0:CompressedObsidian      :I don't know what it is
-- 9165:0:EnrichedAlloy           :I don't know what it is
-- 9241:0:ReinforcedAlloy         :I don't know what it is
-- 9197:0:AtomicAlloy             :I don't know what it is
-- 9213:0:ControlCircuit          :I don't know what it is
-- 9213:1:ControlCircuit          :I don't know what it is
-- 9213:2:ControlCircuit          :I don't know what it is
-- 9213:3:ControlCircuit          :I don't know what it is
-- 9184:0:ElectrolyticCore        :I don't know what it is
-- 9228:0:TeleportationCore       :I don't know what it is
-- 9153:0:EnergyTablet            :I don't know what it is
-- 3681:8:SteelCasing             :I don't know what it is
-- 9123:0:ObsidianIngot           :I don't know what it is
-- 9244:0:SolarPanel              :I don't know what it is
-- 3692:0:HeatGenerator           :I don't know what it is
-- 3692:3:Gas-BurningGenerator    :I don't know what it is 
-- 3692:4:Bio-Generator           :I don't know what it is 
-- 3692:6:WindGenerator           :I don't know what it is 
-- 3692:1:SolarGenerator          :I don't know what it is 
-- 3692:5:Advanced Solar Generator:I don't know what it is 
+- 9134:0  :CompressedCarbon        :I don't know what it is
+- 9204:0  :CompressedRedstone      :I don't know what it is
+- 9188:0  :CompressedDiamond       :I don't know what it is
+- 9149:0  :CompressedObsidian      :I don't know what it is
+- 9165:0  :EnrichedAlloy           :I don't know what it is
+- 9241:0  :ReinforcedAlloy         :I don't know what it is
+- 9197:0  :AtomicAlloy             :I don't know what it is
+- 9213:0  :ControlCircuit          :I don't know what it is
+- 9213:1  :ControlCircuit          :I don't know what it is
+- 9213:2  :ControlCircuit          :I don't know what it is
+- 9213:3  :ControlCircuit          :I don't know what it is
+- 9184:0  :ElectrolyticCore        :I don't know what it is
+- 9228:0  :TeleportationCore       :I don't know what it is
+- 9153:0  :EnergyTablet            :I don't know what it is
+- 3681:8  :SteelCasing             :I don't know what it is
+- 9123:0  :ObsidianIngot           :I don't know what it is
+- 9244:0  :SolarPanel              :I don't know what it is
+- 3692:0  :HeatGenerator           :I don't know what it is
+- 3692:3  :Gas-BurningGenerator    :I don't know what it is 
+- 3692:4  :Bio-Generator           :I don't know what it is 
+- 3692:6  :WindGenerator           :I don't know what it is 
+- 3692:1  :SolarGenerator          :I don't know what it is 
+- 3692:5  :Advanced Solar Generator:I don't know what it is 
 
 # Forestry for Minecraft
-- 2462:1:peat-firedengine:I don't know what it is 
-- 2462:2:biogusengine    :I don't know what it is 
-- 2462:4:clockworkengine :I don't know what it is 
+- 2462:1  :peat-firedengine:I don't know what it is 
+- 2462:2  :biogusengine    :I don't know what it is 
+- 2462:4  :clockworkengine :I don't know what it is 
 
 # ------------ E200 ------------
 # ThermalFoundation
@@ -88,6 +88,16 @@ OwnershipBanned:
 # TinkersConstruct
 - 0000:*  :tool_forge         :I don't know what it is
 - 0000:000:smeltery_controller:I don't know what it is
+
+# ExtraUtilities
+- 0000:000:speed_upgrade              :I don't know what it is
+- 0000:000:world_integration_upgrade  :I don't know what it is
+- 0000:000:stack_upgrade              :I don't know what it is
+- 0000:000:ender_transmitter          :I don't know what it is
+- 0000:000:ender_receiver             :I don't know what it is
+- 0000:000:depth-first_serch_upgrade  :I don't know what it is
+- 0000:000:breadth-first_serch_upgrade:I don't know what it is
+- 0000:000:pseudp_round_robin_upgrade :I don't know what it is
 
 # ------------ E3A0 ------------
 # ThermalExpansion
@@ -105,17 +115,17 @@ OwnershipBanned:
 
 # ------------ F100 ------------ 
 # AppleMilkTea2
-- 165 :0:teamaker          :I don't know what it is 
-- 166 :0:blackteamaker     :I don't know what it is 
-- 180 :0:evaporator        :I don't know what it is 
-- 178 :0:foodprocessor     :I don't know what it is 
-- 169 :0:clay_pan          :I don't know what it is 
-- 168 :0:clay_pan          :I don't know what it is 
-- 177 :0:cooking_iron_plate:I don't know what it is 
+- 165 :0  :teamaker          :I don't know what it is 
+- 166 :0  :blackteamaker     :I don't know what it is 
+- 180 :0  :evaporator        :I don't know what it is 
+- 178 :0  :foodprocessor     :I don't know what it is 
+- 169 :0  :clay_pan          :I don't know what it is 
+- 168 :0  :clay_pan          :I don't know what it is 
+- 177 :0  :cooking_iron_plate:I don't know what it is 
 
 # Pams harvestcraft
-- 7363:0:pot   :I don't know what it is 
-- 7369:0:juicer:I don't know what it is 
+- 7363:0  :pot   :I don't know what it is 
+- 7369:0  :juicer:I don't know what it is 
 
 # Mariculture
 - 0000:000:fishing_rod_reed    :I don't know what it is
@@ -123,7 +133,7 @@ OwnershipBanned:
 - 0000:000:fishing_rod_titanium:I don't know what it is
 - 0000:000:fishing_rodreed_flux:I don't know what it is
 
-# ------------ F2 ------------
+# ------------ F200 ------------
 # Forestry for Minecraft
 - 0000:000:Sturdy_Casing        :I don't know what it is
 - 0000:000:Farm_Block           :I don't know what it is
@@ -147,6 +157,11 @@ OwnershipBanned:
 
 # Mariculture
 - 0000:000:automatic_fisher:I don't know what it is
+
+# ExtraUtilities
+- 0000:0  :watering_can        :I don't know what it is
+- 0000:1  :watering_can(Empty) :I don't know what it is
+- 0000:2  :watering_can(Broken):I don't know what it is
 
 # ------------ F300 ------------
 # AgriCraft

@@ -17,7 +17,7 @@ NEI.hide(<Botania:manaCookie>);
 NEI.hide(<ExtraUtilities:angelRing:*>);
 NEI.hide(<ExtraUtilities:unstableingot:*>);
 NEI.hide(<ExtraUtilities:nodeUpgrade:*>);
-NEI.hide(<ExtraUtilities:watering_can:*>);
+NEI.hide(<ExtraUtilities:watering_can:3>); //Rrinforced
 NEI.hide(<ExtraUtilities:generator:*>);
 NEI.hide(<ExtraUtilities:spike_base_wood>);
 NEI.hide(<ExtraUtilities:spike_base>);
