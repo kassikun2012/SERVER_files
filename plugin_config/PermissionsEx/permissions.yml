@@ -110,6 +110,7 @@ groups:
     options: {}
   E100:
     permissions:
+    - ItemRestrict.bypass.999.*.own
     - rerecipecreators.recipes.E100
     inheritance:
     - R00C
