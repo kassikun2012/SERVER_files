@@ -16,7 +16,6 @@ NEI.hide(<Botania:manaCookie>);
 // ExtraUtilities
 NEI.hide(<ExtraUtilities:angelRing:*>);
 NEI.hide(<ExtraUtilities:unstableingot:*>);
-NEI.hide(<ExtraUtilities:nodeUpgrade:*>);
 NEI.hide(<ExtraUtilities:watering_can:3>); //Rrinforced
 NEI.hide(<ExtraUtilities:generator:*>);
 NEI.hide(<ExtraUtilities:spike_base_wood>);
@@ -25,9 +24,7 @@ NEI.hide(<ExtraUtilities:spike_base_gold>);
 NEI.hide(<ExtraUtilities:spike_base_diamond>);
 NEI.hide(<ExtraUtilities:decorativeBlock1:11>);
 NEI.hide(<ExtraUtilities:peaceful_table_top>);
-NEI.hide(<ExtraUtilities:pipes:*>);
 NEI.hide(<ExtraUtilities:extractor_base:*>);
-NEI.hide(<ExtraUtilities:nodeUpgrade:*>);
 NEI.hide(<ExtraUtilities:builderswand>);
 NEI.hide(<ExtraUtilities:erosionShovel>);
 NEI.hide(<ExtraUtilities:destructionpickaxe>);
@@ -79,7 +76,6 @@ NEI.hide(<TConstruct:MeatBlock>);
 // ExtraUtilities
 <ExtraUtilities:angelRing:*>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:unstableingot:*>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:nodeUpgrade:*>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:watering_can:*>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:generator:*>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:spike_base_wood>.addTooltip(format.red("DeleteRecipe"));
@@ -88,9 +84,7 @@ NEI.hide(<TConstruct:MeatBlock>);
 <ExtraUtilities:spike_base_diamond>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:decorativeBlock1:11>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:peaceful_table_top>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:pipes:*>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:extractor_base:*>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:nodeUpgrade:*>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:builderswand>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:erosionShovel>.addTooltip(format.red("DeleteRecipe"));
 <ExtraUtilities:destructionpickaxe>.addTooltip(format.red("DeleteRecipe"));

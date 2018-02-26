@@ -11,7 +11,6 @@ mods.botania.ManaInfusion.removeRecipe(<Botania:manaCookie>);
 // - Items
 recipes.remove(<ExtraUtilities:angelRing:*>);
 recipes.remove(<ExtraUtilities:unstableingot:*>);
-recipes.remove(<ExtraUtilities:nodeUpgrade:*>);
 recipes.remove(<ExtraUtilities:watering_can:3>); //Reinforced
 //SoulEnabled=true>false - cfg
 
@@ -24,7 +23,6 @@ recipes.remove(<ExtraUtilities:spike_base_diamond>);
 recipes.remove(<ExtraUtilities:decorativeBlock1:11>);
 recipes.remove(<ExtraUtilities:peaceful_table_top>);
 recipes.remove(<ExtraUtilities:extractor_base:*>);
-mods.extraUtils.QED.removeRecipe(<ExtraUtilities:nodeUpgrade:*>);
 //CursedEarthEnabled=true>false - cfg
 //MicroBlocksEnabled=true>false -cfg
 
