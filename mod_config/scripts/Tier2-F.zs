@@ -30,9 +30,7 @@ recipes.remove(<Mariculture:machines_single:5>);
 recipes.remove(<Botania:manaResource:3>);
 
 //ExtraUtilities
-recipes.remove(<ExtraUtilities:watering_can:0>);
 recipes.remove(<ExtraUtilities:watering_can:1>);
-recipes.remove(<ExtraUtilities:watering_can:2>);
 
 /*----- tooltips -----*/
 
