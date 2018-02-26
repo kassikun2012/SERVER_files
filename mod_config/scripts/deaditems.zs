@@ -23,7 +23,6 @@ recipes.remove(<ExtraUtilities:spike_base_gold>);
 recipes.remove(<ExtraUtilities:spike_base_diamond>);
 recipes.remove(<ExtraUtilities:decorativeBlock1:11>);
 recipes.remove(<ExtraUtilities:peaceful_table_top>);
-recipes.remove(<ExtraUtilities:pipes:*>);
 recipes.remove(<ExtraUtilities:extractor_base:*>);
 mods.extraUtils.QED.removeRecipe(<ExtraUtilities:nodeUpgrade:*>);
 //CursedEarthEnabled=true>false - cfg
