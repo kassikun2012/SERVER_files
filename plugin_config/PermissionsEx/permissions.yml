@@ -103,40 +103,56 @@ groups:
     - essentials.spawn
     options: {}
   R00C:
+    permissions:
+    - chestcommands.open.R00C.yml
     inheritance:
     - R000
-    permissions:
-    - chestcommands.open.cresident.yml
     options: {}
   E100:
+    permissions:
+    - rerecipecreators.recipes.E100
     inheritance:
     - R00C
     options: {}
   E10C:
+    permissions:
+    - chestcommands.open.E10C.yml
     inheritance:
     - E100
     options: {}
   E200:
+    permissions:
+    - rerecipecreators.recipes.E200
     inheritance:
     - E10C
     options: {}
   E20C:
+    permissions:
+    - chestcommands.open.E20C.yml
     inheritance:
     - E200
     options: {}
   E3A0:
+    permissions:
+    - rerecipecreators.recipes.E3A0
     inheritance:
     - E20C
     options: {}
   E3B0:
+    permissions:
+    - rerecipecreators.recipes.E3B0
     inheritance:
     - E20C
     options: {}
   E3AC:
+    permissions:
+    - chestcommands.open.E3AC.yml
     inheritance:
     - E3A0
     options: {}
   E3BC:
+    permissions:
+    - chestcommands.open.E3BC.yml
     inheritance:
     - E3B0
     options: {}
@@ -149,34 +165,50 @@ groups:
     - E3BC
     options: {}
   F100:
+    permissions:
+    - rerecipecreators.recipes.F100
     inheritance:
     - R00C
     options: {}
   F10C:
+    permissions:
+    - chestcommands.open.F10C.yml
     inheritance:
     - F100
     options: {}
   F200:
+    permissions:
+    - rerecipecreators.recipes.F200
     inheritance:
     - F10C
     options: {}
   F20C:
+    permissions:
+    - chestcommands.open.F20C.yml
     inheritance:
     - F200
     options: {}
   F3A0:
+    permissions:
+    - rerecipecreators.recipes.F3A0
     inheritance:
     - F20C
     options: {}
-  F3B0:
+  F3B0:    
+    permissions:
+    - rerecipecreators.recipes.F3B0
     inheritance:
     - F20C
     options: {}
   F3AC:
+    permissions:
+    - chestcommands.open.F3AC.yml
     inheritance:
     - F3A0
     options: {}
   F3BC:
+    permissions:
+    - chestcommands.open.F3BC.yml
     inheritance:
     - F3B0
     options: {}
@@ -189,34 +221,50 @@ groups:
     - F3BC
     options: {}
   W100:
+    permissions:
+    - rerecipecreators.recipes.W100
     inheritance:
     - W00C
     options: {}
   W10C:
+    permissions:
+    - chestcommands.open.W10C.yml
     inheritance:
     - W100
     options: {}
   W200:
+    permissions:
+    - rerecipecreators.recipes.W200
     inheritance:
     - W10C
     options: {}
   W20C:
+    permissions:
+    - chestcommands.open.W20C.yml
     inheritance:
     - W200
     options: {}
   W3A0:
+    permissions:
+    - rerecipecreators.recipes.W3A0
     inheritance:
     - W20C
     options: {}
   W3B0:
+    permissions:
+    - rerecipecreators.recipes.W3B0
     inheritance:
     - W20C
     options: {}
   W3AC:
+    permissions:
+    - chestcommands.open.W3AC.yml
     inheritance:
     - W3A0
     options: {}
   W3BC:
+    permissions:
+    - chestcommands.open.W3BC.yml
     inheritance:
     - W3B0
     options: {}
