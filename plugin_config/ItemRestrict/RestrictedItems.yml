@@ -224,6 +224,46 @@ OwnershipBanned:
 - 1651:2  :gaia_pylon  :I don't know what it is 
 - 5630:*  :flugel_tiara:I don't know what it is 
 
+# ------------ T100 ------------
+- 7048:0   :basic_backpack         :I don't know what it is 
+- 7049:0   :iron_backpack          :I don't know what it is 
+- 7050:0   :gold_backpack          :I don't know what it is 
+- 7051:0   :diamond_backpack       :I don't know what it is 
+- 6025:0   :apiaristBag            :I don't know what it is 
+- 6026:0   :lepidopteristBag       :I don't know what it is 
+- 6027:0   :minerBag               :I don't know what it is 
+- 6028:0   :minerBagT2             :I don't know what it is 
+- 6029:0   :diggerBag              :I don't know what it is 
+- 6030:0   :diggerBagT2            :I don't know what it is 
+- 6031:0   :foresterBag            :I don't know what it is 
+- 6032:0   :foresterBagT2          :I don't know what it is 
+- 6033:0   :hunterBag              :I don't know what it is 
+- 6034:0   :hunterBagT2            :I don't know what it is 
+- 6035:0   :adventurerBag          :I don't know what it is 
+- 6036:0   :adventurerBagT2        :I don't know what it is 
+- 6037:0   :builderBag             :I don't know what it is 
+- 6038:0   :builderBagT2           :I don't know what it is 
+- 2579:0   :analyzer               :I don't know what it is 
+- 2581:0   :culturevat             :I don't know what it is 
+- 2584:0   :archeplogy_workbench   :I don't know what it is 
+- 2587:0   :feeder                 :I don't know what it is 
+- 2625:0   :sifter                 :I don't know what it is 
+- 7012:4   :Slimeling_Inventory_Bag:I don't know what it is 
+
+# ------------ T200 ------------
+- 7152:0   :upgrade_core       :I don't know what it is
+- 7152:0   :Oxygen_mask        :I don't know what it is
+- 7152:0   :glider_wing        :I don't know what it is
+- 7152:0   :waystone           :I don't know what it is
+- 7152:0   :warpstone          :I don't know what it is
+- 7152:0   :returnscroll       :I don't know what it is
+- 7152:0   :traveller's goggles:I don't know what it is
+- 7152:0   :traveller's vest   :I don't know what it is
+- 7152:0   :traveller's wings  :I don't know what it is
+- 7152:0   :traveller's boots  :I don't know what it is
+- 7152:0   :traveller's gloves :I don't know what it is
+- 7152:0   :traveller's belt   :I don't know what it is
+
 # ------------ other ------------
 - 6742:0  :sigil    :I don't know what it is 
 - 4103:0  :chopstick:I don't know what it is

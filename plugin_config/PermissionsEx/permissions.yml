@@ -535,6 +535,125 @@ groups:
     - W3BC
     options: {}
     
+  T100:
+    permissions:
+    - rerecipecreators.recipes.T100
+    # Item bypass
+    - ItemRestrict.bypass.7048.0   .own #basic_backpack          
+    - ItemRestrict.bypass.7049.0   .own #iron_backpack           
+    - ItemRestrict.bypass.7050.0   .own #gold_backpack           
+    - ItemRestrict.bypass.7051.0   .own #diamond_backpack        
+    - ItemRestrict.bypass.6025.0   .own #apiaristBag             
+    - ItemRestrict.bypass.6026.0   .own #lepidopteristBag        
+    - ItemRestrict.bypass.6027.0   .own #minerBag                
+    - ItemRestrict.bypass.6028.0   .own #minerBagT2              
+    - ItemRestrict.bypass.6029.0   .own #diggerBag               
+    - ItemRestrict.bypass.6030.0   .own #diggerBagT2             
+    - ItemRestrict.bypass.6031.0   .own #foresterBag             
+    - ItemRestrict.bypass.6032.0   .own #foresterBagT2           
+    - ItemRestrict.bypass.6033.0   .own #hunterBag               
+    - ItemRestrict.bypass.6034.0   .own #hunterBagT2             
+    - ItemRestrict.bypass.6035.0   .own #adventurerBag           
+    - ItemRestrict.bypass.6036.0   .own #adventurerBagT2         
+    - ItemRestrict.bypass.6037.0   .own #builderBag              
+    - ItemRestrict.bypass.6038.0   .own #builderBagT2            
+    - ItemRestrict.bypass.2579.0   .own #analyzer                
+    - ItemRestrict.bypass.2581.0   .own #culturevat              
+    - ItemRestrict.bypass.2584.0   .own #archeplogy_workbench    
+    - ItemRestrict.bypass.2587.0   .own #feeder                  
+    - ItemRestrict.bypass.2625.0   .own #sifter                  
+    - ItemRestrict.bypass.7012.4   .own #Slimeling_Inventory_Bag 
+    
+    
+    inheritance:
+    - R00C
+    options: {}
+    
+  T10C:
+    permissions:
+    - chestcommands.open.T10C.yml
+    
+    inheritance:
+    - T100
+    options: {}
+    
+  T200:
+    permissions:
+    - rerecipecreators.recipes.T200
+    # Item bypass
+    - ItemRestrict.bypass.7152:0   .own #upgrade_core       
+    - ItemRestrict.bypass.7152:0   .own #Oxygen_mask        
+    - ItemRestrict.bypass.7152:0   .own #glider_wing        
+    - ItemRestrict.bypass.7152:0   .own #waystone           
+    - ItemRestrict.bypass.7152:0   .own #warpstone          
+    - ItemRestrict.bypass.7152:0   .own #returnscroll       
+    - ItemRestrict.bypass.7152:0   .own #traveller's goggles
+    - ItemRestrict.bypass.7152:0   .own #traveller's vest   
+    - ItemRestrict.bypass.7152:0   .own #traveller's wings   
+    - ItemRestrict.bypass.7152:0   .own #traveller's boots  
+    - ItemRestrict.bypass.7152:0   .own #traveller's gloves 
+    - ItemRestrict.bypass.7152:0   .own #traveller's belt   
+    
+    
+    inheritance:
+    - T10C
+    options: {}
+    
+  T20C:
+    permissions:
+    - chestcommands.open.T20C.yml
+    
+    inheritance:
+    - T200
+    options: {}
+    
+  T3A0:
+    permissions:
+    - rerecipecreators.recipes.T3A0
+    
+    inheritance:
+    - T20C
+    options: {}
+    
+  T3B0:
+    permissions:
+    - rerecipecreators.recipes.T3B0
+    
+    inheritance:
+    - T20C
+    options: {}
+    
+  T3AC:
+    permissions:
+    - chestcommands.open.T3AC.yml
+    
+    inheritance:
+    - T3A0
+    options: {}
+    
+  T3BC:
+    permissions:
+    - chestcommands.open.T3BC.yml
+    
+    inheritance:
+    - T3B0
+    options: {}
+    
+  T4A0:
+    permissions:
+    
+    inheritance:
+    - T3AC
+    options: {}
+    
+  T4B0:
+    permissions:
+    
+    inheritance:
+    - T3BC
+    options: {}
+    
+    
 # ------------------------------ # 
 
 worlds:
