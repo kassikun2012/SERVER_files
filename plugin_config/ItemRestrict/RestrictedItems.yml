@@ -199,10 +199,10 @@ OwnershipBanned:
 - 1615:15 :arcaneworkbench:I don't know what it is 
 
 # Witchery
-- 8244:14 :mutandis     :I don't know what it is 
-- 8244:15 :mutandis     :I don't know what it is 
-- 3240:0  :altar        :I don't know what it is 
-- 8265:0  :Mystic_Branch:I don't know what it is
+- 8244:14 :mutandis         :I don't know what it is 
+- 8244:15 :mutandis Extremis:I don't know what it is 
+- 3240:0  :altar            :I don't know what it is 
+- 8265:0  :Mystic_Branch    :I don't know what it is
 
 # ------------ W200 ------------
 # botania
@@ -225,38 +225,23 @@ OwnershipBanned:
 - 5630:*  :flugel_tiara:I don't know what it is 
 
 # ------------ T100 ------------
-- 7048:0   :basic_backpack         :I don't know what it is 
-- 7049:0   :iron_backpack          :I don't know what it is 
-- 7050:0   :gold_backpack          :I don't know what it is 
-- 7051:0   :diamond_backpack       :I don't know what it is 
-- 6025:0   :apiaristBag            :I don't know what it is 
-- 6026:0   :lepidopteristBag       :I don't know what it is 
-- 6027:0   :minerBag               :I don't know what it is 
-- 6028:0   :minerBagT2             :I don't know what it is 
-- 6029:0   :diggerBag              :I don't know what it is 
-- 6030:0   :diggerBagT2            :I don't know what it is 
-- 6031:0   :foresterBag            :I don't know what it is 
-- 6032:0   :foresterBagT2          :I don't know what it is 
-- 6033:0   :hunterBag              :I don't know what it is 
-- 6034:0   :hunterBagT2            :I don't know what it is 
-- 6035:0   :adventurerBag          :I don't know what it is 
-- 6036:0   :adventurerBagT2        :I don't know what it is 
-- 6037:0   :builderBag             :I don't know what it is 
-- 6038:0   :builderBagT2           :I don't know what it is 
+# fossil
 - 2579:0   :analyzer               :I don't know what it is 
 - 2581:0   :culturevat             :I don't know what it is 
 - 2584:0   :archeplogy_workbench   :I don't know what it is 
-- 2587:0   :feeder                 :I don't know what it is 
 - 2625:0   :sifter                 :I don't know what it is 
+
+# Galacticraft
 - 7012:4   :Slimeling_Inventory_Bag:I don't know what it is 
 
 # ------------ T200 ------------
+# ironbackpack
 - 7152:0   :upgrade_core       :I don't know what it is
-- 7152:0   :Oxygen_mask        :I don't know what it is
+
+# EnderIO
 - 7152:0   :glider_wing        :I don't know what it is
-- 7152:0   :waystone           :I don't know what it is
-- 7152:0   :warpstone          :I don't know what it is
-- 7152:0   :returnscroll       :I don't know what it is
+
+# TinkersConstruct
 - 7152:0   :traveller's goggles:I don't know what it is
 - 7152:0   :traveller's vest   :I don't know what it is
 - 7152:0   :traveller's wings  :I don't know what it is
@@ -265,11 +250,18 @@ OwnershipBanned:
 - 7152:0   :traveller's belt   :I don't know what it is
 
 # ------------ other ------------
+# ExtraUtilities
 - 6742:0  :sigil    :I don't know what it is 
+
+# AppleMilkTea2
 - 4103:0  :chopstick:I don't know what it is
+
+# ForestryforMinecraft
 - 5963:0  :Juice Can:I don't know what it is
 - 5964:0  :Juice Can:I don't know what it is
 - 5965:0  :Juice Can:I don't know what it is
+
+# botania
 - 5696:*  :grisaia  :I don't know what it is
 
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to

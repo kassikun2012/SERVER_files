@@ -444,10 +444,10 @@ groups:
     - ItemRestrict.bypass.1615.15 .own #arcaneworkbench
     
     # Witchery
-    - ItemRestrict.bypass.8244.14 .own #mutandis     
-    - ItemRestrict.bypass.8244.15 .own #mutandis     
-    - ItemRestrict.bypass.3240.0  .own #altar        
-    - ItemRestrict.bypass.8265.0  .own #Mystic_Branch
+    - ItemRestrict.bypass.8244.14 .own #mutandis         
+    - ItemRestrict.bypass.8244.15 .own #mutandis Extremis 
+    - ItemRestrict.bypass.3240.0  .own #altar            
+    - ItemRestrict.bypass.8265.0  .own #Mystic_Branch    
     
     inheritance:
     - W00C
@@ -539,29 +539,14 @@ groups:
     permissions:
     - rerecipecreators.recipes.T100
     # Item bypass
-    - ItemRestrict.bypass.7048.0   .own #basic_backpack          
-    - ItemRestrict.bypass.7049.0   .own #iron_backpack           
-    - ItemRestrict.bypass.7050.0   .own #gold_backpack           
-    - ItemRestrict.bypass.7051.0   .own #diamond_backpack        
-    - ItemRestrict.bypass.6025.0   .own #apiaristBag             
-    - ItemRestrict.bypass.6026.0   .own #lepidopteristBag        
-    - ItemRestrict.bypass.6027.0   .own #minerBag                
-    - ItemRestrict.bypass.6028.0   .own #minerBagT2              
-    - ItemRestrict.bypass.6029.0   .own #diggerBag               
-    - ItemRestrict.bypass.6030.0   .own #diggerBagT2             
-    - ItemRestrict.bypass.6031.0   .own #foresterBag             
-    - ItemRestrict.bypass.6032.0   .own #foresterBagT2           
-    - ItemRestrict.bypass.6033.0   .own #hunterBag               
-    - ItemRestrict.bypass.6034.0   .own #hunterBagT2             
-    - ItemRestrict.bypass.6035.0   .own #adventurerBag           
-    - ItemRestrict.bypass.6036.0   .own #adventurerBagT2         
-    - ItemRestrict.bypass.6037.0   .own #builderBag              
-    - ItemRestrict.bypass.6038.0   .own #builderBagT2            
+    # fossil
     - ItemRestrict.bypass.2579.0   .own #analyzer                
     - ItemRestrict.bypass.2581.0   .own #culturevat              
     - ItemRestrict.bypass.2584.0   .own #archeplogy_workbench    
     - ItemRestrict.bypass.2587.0   .own #feeder                  
     - ItemRestrict.bypass.2625.0   .own #sifter                  
+    
+    # Galacticraft
     - ItemRestrict.bypass.7012.4   .own #Slimeling_Inventory_Bag 
     
     
@@ -581,12 +566,13 @@ groups:
     permissions:
     - rerecipecreators.recipes.T200
     # Item bypass
+    # ironbackpack
     - ItemRestrict.bypass.7152:0   .own #upgrade_core       
-    - ItemRestrict.bypass.7152:0   .own #Oxygen_mask        
+    
+    # EnderIO
     - ItemRestrict.bypass.7152:0   .own #glider_wing        
-    - ItemRestrict.bypass.7152:0   .own #waystone           
-    - ItemRestrict.bypass.7152:0   .own #warpstone          
-    - ItemRestrict.bypass.7152:0   .own #returnscroll       
+    
+    # TinkersConstruct
     - ItemRestrict.bypass.7152:0   .own #traveller's goggles
     - ItemRestrict.bypass.7152:0   .own #traveller's vest   
     - ItemRestrict.bypass.7152:0   .own #traveller's wings   
