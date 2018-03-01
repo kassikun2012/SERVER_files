@@ -115,15 +115,15 @@ recipes.remove(<EnderIO:blockSolarPanel:1>);
 <ThermalExpansion:Dynamo:4>.addTooltip(format.aqua("Required 'E100'");
 
 //ImmersiveEngineering
-<ImmersiveEngineering:tool>.addTooltip(format.aqua("Required 'E100'");
-<ImmersiveEngineering:metalDevice:9>.addTooltip(format.aqua("Required 'E100'");
+<ImmersiveEngineering:tool>.addTooltip(format.aqua("Required 'E100'"));
+<ImmersiveEngineering:metalDevice:9>.addTooltip(format.aqua("Required 'E100'"));
 
 //EnderIO
-<EnderIO:itemMaterial:2>.addTooltip(format.aqua("Required 'E100'");
-<EnderIO:itemMachinePart:1>.addTooltip(format.aqua("Required 'E100'");
-<EnderIO:itemBasicCapacitor>.addTooltip(format.aqua("Required 'E100'");
-<EnderIO:blockStirlingGenerator>.addTooltip(format.aqua("Required 'E100'");
-<EnderIO:blockCombustionGenerator>.addTooltip(format.aqua("Required 'E100'");
-<EnderIO:blockZombieGenerator>.addTooltip(format.aqua("Required 'E100'");
-<EnderIO:blockSolarPanel:0>.addTooltip(format.aqua("Required 'E100'");
-<EnderIO:blockSolarPanel:1>.addTooltip(format.aqua("Required 'E100'");
+<EnderIO:itemMaterial:2>.addTooltip(format.aqua("Required 'E100'"));
+<EnderIO:itemMachinePart:1>.addTooltip(format.aqua("Required 'E100'"));
+<EnderIO:itemBasicCapacitor>.addTooltip(format.aqua("Required 'E100'"));
+<EnderIO:blockStirlingGenerator>.addTooltip(format.aqua("Required 'E100'"));
+<EnderIO:blockCombustionGenerator>.addTooltip(format.aqua("Required 'E100'"));
+<EnderIO:blockZombieGenerator>.addTooltip(format.aqua("Required 'E100'"));
+<EnderIO:blockSolarPanel:0>.addTooltip(format.aqua("Required 'E100'"));
+<EnderIO:blockSolarPanel:1>.addTooltip(format.aqua("Required 'E100'"));
