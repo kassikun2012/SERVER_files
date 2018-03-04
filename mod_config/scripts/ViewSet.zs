@@ -67,6 +67,13 @@ NEI.hide(<nevermine:SkeletalChestplate>);
 NEI.hide(<nevermine:SkeletalLeggings>  );
 NEI.hide(<nevermine:SkeletalBoots>     );
 
+// RandomThings
+NEI.hide(<RandomThings:whiteStone>);
+NEI.hide(<RandomThings:magneticForce>);
+NEI.hide(<RandomThings:spiritBinder>);
+NEI.hide(<RandomThings:bloodStone>);
+
+
 
 /* -------------------- */
 
@@ -131,3 +138,7 @@ NEI.hide(<nevermine:SkeletalBoots>     );
  <nevermine:SkeletalChestplate>.addTooltip(format.red("DeleteRecipe"));
  <nevermine:SkeletalLeggings>  .addTooltip(format.red("DeleteRecipe"));
  <nevermine:SkeletalBoots>     .addTooltip(format.red("DeleteRecipe"));
+
+// RandomThings
+<RandomThings:magneticForce>.addTooltip(format.red("DeleteRecipe"));
+<RandomThings:spiritBinder>.addTooltip(format.red("DeleteRecipe"));

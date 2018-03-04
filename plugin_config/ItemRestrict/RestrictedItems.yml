@@ -284,6 +284,10 @@ OwnershipBanned:
 # botania
 - 5696:*  :grisaia  :I don't know what it is
 
+# RandomThings
+- 8174:0   :Whitestone    :I don't know what it is
+- 8187:0   :Bloodstone    :I don't know what it is
+
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to
 CraftingBanned:
 

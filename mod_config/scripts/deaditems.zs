@@ -75,3 +75,7 @@ recipes.remove(<TConstruct:MeatBlock>);
 recipes.remove(<Mekanism:Jetpack>);
 recipes.remove(<Mekanism:ArmoredJetpack>);
 recipes.remove(<Mekanism:CardboardBox>);
+
+// RandomThings
+recipes.remove(<RandomThings:magneticForce>);
+recipes.remove(<RandomThings:spiritBinder>);
