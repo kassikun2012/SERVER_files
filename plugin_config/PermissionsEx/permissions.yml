@@ -122,21 +122,23 @@ groups:
     # ex.- ItemRestrict.bypass.999.*.own
     
     # ThermalExpansion
-    - ItemRestrict.bypass.6265.0  .own  #pneumatic_servo            
-    - ItemRestrict.bypass.6265.1  .own  #redstone_reception_coil    
-    - ItemRestrict.bypass.6265.2  .own  #redstone_transmission_coil 
-    - ItemRestrict.bypass.6265.3  .own  #redstone_conductance_coil  
-    - ItemRestrict.bypass.3443.0  .own  #machine_frame              
-    - ItemRestrict.bypass.3443.4  .own  #leadstone_energycell_frame      
-    - ItemRestrict.bypass.3434.0  .own  #Steam_Dynamo               
-    - ItemRestrict.bypass.3434.1  .own  #Magmatic_Dynamo            
-    - ItemRestrict.bypass.3434.2  .own  #Compression_Dynamo         
-    - ItemRestrict.bypass.3434.3  .own  #Reactant_Dynamo            
-    - ItemRestrict.bypass.3434.4  .own  #Enervation_Dynamo          
+    - ItemRestrict.bypass.6265.0  .own #pneumatic_servo            
+    - ItemRestrict.bypass.6265.1  .own #redstone_reception_coil    
+    - ItemRestrict.bypass.6265.2  .own #redstone_transmission_coil 
+    - ItemRestrict.bypass.6265.3  .own #redstone_conductance_coil  
+    - ItemRestrict.bypass.3443.0  .own #machine_frame              
+    - ItemRestrict.bypass.3443.4  .own #leadstone_energycell_frame      
+    - ItemRestrict.bypass.3434.0  .own #Steam_Dynamo               
+    - ItemRestrict.bypass.3434.1  .own #Magmatic_Dynamo            
+    - ItemRestrict.bypass.3434.2  .own #Compression_Dynamo         
+    - ItemRestrict.bypass.3434.3  .own #Reactant_Dynamo            
+    - ItemRestrict.bypass.3434.4  .own #Enervation_Dynamo          
     
     # ImmersiveEngineering
-    - ItemRestrict.bypass.7030.0  .own  #engineer's_hammer
-    - ItemRestrict.bypass.2682.9  .own  #Kinetic_Dynamo    
+    - ItemRestrict.bypass.2682.9  .own #Kinetic_Dynamo    
+    - ItemRestrict.bypass.2682.10 .own #thermoelectric generator
+    - ItemRestrict.bypass.2684.6  .own #generator block         
+    - ItemRestrict.bypass.7030.0  .own #engineer's_hammer
     
     #  EnderIO
     - ItemRestrict.bypass.5875.2  .own #binder_composite        
@@ -174,9 +176,18 @@ groups:
     - ItemRestrict.bypass.2823.5  .own #Advanced Solar Generator 
     
     # Forestry for Minecraft
-    - ItemRestrict.bypass.2340:1  .own #peat-firedengine 
-    - ItemRestrict.bypass.2340:2  .own #biogusengine     
-    - ItemRestrict.bypass.2340:4  .own #clockworkengine  
+    - ItemRestrict.bypass.2340.1  .own #peat-firedengine 
+    - ItemRestrict.bypass.2340.2  .own #biogusengine     
+    - ItemRestrict.bypass.2340.4  .own #clockworkengine  
+    
+    # Galacticraft
+    - ItemRestrict.bypass.2424.0  .own #Coal Generator       
+    - ItemRestrict.bypass.2422.0  .own #Basic Solar Panel    
+    - ItemRestrict.bypass.2422.4  .own #Advanced Solar Panel 
+    
+    # Mariculture
+    - ItemRestrict.bypass.2790.9   .own #generator 
+
     
     inheritance:
     - R00C
@@ -303,6 +314,7 @@ groups:
     - ItemRestrict.bypass.7206.0  .own #fishing_rod_reed    
     - ItemRestrict.bypass.7207.0  .own #fishing_rod_wood    
     - ItemRestrict.bypass.7208.0  .own #fishing_rod_titanium
+    - ItemRestrict.bypass.7210.0  .own #fishing net         
     - ItemRestrict.bypass.7217.0  .own #fishing_rodreed_flux
     
     inheritance:
@@ -567,18 +579,18 @@ groups:
     - rerecipecreators.recipes.T200
     # Item bypass
     # ironbackpack
-    - ItemRestrict.bypass.7152:0   .own #upgrade_core       
+    - ItemRestrict.bypass.7152.0   .own #upgrade_core       
     
     # EnderIO
-    - ItemRestrict.bypass.7152:0   .own #glider_wing        
+    - ItemRestrict.bypass.7152.0   .own #glider_wing        
     
     # TinkersConstruct
-    - ItemRestrict.bypass.7152:0   .own #traveller's goggles
-    - ItemRestrict.bypass.7152:0   .own #traveller's vest   
-    - ItemRestrict.bypass.7152:0   .own #traveller's wings   
-    - ItemRestrict.bypass.7152:0   .own #traveller's boots  
-    - ItemRestrict.bypass.7152:0   .own #traveller's gloves 
-    - ItemRestrict.bypass.7152:0   .own #traveller's belt   
+    - ItemRestrict.bypass.7152.0   .own #traveller's goggles
+    - ItemRestrict.bypass.7152.0   .own #traveller's vest   
+    - ItemRestrict.bypass.7152.0   .own #traveller's wings   
+    - ItemRestrict.bypass.7152.0   .own #traveller's boots  
+    - ItemRestrict.bypass.7152.0   .own #traveller's gloves 
+    - ItemRestrict.bypass.7152.0   .own #traveller's belt   
     
     
     inheritance:

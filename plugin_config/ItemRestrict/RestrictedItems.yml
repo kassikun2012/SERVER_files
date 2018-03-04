@@ -35,8 +35,10 @@ OwnershipBanned:
 - 3296:4  :Enervation_Dynamo         :I don't know what it is 
 
 # ImmersiveEngineering
-- 7030:0  :engineer's_hammer :I don't know what it is 
-- 2682:9  :Kinetic_Dynamo    :I don't know what it is 
+- 2682:9  :Kinetic_Dynamo          :I don't know what it is 
+- 2682:10 :thermoelectric generator:I don't know what it is 
+- 2684:6  :generator block         :I don't know what it is 
+- 7030:0  :engineer's_hammer       :I don't know what it is 
 
 #  EnderIO
 - 5875:2  :binder_composite        :I don't know what it is 
@@ -77,6 +79,15 @@ OwnershipBanned:
 - 2340:1  :peat-firedengine:I don't know what it is 
 - 2340:2  :biogusengine    :I don't know what it is 
 - 2340:4  :clockworkengine :I don't know what it is 
+
+# Galacticraft
+- 2424:0  :Coal Generator      :I don't know what it is 
+- 2422:0  :Basic Solar Panel   :I don't know what it is 
+- 2422:4  :Advanced Solar Panel:I don't know what it is 
+
+# Mariculture
+- 2790:9  :generator:I don't know what it is 
+
 
 # ------------ E200 ------------
 # ThermalFoundation
@@ -131,6 +142,7 @@ OwnershipBanned:
 - 7206:0  :fishing_rod_reed    :I don't know what it is
 - 7207:0  :fishing_rod_wood    :I don't know what it is
 - 7208:0  :fishing_rod_titanium:I don't know what it is
+- 7210:0  :fishing net         :I don't know what it is
 - 7217:0  :fishing_rodreed_flux:I don't know what it is
 
 # ------------ F200 ------------
