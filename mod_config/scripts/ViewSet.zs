@@ -72,6 +72,10 @@ NEI.hide(<RandomThings:whiteStone>);
 NEI.hide(<RandomThings:magneticForce>);
 NEI.hide(<RandomThings:spiritBinder>);
 NEI.hide(<RandomThings:bloodStone>);
+NEI.hide(<RandomThings:spectreHelmet>);
+NEI.hide(<RandomThings:spectreChestplate>);
+NEI.hide(<RandomThings:spectreLeggings>);
+NEI.hide(<RandomThings:spectreBoots>);
 
 
 
@@ -142,3 +146,7 @@ NEI.hide(<RandomThings:bloodStone>);
 // RandomThings
 <RandomThings:magneticForce>.addTooltip(format.red("DeleteRecipe"));
 <RandomThings:spiritBinder>.addTooltip(format.red("DeleteRecipe"));
+<RandomThings:spectreHelmet>.addTooltip(format.red("DeleteRecipe"));
+<RandomThings:spectreChestplate>.addTooltip(format.red("DeleteRecipe"));
+<RandomThings:spectreLeggings>.addTooltip(format.red("DeleteRecipe"));
+<RandomThings:spectreBoots>.addTooltip(format.red("DeleteRecipe"));

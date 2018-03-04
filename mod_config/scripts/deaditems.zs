@@ -79,3 +79,7 @@ recipes.remove(<Mekanism:CardboardBox>);
 // RandomThings
 recipes.remove(<RandomThings:magneticForce>);
 recipes.remove(<RandomThings:spiritBinder>);
+recipes.remove(<RandomThings:spectreHelmet>);
+recipes.remove(<RandomThings:spectreChestplate>);
+recipes.remove(<RandomThings:spectreLeggings>);
+recipes.remove(<RandomThings:spectreBoots>);
