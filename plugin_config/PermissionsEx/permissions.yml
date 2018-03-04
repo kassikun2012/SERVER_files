@@ -138,6 +138,7 @@ groups:
     - ItemRestrict.bypass.2682.9  .own #Kinetic_Dynamo    
     - ItemRestrict.bypass.2682.10 .own #thermoelectric generator
     - ItemRestrict.bypass.2684.6  .own #generator block         
+    - ItemRestrict.bypass.2686.0  .own #lightnig_rod_base      
     - ItemRestrict.bypass.7030.0  .own #engineer's_hammer
     
     #  EnderIO
@@ -186,7 +187,13 @@ groups:
     - ItemRestrict.bypass.2422.4  .own #Advanced Solar Panel 
     
     # Mariculture
-    - ItemRestrict.bypass.2790.9   .own #generator 
+    - ItemRestrict.bypass.2790.9  .own #generator 
+    
+    # AppliedEnergistics2
+    - ItemRestrict.bypass.478 .0  .own #vibration_chamber      
+    
+    # AppleMilkTea2
+    - ItemRestrict.bypass.186 .0  .own #manual_charge_generator
 
     
     inheritance:

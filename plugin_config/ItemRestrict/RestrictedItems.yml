@@ -37,7 +37,8 @@ OwnershipBanned:
 # ImmersiveEngineering
 - 2682:9  :Kinetic_Dynamo          :I don't know what it is 
 - 2682:10 :thermoelectric generator:I don't know what it is 
-- 2684:6  :generator block         :I don't know what it is 
+- 2684:6  :generator block         :I don't know what it is
+- 2686:0  :lightnig_rod_base       :I don't know what it is 
 - 7030:0  :engineer's_hammer       :I don't know what it is 
 
 #  EnderIO
@@ -87,6 +88,13 @@ OwnershipBanned:
 
 # Mariculture
 - 2790:9  :generator:I don't know what it is 
+
+# AppliedEnergistics2
+- 478 :0   :vibration_chamber      :I don't know what it is
+
+# AppleMilkTea2
+- 186 :0   :manual_charge_generator:I don't know what it is
+
 
 
 # ------------ E200 ------------

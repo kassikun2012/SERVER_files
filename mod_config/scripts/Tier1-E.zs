@@ -56,6 +56,7 @@ recipes.remove(<ThermalExpansion:Dynamo:4>);
 recipes.remove(<ImmersiveEngineering:metalDevice:9>);
 recipes.remove(<ImmersiveEngineering:metalDevice:10>);
 recipes.remove(<ImmersiveEngineering:metalDecoration:6>);
+recipes.remove(<ImmersiveEngineering:metalMultiblock>);
 recipes.remove(<ImmersiveEngineering:tool>);
 
 // EnderIO
@@ -75,6 +76,14 @@ recipes.remove(<Mariculture:machines_single:9>);
 recipes.remove(<GalacticraftCore:tile.machine>);
 recipes.remove(<GalacticraftCore:tile.solar>);
 recipes.remove(<GalacticraftCore:tile.solar:4>);
+
+// Applied Energistics 2
+recipes.remove(<appliedenergistics2:tile.BlockVibrationChamber>);
+
+// AppleMilkTea2
+recipes.remove(<DCsAppleMilk:defeatedcrow.EHandle>);
+
+
 
 /* -------------------- */
 
@@ -127,6 +136,7 @@ recipes.remove(<GalacticraftCore:tile.solar:4>);
 <ImmersiveEngineering:metalDevice:9>.addTooltip(format.aqua("Required 'E100'"));
 <ImmersiveEngineering:metalDevice:10>.addTooltip(format.aqua("Required 'E100'"));
 <ImmersiveEngineering:metalDecoration:6>.addTooltip(format.aqua("Required 'E100'"));
+<ImmersiveEngineering:metalMultiblock>.addTooltip(format.aqua("Required 'E100'"));
 <ImmersiveEngineering:tool>.addTooltip(format.aqua("Required 'E100'"));
 
 // EnderIO
@@ -146,3 +156,9 @@ recipes.remove(<GalacticraftCore:tile.solar:4>);
 <GalacticraftCore:tile.machine.addTooltip(format.aqua("Required 'E100'"));
 <GalacticraftCore:tile.solar>.addTooltip(format.aqua("Required 'E100'"));
 <GalacticraftCore:tile.solar:4>.addTooltip(format.aqua("Required 'E100'"));
+
+// Applied Energistics 2
+<appliedenergistics2:tile.BlockVibrationChamber>.addTooltip(format.aqua("Required 'E100'"));
+
+// AppleMilkTea2
+<DCsAppleMilk:defeatedcrow.EHandle>.addTooltip(format.aqua("Required 'E100'"));
