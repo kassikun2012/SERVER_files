@@ -1,13 +1,13 @@
 /* -------------------- */
 
 /* ----- Remove ------*/
-# IronBackpacks
+// IronBackpacks
 recipes.remove(<ironbackpacks:basicBackpack>);
 recipes.remove(<ironbackpacks:ironBackpack>);
 recipes.remove(<ironbackpacks:goldBackpack>);
 recipes.remove(<ironbackpacks:diamondBackpack>);
 
-# Forestry
+// Forestry
 recipes.remove(<Forestry:apiaristBag>);
 recipes.remove(<Forestry:lepidopteristBag>);
 recipes.remove(<Forestry:minerBag>);
@@ -23,25 +23,25 @@ recipes.remove(<Forestry:adventurerBagT2>);
 recipes.remove(<Forestry:builderBag>);
 recipes.remove(<Forestry:builderBagT2>);
 
-# fossil
+// fossil
 recipes.remove(<fossil:analyzer>);
 recipes.remove(<fossil:cultureVat>);
 recipes.remove(<fossil:fossilworkbench>);
 recipes.remove(<fossil:feederIdle>);
 recipes.remove(<fossil:sifter>);
 
-# Galacticraft
+// Galacticraft
 recipes.remove(<GalacticraftMars:item.null:4>);
 
 
 /*----- tooltips -----*/
-# IronBackpacks
+// IronBackpacks
 <ironbackpacks:basicBackpack>.addTooltip(format.aqua("Required 'T100'"));
 <ironbackpacks:ironBackpack>.addTooltip(format.aqua("Required 'T100'"));
 <ironbackpacks:goldBackpack>.addTooltip(format.aqua("Required 'T100'"));
 <ironbackpacks:diamondBackpack>.addTooltip(format.aqua("Required 'T100'"));
 
-# Forestry
+// Forestry
 <Forestry:apiaristBag>.addTooltip(format.aqua("Required 'T100'"));
 <Forestry:lepidopteristBag>.addTooltip(format.aqua("Required 'T100'"));
 <Forestry:minerBag>.addTooltip(format.aqua("Required 'T100'"));
@@ -57,12 +57,12 @@ recipes.remove(<GalacticraftMars:item.null:4>);
 <Forestry:builderBag>.addTooltip(format.aqua("Required 'T100'"));
 <Forestry:builderBagT2>.addTooltip(format.aqua("Required 'T100'"));
 
-# fossil
+// fossil
 <fossil:analyzer>.addTooltip(format.aqua("Required 'T100'"));
 <fossil:cultureVat>.addTooltip(format.aqua("Required 'T100'"));
 <fossil:fossilworkbench>.addTooltip(format.aqua("Required 'T100'"));
 <fossil:feederIdle>.addTooltip(format.aqua("Required 'T100'"));
 <fossil:sifter>.addTooltip(format.aqua("Required 'T100'"));
 
-# Galacticraft
+// Galacticraft
 <GalacticraftMars:item.null:4>.addTooltip(format.aqua("Required 'T100'"));

@@ -2,7 +2,7 @@
 /* -------------------- */
 
 /* ----- Remove ------*/
-//Forestry
+// Forestry
 recipes.remove(<Forestry:sturdyMachine>);
 recipes.remove(<Forestry:ffarm:0>);
 recipes.remove(<Forestry:ffarm:2>);
@@ -17,24 +17,24 @@ recipes.remove(<Forestry:factory:3>);
 recipes.remove(<Forestry:factory:6>);
 recipes.remove(<Forestry:factory:4>);
 
-//harvestcraft
+// harvestcraft
 recipes.remove(<harvestcraft:market>);
 
-//EnderIO
+// EnderIO
 recipes.remove(<EnderIO:blockFarmStation>);
 
-//Mariculture
+// Mariculture
 recipes.remove(<Mariculture:machines_single:5>);
 
-//botania
+// botania
 recipes.remove(<Botania:manaResource:3>);
 
-//ExtraUtilities
+// ExtraUtilities
 recipes.remove(<ExtraUtilities:watering_can:1>);
 
 /*----- tooltips -----*/
 
-//Forestry
+// Forestry
 <Forestry:sturdyMachine>.addTooltip(format.aqua("Required 'F200'"));
 <Forestry:ffarm:0>.addTooltip(format.aqua("Required 'F200'"));
 <Forestry:ffarm:2>.addTooltip(format.aqua("Required 'F200'"));
@@ -49,19 +49,19 @@ recipes.remove(<ExtraUtilities:watering_can:1>);
 <Forestry:factory:6>.addTooltip(format.aqua("Required 'F200'"));
 <Forestry:factory:4>.addTooltip(format.aqua("Required 'F200'"));
 
-//harvestcraft
+// harvestcraft
 <harvestcraft:market>.addTooltip(format.aqua("Required 'F200'"));
 
-//EnderIO
+// EnderIO
 <EnderIO:blockFarmStation>.addTooltip(format.aqua("Required 'F200'"));
 
-//Mariculture
+// Mariculture
 <Mariculture:machines_single:5>.addTooltip(format.aqua("Required 'F200'"));
 
-//botania
+// botania
 <Botania:manaResource:3>..addTooltip(format.aqua("Required 'F200'"));
 
-//ExtraUtilities
+// ExtraUtilities
 <ExtraUtilities:watering_can:0>.addTooltip(format.aqua("Required 'F200'"));
 <ExtraUtilities:watering_can:1>.addTooltip(format.aqua("Required 'F200'"));
 <ExtraUtilities:watering_can:2>.addTooltip(format.aqua("Required 'F200'"));

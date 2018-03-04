@@ -1,10 +1,10 @@
 
-# AppleMilkTea2
+//  AppleMilkTea2
 <ore:gearIron>                    .remove(<DCsAppleMilk:defeatedcrow.condensedMilk:3>);
 <ore:thermalexpansion:machineIron>.remove(<DCsAppleMilk:defeatedcrow.condensedMilk:3>);
 
-# AoA 
-# oreblock
+//  AoA 
+//  oreblock
 <ore:oreBloodstone>    .add(<nevermine:oreBloodstone>    );
 <ore:oreAmethyst>      .add(<nevermine:oreAmethyst>      );
 <ore:oreChestFragments>.add(<nevermine:oreChestFragments>);
@@ -36,7 +36,8 @@
 <ore:oreJewelyte>      .add(<nevermine:oreJewelyte>      );
 <ore:oreGemenyte>      .add(<nevermine:oreGemenyte>      );
 <ore:oreOrnamyte>      .add(<nevermine:oreOrnamyte>      );
-# ore drop
+
+//  ore drop
 <ore:gemBloodstone>        .add(<nevermine:Bloodstone>        );
 <ore:ingotAmethyst>        .add(<nevermine:AmethystIngot>     );
 <ore:gemChestboneFragment> .add(<nevermine:ChestboneFragment> );

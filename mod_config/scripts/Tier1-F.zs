@@ -9,12 +9,12 @@ recipes.remove(<DCsAppleMilk:defeatedcrow.processor>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.emptyPanG>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.teppanII>);
 
-//Forestry
+// Forestry
 recipes.remove(<Forestry:gearCopper>);
 recipes.remove(<Forestry:gearTin>);
 recipes.remove(<Forestry:gearBronze>);
 
-//harvestcraft
+// harvestcraft
 recipes.remove(<harvestcraft:potItem>);
 recipes.remove(<harvestcraft:juicerItem>);
 recipes.remove(<harvestcraft:pamappleSapling>);
@@ -54,11 +54,12 @@ recipes.remove(<harvestcraft:pamvanillabeanSapling>);
 recipes.remove(<harvestcraft:pamwalnutSapling>);
 recipes.remove(<harvestcraft:pamgooseberrySapling>);
 
-//Mariculture
+// Mariculture
 recipes.remove(<Mariculture:rod_reed>);
 recipes.remove(<Mariculture:rod_wood>);
 recipes.remove(<Mariculture:rod_titanium>);
 recipes.remove(<Mariculture:rod_flux>);
+recipes.remove(<Mariculture:net>);
 
 /*----- tooltips -----*/
 // DCsAppleMilk
@@ -68,12 +69,12 @@ recipes.remove(<Mariculture:rod_flux>);
 <DCsAppleMilk:defeatedcrow.emptyPanG>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.teppanII>.addTooltip(format.aqua("Required 'F100'"));
 
-//Forestry
+// Forestry
 <Forestry:gearCopper>.addTooltip(format.aqua("Required 'F100'"));
 <Forestry:gearTin>.addTooltip(format.aqua("Required 'F100'"));
 <Forestry:gearBronze>.addTooltip(format.aqua("Required 'F100'"));
 
-//harvestcraft
+// harvestcraft
 <harvestcraft:potItem>.addTooltip(format.aqua("Required 'F100'"));
 <harvestcraft:juicerItem>.addTooltip(format.aqua("Required 'F100'"));
 <harvestcraft:pamappleSapling>.addTooltip(format.aqua("Required 'F100'"));
@@ -113,8 +114,9 @@ recipes.remove(<Mariculture:rod_flux>);
 <harvestcraft:pamwalnutSapling>.addTooltip(format.aqua("Required 'F100'"));
 <harvestcraft:pamgooseberrySapling>.addTooltip(format.aqua("Required 'F100'"));
 
-//Mariculture
+// Mariculture
 <Mariculture:rod_reed>.addTooltip(format.aqua("Required 'F100'"));
 <Mariculture:rod_wood>.addTooltip(format.aqua("Required 'F100'"));
 <Mariculture:rod_titanium>.addTooltip(format.aqua("Required 'F100'"));
 <Mariculture:rod_flux>.addTooltip(format.aqua("Required 'F100'"));
+<Mariculture:net>.addTooltip(format.aqua("Required 'F100'"));

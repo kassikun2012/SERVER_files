@@ -9,7 +9,7 @@ import mods.mekanism.Compressor;
 
 
 /* Remove */
-// Mekanism
+//  Mekanism
 Enrichment.removeRecipe(<minecraft:coal:*>, <Mekanism:CompressedCarbon>);
 Enrichment.removeRecipe(<minecraft:redstone>, <Mekanism:CompressedRedstone>);
 Enrichment.removeRecipe(<minecraft:diamond>, <Mekanism:CompressedDiamond>);
@@ -34,12 +34,12 @@ recipes.remove(<MekanismGenerators:Generator:4>);
 recipes.remove(<MekanismGenerators:Generator:5>);
 recipes.remove(<MekanismGenerators:Generator:6>);
 
-//ForestryforMinecraft
+// ForestryforMinecraft
 recipes.remove(<Forestry:engine:1>);
 recipes.remove(<Forestry:engine:2>);
 recipes.remove(<Forestry:engine:4>);
 
-//ThermalExpansion
+// ThermalExpansion
 recipes.remove(<ThermalExpansion:material:0>);
 recipes.remove(<ThermalExpansion:material:1>);
 recipes.remove(<ThermalExpansion:material:2>);
@@ -52,11 +52,13 @@ recipes.remove(<ThermalExpansion:Dynamo:2>);
 recipes.remove(<ThermalExpansion:Dynamo:3>);
 recipes.remove(<ThermalExpansion:Dynamo:4>);
 
-//ImmersiveEngineering
-recipes.remove(<ImmersiveEngineering:tool>);
+// ImmersiveEngineering
 recipes.remove(<ImmersiveEngineering:metalDevice:9>);
+recipes.remove(<ImmersiveEngineering:metalDevice:10>);
+recipes.remove(<ImmersiveEngineering:metalDecoration:6>);
+recipes.remove(<ImmersiveEngineering:tool>);
 
-//EnderIO
+// EnderIO
 recipes.remove(<EnderIO:itemMaterial:2>);
 recipes.remove(<EnderIO:itemMachinePart:1>);
 recipes.remove(<EnderIO:itemBasicCapacitor>);
@@ -66,6 +68,13 @@ recipes.remove(<EnderIO:blockZombieGenerator>);
 recipes.remove(<EnderIO:blockSolarPanel:0>);
 recipes.remove(<EnderIO:blockSolarPanel:1>);
 
+// Mariculture
+recipes.remove(<Mariculture:machines_single:9>);
+
+// Galacticraft
+recipes.remove(<GalacticraftCore:tile.machine>);
+recipes.remove(<GalacticraftCore:tile.solar>);
+recipes.remove(<GalacticraftCore:tile.solar:4>);
 
 /* -------------------- */
 
@@ -96,12 +105,12 @@ recipes.remove(<EnderIO:blockSolarPanel:1>);
 <MekanismGenerators:Generator:5>.addTooltip(format.aqua("Required 'E100'"));
 <MekanismGenerators:Generator:6>.addTooltip(format.aqua("Required 'E100'"));
 
-//ForestryforMinecraft
+// ForestryforMinecraft
 <Forestry:engine:1>.addTooltip(format.aqua("Required 'E100'"));
 <Forestry:engine:2>.addTooltip(format.aqua("Required 'E100'"));
 <Forestry:engine:4>.addTooltip(format.aqua("Required 'E100'"));
 
-//ThermalExpansion
+// ThermalExpansion
 <ThermalExpansion:material:0>.addTooltip(format.aqua("Required 'E100'"));
 <ThermalExpansion:material:1>.addTooltip(format.aqua("Required 'E100'"));
 <ThermalExpansion:material:2>.addTooltip(format.aqua("Required 'E100'"));
@@ -114,11 +123,13 @@ recipes.remove(<EnderIO:blockSolarPanel:1>);
 <ThermalExpansion:Dynamo:3>.addTooltip(format.aqua("Required 'E100'");
 <ThermalExpansion:Dynamo:4>.addTooltip(format.aqua("Required 'E100'");
 
-//ImmersiveEngineering
-<ImmersiveEngineering:tool>.addTooltip(format.aqua("Required 'E100'"));
+// ImmersiveEngineering
 <ImmersiveEngineering:metalDevice:9>.addTooltip(format.aqua("Required 'E100'"));
+<ImmersiveEngineering:metalDevice:10>.addTooltip(format.aqua("Required 'E100'"));
+<ImmersiveEngineering:metalDecoration:6>.addTooltip(format.aqua("Required 'E100'"));
+<ImmersiveEngineering:tool>.addTooltip(format.aqua("Required 'E100'"));
 
-//EnderIO
+// EnderIO
 <EnderIO:itemMaterial:2>.addTooltip(format.aqua("Required 'E100'"));
 <EnderIO:itemMachinePart:1>.addTooltip(format.aqua("Required 'E100'"));
 <EnderIO:itemBasicCapacitor>.addTooltip(format.aqua("Required 'E100'"));
@@ -127,3 +138,11 @@ recipes.remove(<EnderIO:blockSolarPanel:1>);
 <EnderIO:blockZombieGenerator>.addTooltip(format.aqua("Required 'E100'"));
 <EnderIO:blockSolarPanel:0>.addTooltip(format.aqua("Required 'E100'"));
 <EnderIO:blockSolarPanel:1>.addTooltip(format.aqua("Required 'E100'"));
+
+// Mariculture
+<Mariculture:machines_single:9>.addTooltip(format.aqua("Required 'E100'"));
+
+// Galacticraft
+<GalacticraftCore:tile.machine.addTooltip(format.aqua("Required 'E100'"));
+<GalacticraftCore:tile.solar>.addTooltip(format.aqua("Required 'E100'"));
+<GalacticraftCore:tile.solar:4>.addTooltip(format.aqua("Required 'E100'"));

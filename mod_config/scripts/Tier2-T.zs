@@ -2,21 +2,21 @@
 /* -------------------- */
 
 /* ----- Remove ------*/
-# IronBackpacks
+// IronBackpacks
 recipes.remove(<ironbackpacks:upgradeCore>);
 
-# Galacticraft
+// Galacticraft
 recipes.remove(<GalacticraftCore:item.oxygenMask>);
 
-#EnderIO
+//EnderIO
 recipes.remove(<EnderIO:itemGliderWing>);
 
-# watstone
+// watstone
 recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warpStone>);
 recipes.remove(<waystones:warpScrol>);
 
-# TinkersConstruct
+// TinkersConstruct
 recipes.remove(<TConstruct:travelGoggles>);
 recipes.remove(<TConstruct:travelVest>);
 recipes.remove(<TConstruct:travelWings>);
@@ -25,21 +25,21 @@ recipes.remove(<TConstruct:travelGlove>);
 recipes.remove(<TConstruct:travelBelt>);
 
 /*----- tooltips -----*/
-# IronBackpacks
+// IronBackpacks
 <ironbackpacks:upgradeCore>.addTooltip(format.aqua("Required 'T200'"));
 
-# Galacticraft
+// Galacticraft
 <GalacticraftCore:item.oxygenMask>.addTooltip(format.aqua("Required 'T200'"));
 
-#EnderIO
+// EnderIO
 <EnderIO:itemGliderWing>.addTooltip(format.aqua("Required 'T200'"));
 
-# watstone
+// waystone
 <waystones:waystone>.addTooltip(format.aqua("Required 'T200'"));
 <waystones:warpStone>.addTooltip(format.aqua("Required 'T200'"));
 <waystones:warpScrol>.addTooltip(format.aqua("Required 'T200'"));
 
-# TinkersConstruct
+// TinkersConstruct
 <TConstruct:travelGoggles>.addTooltip(format.aqua("Required 'T200'"));
 <TConstruct:travelVest>.addTooltip(format.aqua("Required 'T200'"));
 <TConstruct:travelWings>.addTooltip(format.aqua("Required 'T200'"));
