@@ -4,6 +4,7 @@
 /* ----- Remove ------*/
 // DCsAppleMilk
 recipes.remove(<DCsAppleMilk:defeatedcrow.teaMakerNext>);
+recipes.remove(<DCsAppleMilk:defeatedcrow.teaMakerBlack>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.evaporator>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.processor>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.emptyPanG>);
@@ -64,6 +65,7 @@ recipes.remove(<Mariculture:net>);
 /*----- tooltips -----*/
 // DCsAppleMilk
 <DCsAppleMilk:defeatedcrow.teaMakerNext>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.teaMakerBlack>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.evaporator>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.processor>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.emptyPanG>.addTooltip(format.aqua("Required 'F100'"));
