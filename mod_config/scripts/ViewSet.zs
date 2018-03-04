@@ -12,7 +12,7 @@ NEI.hide(<DCsAppleMilk:defeatedcrow.chopsticks>);
 
 // Botania
 NEI.hide(<Botania:manaCookie>);
-
+NEI.hide(<Botania:rfGenerator>);
 // ExtraUtilities
 NEI.hide(<ExtraUtilities:angelRing:*>);
 NEI.hide(<ExtraUtilities:unstableingot:*>);
@@ -61,6 +61,12 @@ NEI.hide(<Mariculture:upgrade:*>);
 // TConstruct
 NEI.hide(<TConstruct:MeatBlock>);
 
+// Mekanism
+NEI.hide(<nevermine:SkeletalHelmet>    );
+NEI.hide(<nevermine:SkeletalChestplate>);
+NEI.hide(<nevermine:SkeletalLeggings>  );
+NEI.hide(<nevermine:SkeletalBoots>     );
+
 
 /* -------------------- */
 
@@ -72,6 +78,7 @@ NEI.hide(<TConstruct:MeatBlock>);
 
 // Botania
 <Botania:manaCookie>.addTooltip(format.red("DeleteRecipe"));
+<Botania:rfGenerator>.addTooltip(format.red("DeleteRecipe"));
 
 // ExtraUtilities
 <ExtraUtilities:angelRing:*>.addTooltip(format.red("DeleteRecipe"));
@@ -118,3 +125,9 @@ NEI.hide(<TConstruct:MeatBlock>);
 
 // TConstruct
 <TConstruct:MeatBlock>.addTooltip(format.red("DeleteRecipe"));
+
+// Mekanism
+ <nevermine:SkeletalHelmet>    .addTooltip(format.red("DeleteRecipe"));
+ <nevermine:SkeletalChestplate>.addTooltip(format.red("DeleteRecipe"));
+ <nevermine:SkeletalLeggings>  .addTooltip(format.red("DeleteRecipe"));
+ <nevermine:SkeletalBoots>     .addTooltip(format.red("DeleteRecipe"));

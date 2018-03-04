@@ -5,6 +5,7 @@ recipes.remove(<DCsAppleMilk:defeatedcrow.chopsticks>);
 
 // Botania
 mods.botania.ManaInfusion.removeRecipe(<Botania:manaCookie>);
+recipes.remove(<Botania:rfGenerator>);
 
 
 // ExtraUtilities
@@ -57,10 +58,10 @@ recipes.remove(<GalacticraftCore:item.basicItem:18>);
 
 
 // nevermine
-recipes.remove(<nevermine:SkeletalHelmet>);
+recipes.remove(<nevermine:SkeletalHelmet>    );
 recipes.remove(<nevermine:SkeletalChestplate>);
-recipes.remove(<nevermine:SkeletalLeggings>);
-recipes.remove(<nevermine:SkeletalBoots>);
+recipes.remove(<nevermine:SkeletalLeggings>  );
+recipes.remove(<nevermine:SkeletalBoots>     );
 
 
 // Mariculture
@@ -69,3 +70,8 @@ recipes.remove(<Mariculture:upgrade:*>);
 
 // TConstruct
 recipes.remove(<TConstruct:MeatBlock>);
+
+// Mekanism
+recipes.remove(<Mekanism:Jetpack>);
+recipes.remove(<Mekanism:ArmoredJetpack>);
+recipes.remove(<Mekanism:CardboardBox>);
