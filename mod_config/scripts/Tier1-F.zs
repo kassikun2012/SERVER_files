@@ -62,6 +62,9 @@ recipes.remove(<Mariculture:rod_titanium>);
 recipes.remove(<Mariculture:rod_flux>);
 recipes.remove(<Mariculture:net>);
 
+// RandomThings
+recipes.remove(<RandomThings:fertilizedDirt>);
+
 /*----- tooltips -----*/
 // DCsAppleMilk
 <DCsAppleMilk:defeatedcrow.teaMakerNext>.addTooltip(format.aqua("Required 'F100'"));
@@ -122,3 +125,6 @@ recipes.remove(<Mariculture:net>);
 <Mariculture:rod_titanium>.addTooltip(format.aqua("Required 'F100'"));
 <Mariculture:rod_flux>.addTooltip(format.aqua("Required 'F100'"));
 <Mariculture:net>.addTooltip(format.aqua("Required 'F100'"));
+
+// RandomThings
+<RandomThings:fertilizedDirt>.addTooltip(format.aqua("Required 'F100'"));
