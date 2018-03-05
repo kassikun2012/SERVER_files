@@ -83,3 +83,13 @@ recipes.remove(<RandomThings:spectreHelmet>);
 recipes.remove(<RandomThings:spectreChestplate>);
 recipes.remove(<RandomThings:spectreLeggings>);
 recipes.remove(<RandomThings:spectreBoots>);
+
+// harvestcraft
+recipes.remove(<harvestcraft:carrotcakeItem>);
+recipes.remove(<harvestcraft:cheesecakeItem>);
+recipes.remove(<harvestcraft:cherrycheesecakeItem>);
+recipes.remove(<harvestcraft:pineappleupsidedowncakeItem>);
+recipes.remove(<harvestcraft:chocolatesprinklecakeItem>);
+recipes.remove(<harvestcraft:redvelvetcakeItem>);
+recipes.remove(<harvestcraft:holidaycakeItem>);
+recipes.remove(<harvestcraft:pumpkincheesecakeItem>);

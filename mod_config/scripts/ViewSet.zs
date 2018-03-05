@@ -77,6 +77,16 @@ NEI.hide(<RandomThings:spectreChestplate>);
 NEI.hide(<RandomThings:spectreLeggings>);
 NEI.hide(<RandomThings:spectreBoots>);
 
+// harvestcraft
+NEI.hide(<harvestcraft:carrotcakeItem>);
+NEI.hide(<harvestcraft:cheesecakeItem>);
+NEI.hide(<harvestcraft:cherrycheesecakeItem>);
+NEI.hide(<harvestcraft:pineappleupsidedowncakeItem>);
+NEI.hide(<harvestcraft:chocolatesprinklecakeItem>);
+NEI.hide(<harvestcraft:redvelvetcakeItem>);
+NEI.hide(<harvestcraft:holidaycakeItem>);
+NEI.hide(<harvestcraft:pumpkincheesecakeItem>);
+
 
 
 /* -------------------- */
@@ -150,3 +160,14 @@ NEI.hide(<RandomThings:spectreBoots>);
 <RandomThings:spectreChestplate>.addTooltip(format.red("DeleteRecipe"));
 <RandomThings:spectreLeggings>.addTooltip(format.red("DeleteRecipe"));
 <RandomThings:spectreBoots>.addTooltip(format.red("DeleteRecipe"));
+
+
+// harvestcraft
+<harvestcraft:carrotcakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:cheesecakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:cherrycheesecakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:pineappleupsidedowncakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:chocolatesprinklecakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:redvelvetcakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:holidaycakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:pumpkincheesecakeItem>.addTooltip(format.red("DeleteRecipe"));
