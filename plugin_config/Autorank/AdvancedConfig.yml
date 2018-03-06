@@ -8,259 +8,186 @@
 #############################################################################
 
 ranks:
-    visitor:
+    V000:
         requirements:
             time:
                 value: 1h
         results:
-            rank change: visitor;resident
-            command: 'say &p got to resident' 
+            rank change: V000;R000
+            command: 'say &p got to R000' 
 
 
-    resident:
+    R000:
         requirements:
             time:
-                value: 5h
+                value: 3h
             money:
-                value: 100
-            has item:
-                value: 5630;1
+                value: 1
         results:
-            rank change: resident;charged-resident
-            command: 'say &p got to charged-resident; give &p 5347 1' 
+            rank change: R000;R00C
+            command: 'say &p got to R00C! try command /R00C' 
 
 
-    farmer1:
+    E100:
+        requirements:
+            time:
+                value: 9h
+            money:
+                value: 3
+        results:
+            rank change: E100;E10C
+            command: 'say &p got to E10C! try command /E10C' 
+
+    F100:
+        requirements:
+            time:
+                value: 9h
+            money:
+                value: 3
+        results:
+            rank change: F100;F10C
+            command: 'say &p got to F10C! try command /F10C' 
+
+    W100:
+        requirements:
+            time:
+                value: 9h
+            money:
+                value: 3
+        results:
+            rank change: W100;W10C
+            command: 'say &p got to W10C! try command /W10C' 
+
+    T100:
+        requirements:
+            time:
+                value: 9h
+            money:
+                value: 3
+        results:
+            rank change: T100;T10C
+            command: 'say &p got to T10C! try command /T10C' 
+
+    E200:
         requirements:
             time:
                 value: 15h
             money:
-                value: 500
-            has item:
-                value: 5630;5
+                value: 3
         results:
-            rank change: farmer1;farmer2
-            command: 'say &p got to farmer2' 
+            rank change: E200;E20C
+            command: 'say &p got to E20C! try command /E20C' 
 
-    engineer1:
+    F200:
         requirements:
             time:
                 value: 15h
             money:
-                value: 500
-            has item:
-                value: 5630;5
+                value: 3
         results:
-            rank change: engineer1;engineer2
-            command: 'say &p got to engineer2' 
+            rank change: F200;F20C
+            command: 'say &p got to F20C! try command /F20C' 
 
-    explorer1:
+    W200:
         requirements:
             time:
                 value: 15h
             money:
-                value: 500
-            has item:
-                value: 5630;5
+                value: 3
         results:
-            rank change: explorer1;explorer2
-            command: 'say &p got to explorer2' 
+            rank change: W200;W20C
+            command: 'say &p got to W20C! try command /W20C' 
 
-    wizard1:
+    T200:
         requirements:
             time:
                 value: 15h
             money:
-                value: 500
-            has item:
-                value: 5630;5
+                value: 3
         results:
-            rank change: wizard1;wizard2
-            command: 'say &p got to wizard2' 
+            rank change: T200;T20C
+            command: 'say &p got to T20C! try command /T20C' 
 
-    farmer2:
+    E3A0:
         requirements:
             time:
-                value: 30h
+                value: 20h
             money:
-                value: 1000
-            has item:
-                value: 5630;10
+                value: 3
         results:
-            rank change: farmer2;charged-farmer2
-            command: 'say &p got to charged-farmer2; give &p 5348 1' 
+            rank change: E3A0;E3AC
+            command: 'say &p got to E3AC! try command /E3AC'
 
-    engineer2:
+    E3B0:
         requirements:
             time:
-                value: 30h
+                value: 20h
             money:
-                value: 1000
-            has item:
-                value: 5630;10
+                value: 3
         results:
-            rank change: engineer2;charged-engineer2
-            command: 'say &p got to charged-engineer2; give &p 5349 1' 
+            rank change: E3B0;E3BC
+            command: 'say &p got to E3BC! try command /E3BC' 
 
-    explorer2:
+    F3A0:
         requirements:
             time:
-                value: 30h
+                value: 20h
             money:
-                value: 1000
-            has item:
-                value: 5630;10
+                value: 3
         results:
-            rank change: explorer2;charged-explorer2
-            command: 'say &p got to charged-explorer2; give &p 5350 1' 
+            rank change: F3A0;F3AC
+            command: 'say &p got to F3AC! try command /F3AC' 
 
-    wizard2:
+    F3B0:
         requirements:
             time:
-                value: 30h
+                value: 20h
             money:
-                value: 1000
-            has item:
-                value: 5630;10
+                value: 3
         results:
-            rank change: wizard2;charged-wizard2
-            command: 'say &p got to charged-wizard2; give &p 5351 1' 
+            rank change: F3B0;F3BC
+            command: 'say &p got to F3BC! try command /F3BC' 
 
-    combiner:
+    W3A0:
         requirements:
             time:
-                value: 50h
+                value: 20h
             money:
-                value: 3000
-            has item:
-                value: 5630;15
+                value: 3
         results:
-            rank change: combiner;charged-combiner
-            command: 'say &p got to charged-combiner; give &p 5648 1' 
+            rank change: W3A0;W3AC
+            command: 'say &p got to W3AC! try command /W3AC'
 
-    skyconquester:
+    W3B0:
         requirements:
             time:
-                value: 50h
+                value: 20h
             money:
-                value: 3000
-            has item:
-                value: 5630;15
+                value: 3
         results:
-            rank change: skyconquester;charged-skyconquester
-            command: 'say &p got to charged-skyconquester; give &p 5650 1' 
+            rank change: W3B0;W3BC
+            command: 'say &p got to W3BC! try command /W3BC'
 
-    stranger:
+    T3A0:
         requirements:
             time:
-                value: 50h
+                value: 20h
             money:
-                value: 3000
-            has item:
-                value: 5630;15
+                value: 3
         results:
-            rank change: stranger;charged-stranger
-            command: 'say &p got to charged-stranger; give &p 5649 1' 
+            rank change: T3A0;T3AC
+            command: 'say &p got to T3AC! try command /T3AC'
 
-    woodman:
+    T3B0:
         requirements:
             time:
-                value: 50h
+                value: 20h
             money:
-                value: 3000
-            has item:
-                value: 5630;15
+                value: 3
         results:
-            rank change: woodman;charged-woodman
-            command: 'say &p got to charged-woodman; give &p 5627 1' 
+            rank change: T3B0;T3BC
+            command: 'say &p got to T3BC! try command /T3BC'
 
-    forester:
-        requirements:
-            time:
-                value: 100h
-            money:
-                value: 5000
-            has item:
-                value: 5630;30
-        results:
-            rank change: forester;URANUS
-            command: 'say &p got to URANUS'
-
-    technomancer:
-        requirements:
-            time:
-                value: 100h
-            money:
-                value: 5000
-            has item:
-                value: 5630;30
-        results:
-            rank change: technomancer;URANUS
-            command: 'say &p got to URANUS'
-
-    EXmachina:
-        requirements:
-            time:
-                value: 100h
-            money:
-                value: 5000
-            has item:
-                value: 5630;30
-        results:
-            rank change: EXmachina;MOEBIUS
-            command: 'say &p got to MOEBIUS'
-
-    saduj:
-        requirements:
-            time:
-                value: 100h
-            money:
-                value: 5000
-            has item:
-                value: 5630;30
-        results:
-            rank change: saduj;MOEBIUS
-            command: 'say &p got to MOEBIUS'
-
-    URANUS:
-        requirements:
-            time:
-                value: 200h
-            money:
-                value: 10000
-            has item:
-                value: 5630;60
-        results:
-            rank change: URANUS;TOKIO
-            command: 'say &p got to TOKIO'
-
-    MOEBIUS:
-        requirements:
-            time:
-                value: 200h
-            money:
-                value: 10000
-            has item:
-                value: 5630;60
-        results:
-            rank change: MOEBIUS;TOKIO
-            command: 'say &p got to TOKIO'
-
-    TOKIO:
-        requirements:
-            money:
-                value: 200000
-        results:
-            rank change: TOKIO;TT
-            command: 'say &p got to TT!!'
-
-    TT:
-        requirements:
-            money:
-                value: 400000
-        results:
-            rank change: TT;TTT
-            command: 'say &p got to TTT!!'
 
 
             
