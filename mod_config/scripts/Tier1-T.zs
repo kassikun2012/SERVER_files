@@ -11,11 +11,17 @@ recipes.remove(<ironbackpacks:diamondBackpack>);
 recipes.remove(<Forestry:apiaristBag>);
 recipes.remove(<Forestry:lepidopteristBag>);
 recipes.remove(<Forestry:minerBag>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:minerBagT2>, <liquid:water>);
 recipes.remove(<Forestry:diggerBag>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:diggerBagT2>, <liquid:water>);
 recipes.remove(<Forestry:foresterBag>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:foresterBagT2>, <liquid:water>);
 recipes.remove(<Forestry:hunterBag>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:hunterBagT2>, <liquid:water>);
 recipes.remove(<Forestry:adventurerBag>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:adventurerBagT2>, <liquid:water>);
 recipes.remove(<Forestry:builderBag>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:builderBagT2>, <liquid:water>);
 
 // fossil
 recipes.remove(<fossil:analyzer>);
