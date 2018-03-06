@@ -82,6 +82,7 @@ recipes.remove(<appliedenergistics2:tile.BlockVibrationChamber>);
 
 // AppleMilkTea2
 recipes.remove(<DCsAppleMilk:defeatedcrow.EHandle>);
+recipes.remove(<DCsAppleMilk:defeatedcrow.battery:2>);
 
 
 
@@ -162,3 +163,4 @@ recipes.remove(<DCsAppleMilk:defeatedcrow.EHandle>);
 
 // AppleMilkTea2
 <DCsAppleMilk:defeatedcrow.EHandle>.addTooltip(format.aqua("Required 'E100'"));
+<DCsAppleMilk:defeatedcrow.battery:2>.addTooltip(format.aqua("Required 'E100'"));
