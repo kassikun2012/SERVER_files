@@ -159,10 +159,10 @@ groups:
     - ItemRestrict.bypass.6232.0  .own #EnrichedAlloy           
     - ItemRestrict.bypass.6233.0  .own #ReinforcedAlloy         
     - ItemRestrict.bypass.6234.0  .own #AtomicAlloy             
-    - ItemRestrict.bypass.6235.0  .own #ControlCircuit          
-    - ItemRestrict.bypass.6235.1  .own #ControlCircuit          
-    - ItemRestrict.bypass.6235.2  .own #ControlCircuit          
-    - ItemRestrict.bypass.6235.3  .own #ControlCircuit          
+    - ItemRestrict.bypass.6236.0  .own #BasicControlCircuit          
+    - ItemRestrict.bypass.6236.1  .own #AdvancedControlCircuit          
+    - ItemRestrict.bypass.6236.2  .own #EliteControlCircuit          
+    - ItemRestrict.bypass.6236.3  .own #UltimateControlCircuit          
     - ItemRestrict.bypass.6355.0  .own #ElectrolyticCore        
     - ItemRestrict.bypass.6343.0  .own #TeleportationCore       
     - ItemRestrict.bypass.6324.0  .own #EnergyTablet            
@@ -222,15 +222,6 @@ groups:
     - ItemRestrict.bypass.2731.*  .own #tool_forge         
     - ItemRestrict.bypass.2771.0  .own #smeltery_controller
     
-    # ExtraUtilities
-    - ItemRestrict.bypass.6739.0  .own #speed_upgrade              
-    - ItemRestrict.bypass.6739.1  .own #world_integration_upgrade  
-    - ItemRestrict.bypass.6739.2  .own #stack_upgrade              
-    - ItemRestrict.bypass.6739.3  .own #ender_transmitter          
-    - ItemRestrict.bypass.6739.4  .own #ender_receiver             
-    - ItemRestrict.bypass.6739.5  .own #depth-first_serch_upgrade  
-    - ItemRestrict.bypass.6739.6  .own #breadth-first_serch_upgrade
-    - ItemRestrict.bypass.6739.7  .own #pseudp_round_robin_upgrade 
     
     inheritance:
     - E10C
@@ -310,12 +301,11 @@ groups:
     - ItemRestrict.bypass.180 .0  .own #evaporator         
     - ItemRestrict.bypass.178 .0  .own #foodprocessor      
     - ItemRestrict.bypass.169 .0  .own #clay_pan           
-    - ItemRestrict.bypass.168 .0  .own #clay_pan           
     - ItemRestrict.bypass.177 .0  .own #cooking_iron_plate 
     
     # Pams harvestcraft
-    - ItemRestrict.bypass.7360.0  .own #pot    
-    - ItemRestrict.bypass.7369.0  .own #juicer 
+    - ItemRestrict.bypass.7390.0  .own #pot    
+    - ItemRestrict.bypass.7396.0  .own #juicer 
     
     # Mariculture
     - ItemRestrict.bypass.7206.0  .own #fishing_rod_reed    
@@ -347,16 +337,16 @@ groups:
     - ItemRestrict.bypass.2344.3  .own #Farm_Hatch           
     - ItemRestrict.bypass.2344.4  .own #Farm_Valve           
     - ItemRestrict.bypass.2344.5  .own #Farm_Control         
-    - ItemRestrict.bypass.2341.1  .own #Carpenter            
-    - ItemRestrict.bypass.2342.0  .own #Thermionic_Fabricator
-    - ItemRestrict.bypass.2341.5  .own #Squeezer             
     - ItemRestrict.bypass.2341.0  .own #Bottler              
+    - ItemRestrict.bypass.2341.1  .own #Carpenter            
     - ItemRestrict.bypass.2341.3  .own #Fermenter            
-    - ItemRestrict.bypass.2341.6  .own #Still                
     - ItemRestrict.bypass.2341.4  .own #Moistener            
+    - ItemRestrict.bypass.2341.5  .own #Squeezer             
+    - ItemRestrict.bypass.2341.6  .own #Still                
+    - ItemRestrict.bypass.2342.0  .own #Thermionic_Fabricator
     
     # Pams harvestcraft
-    - ItemRestrict.bypass.2903.0  .own  #market
+    - ItemRestrict.bypass.2924.0  .own  #market
     
     # EnderIO	
     - ItemRestrict.bypass.2250.0  .own #Farming_Station
@@ -446,7 +436,7 @@ groups:
     - ItemRestrict.bypass.180 .0  .own #evaporator
     
     # botania
-    - ItemRestrict.bypass.1634.*  .own #petal_apothecary   
+    - ItemRestrict.bypass.1643.*  .own #petal_apothecary   
     - ItemRestrict.bypass.5585.*  .own #wand_of_forest     
     - ItemRestrict.bypass.5586.0  .own #manasteel_ingot    
     - ItemRestrict.bypass.5586.1  .own #mana_pearl         
@@ -486,7 +476,7 @@ groups:
     # Item bypass
     # botania
     - ItemRestrict.bypass.1687.0.own #terrestrial_a_p
-    - ItemRestrict.bypass.1615.0.own #mana_pylon     
+    - ItemRestrict.bypass.1651.0.own #mana_pylon     
     
     # Thaumcraft
     - ItemRestrict.bypass.5524.17 .own #Thaumostatic_Harness
@@ -586,17 +576,17 @@ groups:
     - rerecipecreators.recipes.T200
     # Item bypass
     # ironbackpack
-    - ItemRestrict.bypass.7152.0   .own #upgrade_core       
+    - ItemRestrict.bypass.7073.0   .own #upgrade_core       
     
     # EnderIO
-    - ItemRestrict.bypass.7152.0   .own #glider_wing        
+    - ItemRestrict.bypass.5893.0   .own #glider_wing        
     
     # TinkersConstruct
-    - ItemRestrict.bypass.7152.0   .own #traveller's goggles
-    - ItemRestrict.bypass.7152.0   .own #traveller's vest   
-    - ItemRestrict.bypass.7152.0   .own #traveller's wings   
-    - ItemRestrict.bypass.7152.0   .own #traveller's boots  
-    - ItemRestrict.bypass.7152.0   .own #traveller's gloves 
+    - ItemRestrict.bypass.7147.0   .own #traveller's goggles
+    - ItemRestrict.bypass.7148.0   .own #traveller's vest   
+    - ItemRestrict.bypass.7149.0   .own #traveller's wings   
+    - ItemRestrict.bypass.7150.0   .own #traveller's boots  
+    - ItemRestrict.bypass.7151.0   .own #traveller's gloves 
     - ItemRestrict.bypass.7152.0   .own #traveller's belt   
     
     

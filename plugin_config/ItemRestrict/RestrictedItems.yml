@@ -28,11 +28,11 @@ OwnershipBanned:
 - 6265:3  :redstone_conductance_coil :I don't know what it is 
 - 3443:0  :machine_frame             :I don't know what it is 
 - 3443:4  :leadstone_energycell_frame:I don't know what it is
-- 3296:0  :Steam_Dynamo              :I don't know what it is 
-- 3296:1  :Magmatic_Dynamo           :I don't know what it is 
-- 3296:2  :Compression_Dynamo        :I don't know what it is 
-- 3296:3  :Reactant_Dynamo           :I don't know what it is 
-- 3296:4  :Enervation_Dynamo         :I don't know what it is 
+- 3434:0  :Steam_Dynamo              :I don't know what it is 
+- 3434:1  :Magmatic_Dynamo           :I don't know what it is 
+- 3434:2  :Compression_Dynamo        :I don't know what it is 
+- 3434:3  :Reactant_Dynamo           :I don't know what it is 
+- 3434:4  :Enervation_Dynamo         :I don't know what it is 
 
 # ImmersiveEngineering
 - 2682:9  :Kinetic_Dynamo          :I don't know what it is 
@@ -59,10 +59,10 @@ OwnershipBanned:
 - 6332:0  :EnrichedAlloy           :I don't know what it is
 - 6333:0  :ReinforcedAlloy         :I don't know what it is
 - 6334:0  :AtomicAlloy             :I don't know what it is
-- 6335:0  :BasicControlCircuit     :I don't know what it is
-- 6335:1  :AdvencedControlCircuit  :I don't know what it is
-- 6335:2  :EliteControlCircuit     :I don't know what it is
-- 6335:3  :UltimateControlCircuit  :I don't know what it is
+- 6336:0  :BasicControlCircuit     :I don't know what it is
+- 6336:1  :AdvencedControlCircuit  :I don't know what it is
+- 6336:2  :EliteControlCircuit     :I don't know what it is
+- 6336:3  :UltimateControlCircuit  :I don't know what it is
 - 6355:0  :ElectrolyticCore        :I don't know what it is
 - 6343:0  :TeleportationCore       :I don't know what it is
 - 6324:0  :EnergyTablet            :I don't know what it is
@@ -108,15 +108,6 @@ OwnershipBanned:
 - 2731:*  :tool_forge         :I don't know what it is
 - 2771:0  :smeltery_controller:I don't know what it is
 
-# ExtraUtilities
-- 6739:0  :speed_upgrade              :I don't know what it is
-- 6739:1  :world_integration_upgrade  :I don't know what it is
-- 6739:2  :stack_upgrade              :I don't know what it is
-- 6739:3  :ender_transmitter          :I don't know what it is
-- 6739:4  :ender_receiver             :I don't know what it is
-- 6739:5  :depth-first_serch_upgrade  :I don't know what it is
-- 6739:6  :breadth-first_serch_upgrade:I don't know what it is
-- 6739:7  :pseudp_round_robin_upgrade :I don't know what it is
 
 # ------------ E3A0 ------------
 # ThermalExpansion
@@ -139,12 +130,11 @@ OwnershipBanned:
 - 180 :0  :evaporator        :I don't know what it is 
 - 178 :0  :foodprocessor     :I don't know what it is 
 - 169 :0  :clay_pan          :I don't know what it is 
-- 168 :0  :clay_pan          :I don't know what it is 
 - 177 :0  :cooking_iron_plate:I don't know what it is 
 
 # Pams harvestcraft
-- 7360:0  :pot   :I don't know what it is 
-- 7369:0  :juicer:I don't know what it is 
+- 7390:0  :pot   :I don't know what it is 
+- 7396:0  :juicer:I don't know what it is 
 
 # Mariculture
 - 7206:0  :fishing_rod_reed    :I don't know what it is
@@ -161,16 +151,16 @@ OwnershipBanned:
 - 2344:3  :Farm_Hatch           :I don't know what it is
 - 2344:4  :Farm_Valve           :I don't know what it is
 - 2344:5  :Farm_Control         :I don't know what it is
-- 2341:1  :Carpenter            :I don't know what it is
-- 2342:0  :Thermionic_Fabricator:I don't know what it is
-- 2341:5  :Squeezer             :I don't know what it is
 - 2341:0  :Bottler              :I don't know what it is
+- 2341:1  :Carpenter            :I don't know what it is
 - 2341:3  :Fermenter            :I don't know what it is
-- 2341:6  :Still                :I don't know what it is
 - 2341:4  :Moistener            :I don't know what it is
+- 2341:5  :Squeezer             :I don't know what it is
+- 2341:6  :Still                :I don't know what it is
+- 2342:0  :Thermionic_Fabricator:I don't know what it is
 
 # Pams harvestcraft
-- 2903:0  :market:I don't know what it is 
+- 2924:0  :market:I don't know what it is 
 
 # EnderIO	
 - 2250:0  :Farming_Station:I don't know what it is 
@@ -202,7 +192,7 @@ OwnershipBanned:
 - 180 :0  :evaporator:I don't knoow what it is 
 
 # botania
-- 1634:*  :petal_apothecary   :I don't know what it is 
+- 1643:*  :petal_apothecary   :I don't know what it is 
 - 5585:*  :wand_of_forest     :I don't know what it is
 - 5586:0  :manasteel_ingot    :I don't know what it is
 - 5586:1  :mana_pearl         :I don't know what it is
@@ -227,7 +217,7 @@ OwnershipBanned:
 # ------------ W200 ------------
 # botania
 - 1687:0  :terrestrial_a_p:I don't know what it is 
-- 1615:0  :mana_pylon     :I don't know what it is 
+- 1651:0  :mana_pylon     :I don't know what it is 
 
 # Thaumcraft
 - 5524:17 :Thaumostatic_Harness:I don't know what it is
@@ -256,17 +246,17 @@ OwnershipBanned:
 
 # ------------ T200 ------------
 # ironbackpack
-- 7152:0   :upgrade_core       :I don't know what it is
+- 7073:0   :upgrade_core       :I don't know what it is
 
 # EnderIO
-- 7152:0   :glider_wing        :I don't know what it is
+- 5893:0   :glider_wing        :I don't know what it is
 
 # TinkersConstruct
-- 7152:0   :traveller's goggles:I don't know what it is
-- 7152:0   :traveller's vest   :I don't know what it is
-- 7152:0   :traveller's wings  :I don't know what it is
-- 7152:0   :traveller's boots  :I don't know what it is
-- 7152:0   :traveller's gloves :I don't know what it is
+- 7147:0   :traveller's goggles:I don't know what it is
+- 7148:0   :traveller's vest   :I don't know what it is
+- 7149:0   :traveller's wings  :I don't know what it is
+- 7150:0   :traveller's boots  :I don't know what it is
+- 7151:0   :traveller's gloves :I don't know what it is
 - 7152:0   :traveller's belt   :I don't know what it is
 
 # ------------ other ------------
@@ -286,7 +276,7 @@ OwnershipBanned:
 
 # RandomThings
 - 8174:0   :Whitestone    :I don't know what it is
-- 8187:0   :Bloodstone    :I don't know what it is
+- 8188:0   :Bloodstone    :I don't know what it is
 
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to
 CraftingBanned:
