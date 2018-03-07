@@ -60,7 +60,7 @@ test-from-console1:
   POSITION-X: 4
   POSITION-Y: 4
 
-test-from-console1:
+test-from-console2:
   COMMAND: 'console: pex user {player} group set W3B0; console: Say {player} got to W3B0!'
   NAME: '&cW3B0<魔>'
   LORE:
