@@ -20,263 +20,153 @@
 
 
 OwnershipBanned:
-# ------------ E100 ------------ 
-# ThermalExpansion
-- 6265:0  :pneumatic_servo           :I don't know what it is 
-- 6265:1  :redstone_reception_coil   :I don't know what it is 
-- 6265:2  :redstone_transmission_coil:I don't know what it is 
-- 6265:3  :redstone_conductance_coil :I don't know what it is 
-- 3443:0  :machine_frame             :I don't know what it is 
-- 3443:4  :leadstone_energycell_frame:I don't know what it is
-- 3434:0  :Steam_Dynamo              :I don't know what it is 
-- 3434:1  :Magmatic_Dynamo           :I don't know what it is 
-- 3434:2  :Compression_Dynamo        :I don't know what it is 
-- 3434:3  :Reactant_Dynamo           :I don't know what it is 
-- 3434:4  :Enervation_Dynamo         :I don't know what it is 
-
-# ImmersiveEngineering
-- 2682:9  :Kinetic_Dynamo          :I don't know what it is 
-- 2682:10 :thermoelectric generator:I don't know what it is 
-- 2684:6  :generator block         :I don't know what it is
-- 2686:0  :lightnig_rod_base       :I don't know what it is 
-- 7030:0  :engineer's_hammer       :I don't know what it is 
-
-#  EnderIO
-- 5875:2  :binder_composite        :I don't know what it is 
-- 5874:1  :basic_gear              :I don't know what it is 
-- 5873:0  :basic_capasitor         :I don't know what it is 
-- 2230:0  :StirlingGenerator       :I don't know what it is 
-- 2231:0  :CombustionGenerator     :I don't know what it is 
-- 2232:0  :ZombieGenerator         :I don't know what it is 
-- 2233:0  :PhotovoltaicCell        :I don't know what it is 
-- 2233:1  :AdvancedPhotovoltaicCell:I don't know what it is 
-
-# Mekanism
-- 6338:0  :CompressedCarbon        :I don't know what it is
-- 6339:0  :CompressedRedstone      :I don't know what it is
-- 6340:0  :CompressedDiamond       :I don't know what it is
-- 6341:0  :CompressedObsidian      :I don't know what it is
-- 6332:0  :EnrichedAlloy           :I don't know what it is
-- 6333:0  :ReinforcedAlloy         :I don't know what it is
-- 6334:0  :AtomicAlloy             :I don't know what it is
-- 6336:0  :BasicControlCircuit     :I don't know what it is
-- 6336:1  :AdvencedControlCircuit  :I don't know what it is
-- 6336:2  :EliteControlCircuit     :I don't know what it is
-- 6336:3  :UltimateControlCircuit  :I don't know what it is
-- 6355:0  :ElectrolyticCore        :I don't know what it is
-- 6343:0  :TeleportationCore       :I don't know what it is
-- 6324:0  :EnergyTablet            :I don't know what it is
-- 2444:8  :SteelCasing             :I don't know what it is
-- 6323:0  :ObsidianIngot           :I don't know what it is
-- 7251:0  :SolarPanel              :I don't know what it is
-- 2823:0  :HeatGenerator           :I don't know what it is
-- 2823:1  :SolarGenerator          :I don't know what it is 
-- 2823:3  :Gas-BurningGenerator    :I don't know what it is 
-- 2823:4  :Bio-Generator           :I don't know what it is 
-- 2823:5  :Advanced Solar Generator:I don't know what it is 
-- 2823:6  :WindGenerator           :I don't know what it is 
-
-# Forestry for Minecraft
-- 2340:1  :peat-firedengine:I don't know what it is 
-- 2340:2  :biogusengine    :I don't know what it is 
-- 2340:4  :clockworkengine :I don't know what it is 
-
-# Galacticraft
-- 2424:0  :Coal Generator      :I don't know what it is 
-- 2422:0  :Basic Solar Panel   :I don't know what it is 
-- 2422:4  :Advanced Solar Panel:I don't know what it is 
-
-# Mariculture
-- 2790:9  :generator:I don't know what it is 
-
-# AppliedEnergistics2
-- 478 :0   :vibration_chamber      :I don't know what it is
-
-# AppleMilkTea2
-- 186 :0   :manual_charge_generator:I don't know what it is
-
-
-
-# ------------ E200 ------------
-# ThermalFoundation
+- 6265:0:pneumatic_servo:I don't know what it is 
+- 6265:1:redstone_reception_coil:I don't know what it is 
+- 6265:2:redstone_transmission_coil:I don't know what it is 
+- 6265:3:redstone_conductance_coil:I don't know what it is 
+- 3443:0:machine_frame:I don't know what it is 
+- 3443:4:leadstone_energycell_frame:I don't know what it is
+- 3434:0:Steam_Dynamo:I don't know what it is 
+- 3434:1:Magmatic_Dynamo:I don't know what it is 
+- 3434:2:Compression_Dynamo:I don't know what it is 
+- 3434:3:Reactant_Dynamo:I don't know what it is 
+- 3434:4:Enervation_Dynamo:I don't know what it is 
+- 2682:9:Kinetic_Dynamo:I don't know what it is 
+- 2682:10:thermoelectric generator:I don't know what it is 
+- 2684:6:generator block:I don't know what it is
+- 2686:0:lightnig_rod_base:I don't know what it is 
+- 7030:0:engineer's_hammer:I don't know what it is 
+- 5875:2:binder_composite:I don't know what it is 
+- 5874:1:basic_gear:I don't know what it is 
+- 5873:0:basic_capasitor:I don't know what it is 
+- 2230:0:StirlingGenerator:I don't know what it is 
+- 2231:0:CombustionGenerator:I don't know what it is 
+- 2232:0:ZombieGenerator:I don't know what it is 
+- 2233:0:PhotovoltaicCell:I don't know what it is 
+- 2233:1:AdvancedPhotovoltaicCell:I don't know what it is 
+- 6338:0:CompressedCarbon:I don't know what it is
+- 6339:0:CompressedRedstone:I don't know what it is
+- 6340:0:CompressedDiamond:I don't know what it is
+- 6341:0:CompressedObsidian:I don't know what it is
+- 6332:0:EnrichedAlloy:I don't know what it is
+- 6333:0:ReinforcedAlloy:I don't know what it is
+- 6334:0:AtomicAlloy:I don't know what it is
+- 6336:0:BasicControlCircuit:I don't know what it is
+- 6336:1:AdvencedControlCircuit:I don't know what it is
+- 6336:2:EliteControlCircuit:I don't know what it is
+- 6336:3:UltimateControlCircuit:I don't know what it is
+- 6355:0:ElectrolyticCore:I don't know what it is
+- 6343:0:TeleportationCore:I don't know what it is
+- 6324:0:EnergyTablet:I don't know what it is
+- 2444:8:SteelCasing:I don't know what it is
+- 6323:0:ObsidianIngot:I don't know what it is
+- 7251:0:SolarPanel:I don't know what it is
+- 2823:0:HeatGenerator:I don't know what it is
+- 2823:1:SolarGenerator:I don't know what it is 
+- 2823:3:Gas-BurningGenerator:I don't know what it is 
+- 2823:4:Bio-Generator:I don't know what it is 
+- 2823:5:Advanced Solar Generator:I don't know what it is 
+- 2823:6:WindGenerator:I don't know what it is 
+- 2340:1:peat-firedengine:I don't know what it is 
+- 2340:2:biogusengine:I don't know what it is 
+- 2340:4:clockworkengine:I don't know what it is 
+- 2424:0:Coal Generator:I don't know what it is 
+- 2422:0:Basic Solar Panel:I don't know what it is 
+- 2422:4:Advanced Solar Panel:I don't know what it is 
+- 2790:9:generator:I don't know what it is 
+- 478:0:vibration_chamber:I don't know what it is
+- 186:0:manual_charge_generator:I don't know what it is
 - 6120:512:pyrotheum_dust:I don't know what it is 
-
-# Mekanism
-- 2444:14 :ThermalEvaporationController:I don't know what it is 
-
-# TinkersConstruct
-- 2731:*  :tool_forge         :I don't know what it is
-- 2771:0  :smeltery_controller:I don't know what it is
-
-
-# ------------ E3A0 ------------
-# ThermalExpansion
+- 2444:14:ThermalEvaporationController:I don't know what it is 
+- 2731:*:tool_forge:I don't know what it is
+- 2771:0:smeltery_controller:I don't know what it is
 - 6120:140:enderium_gear:I don't know what it is 
-
-# Mekanism
-- 2824:0  :Reactor_Controller :I don't know what it is 
-
-# ------------ E3B0 ------------
-# ThermalExpansion
-- 6120:513:Cryotheumdust    :I don't know what it is 
-
-# Mekanism
-- 2824:0  :ReactorController:I don't know what it is 
-
-# ------------ F100 ------------ 
-# AppleMilkTea2
-- 165 :0  :teamaker          :I don't know what it is 
-- 166 :0  :blackteamaker     :I don't know what it is 
-- 180 :0  :evaporator        :I don't know what it is 
-- 178 :0  :foodprocessor     :I don't know what it is 
-- 169 :0  :clay_pan          :I don't know what it is 
-- 177 :0  :cooking_iron_plate:I don't know what it is 
-
-# Pams harvestcraft
-- 7390:0  :pot   :I don't know what it is 
-- 7396:0  :juicer:I don't know what it is 
-
-# Mariculture
-- 7206:0  :fishing_rod_reed    :I don't know what it is
-- 7207:0  :fishing_rod_wood    :I don't know what it is
-- 7208:0  :fishing_rod_titanium:I don't know what it is
-- 7210:0  :fishing net         :I don't know what it is
-- 7217:0  :fishing_rodreed_flux:I don't know what it is
-
-# ------------ F200 ------------
-# Forestry for Minecraft
-- 5912:0  :Sturdy_Casing        :I don't know what it is
-- 2344:0  :Farm_Block           :I don't know what it is
-- 2344:2  :Farm_Gearbox         :I don't know what it is
-- 2344:3  :Farm_Hatch           :I don't know what it is
-- 2344:4  :Farm_Valve           :I don't know what it is
-- 2344:5  :Farm_Control         :I don't know what it is
-- 2341:0  :Bottler              :I don't know what it is
-- 2341:1  :Carpenter            :I don't know what it is
-- 2341:3  :Fermenter            :I don't know what it is
-- 2341:4  :Moistener            :I don't know what it is
-- 2341:5  :Squeezer             :I don't know what it is
-- 2341:6  :Still                :I don't know what it is
-- 2342:0  :Thermionic_Fabricator:I don't know what it is
-
-# Pams harvestcraft
-- 2924:0  :market:I don't know what it is 
-
-# EnderIO	
-- 2250:0  :Farming_Station:I don't know what it is 
-
-# Mariculture
-- 2790:5  :automatic_fisher:I don't know what it is
-
-# ExtraUtilities
-- 6753:0  :watering_can        :I don't know what it is
-- 6753:1  :watering_can(Empty) :I don't know what it is
-- 6753:2  :watering_can(Broken):I don't know what it is
-
-# ------------ F300 ------------
-# AgriCraft
+- 2824:0:Reactor_Controller:I don't know what it is 
+- 6120:513:Cryotheumdust:I don't know what it is 
+- 2824:0:ReactorController:I don't know what it is 
+- 165:0:teamaker:I don't know what it is 
+- 166:0:blackteamaker:I don't know what it is 
+- 180:0:evaporator:I don't know what it is 
+- 178:0:foodprocessor:I don't know what it is 
+- 169:0:clay_pan:I don't know what it is 
+- 177:0:cooking_iron_plate:I don't know what it is 
+- 7390:0:pot:I don't know what it is 
+- 7396:0:juicer:I don't know what it is 
+- 7206:0:fishing_rod_reed:I don't know what it is
+- 7207:0:fishing_rod_wood:I don't know what it is
+- 7208:0:fishing_rod_titanium:I don't know what it is
+- 7210:0:fishing net:I don't know what it is
+- 7217:0:fishing_rodreed_flux:I don't know what it is
+- 5912:0:Sturdy_Casing:I don't know what it is
+- 2344:0:Farm_Block:I don't know what it is
+- 2344:2:Farm_Gearbox:I don't know what it is
+- 2344:3:Farm_Hatch:I don't know what it is
+- 2344:4:Farm_Valve:I don't know what it is
+- 2344:5:Farm_Control:I don't know what it is
+- 2341:0:Bottler:I don't know what it is
+- 2341:1:Carpenter:I don't know what it is
+- 2341:3:Fermenter:I don't know what it is
+- 2341:4:Moistener:I don't know what it is
+- 2341:5:Squeezer:I don't know what it is
+- 2341:6:Still:I don't know what it is
+- 2342:0:Thermionic_Fabricator:I don't know what it is
+- 2924:0:market:I don't know what it is 
+- 2250:0:Farming_Station:I don't know what it is 
+- 2790:5:automatic_fisher:I don't know what it is
+- 6753:0:watering_can:I don't know what it is
+- 6753:1:watering_can(Empty):I don't know what it is
+- 6753:2:watering_can(Broken):I don't know what it is
 - 4253:0:cropsticks:I don't know what it is 
-
-# ------------ F3A0 ------------
-#ForestryforMinecraft	
-- 6006:0  :Scoop    :I don't know what it is
-- 2318:0  :apiary   :I don't know what it is
-- 2318:2  :bee_house:I don't know what it is
-
-# ------------ F3B0 ------------
-# Mariculture
-- 2792:2  :Fish_feeder:I don't know what it is
-
-# ------------ W100 ------------
-# AppleMilkTea2
-- 180 :0  :evaporator:I don't knoow what it is 
-
-# botania
-- 1643:*  :petal_apothecary   :I don't know what it is 
-- 5585:*  :wand_of_forest     :I don't know what it is
-- 5586:0  :manasteel_ingot    :I don't know what it is
-- 5586:1  :mana_pearl         :I don't know what it is
-- 5586:2  :mana_diamond       :I don't know what it is
-- 5586:3  :livingwood_twig    :I don't know what it is
-- 5586:23 :mana_powder        :I don't know what it is
-- 1647:0  :mana_spreader      :I don't know what it is
-- 1647:1  :pulse_mana_spreader:I don't know what it is
-- 1647:2  :elven_mana_spreader:I don't know what it is
-- 1647:3  :gaia_mana_spreader :I don't know what it is
-
-# Thaumcraft
-- 5473:*  :thaumwand      :I don't know what it is 
-- 1615:15 :arcaneworkbench:I don't know what it is 
-
-# Witchery
-- 8244:14 :mutandis         :I don't know what it is 
-- 8244:15 :mutandis Extremis:I don't know what it is 
-- 3240:0  :altar            :I don't know what it is 
-- 8265:0  :Mystic_Branch    :I don't know what it is
-
-# ------------ W200 ------------
-# botania
-- 1687:0  :terrestrial_a_p:I don't know what it is 
-- 1651:0  :mana_pylon     :I don't know what it is 
-
-# Thaumcraft
-- 5524:17 :Thaumostatic_Harness:I don't know what it is
-
-# ------------ W3A0 ------------
-# Witchery
-- 8244:8  :broom:I don't know what it is 
-
-# ------------ W3B0 ------------
-# AppleMilkTea2
-- 241 :1  :panache:I don't know what it is 
-
-# botania
-- 1651:2  :gaia_pylon  :I don't know what it is 
-- 5630:*  :flugel_tiara:I don't know what it is 
-
-# ------------ T100 ------------
-# fossil
-- 2579:0   :analyzer               :I don't know what it is 
-- 2581:0   :culturevat             :I don't know what it is 
-- 2584:0   :archeplogy_workbench   :I don't know what it is 
-- 2625:0   :sifter                 :I don't know what it is 
-
-# Galacticraft
-- 7012:4   :Slimeling_Inventory_Bag:I don't know what it is 
-
-# ------------ T200 ------------
-# ironbackpack
-- 7073:0   :upgrade_core       :I don't know what it is
-
-# EnderIO
-- 5893:0   :glider_wing        :I don't know what it is
-
-# TinkersConstruct
-- 7147:0   :traveller's goggles:I don't know what it is
-- 7148:0   :traveller's vest   :I don't know what it is
-- 7149:0   :traveller's wings  :I don't know what it is
-- 7150:0   :traveller's boots  :I don't know what it is
-- 7151:0   :traveller's gloves :I don't know what it is
-- 7152:0   :traveller's belt   :I don't know what it is
-
-# ------------ other ------------
-# ExtraUtilities
-- 6742:0  :sigil    :I don't know what it is 
-
-# AppleMilkTea2
-- 4103:0  :chopstick:I don't know what it is
-
-# ForestryforMinecraft
-- 5963:0  :Juice Can:I don't know what it is
-- 5964:0  :Juice Can:I don't know what it is
-- 5965:0  :Juice Can:I don't know what it is
-
-# botania
-- 5696:*  :grisaia  :I don't know what it is
-
-# RandomThings
-- 8174:0   :Whitestone    :I don't know what it is
-- 8188:0   :Bloodstone    :I don't know what it is
+- 6006:0:Scoop:I don't know what it is
+- 2318:0:apiary:I don't know what it is
+- 2318:2:bee_house:I don't know what it is
+- 2792:2:Fish_feeder:I don't know what it is
+- 180:0:evaporator:I don't knoow what it is 
+- 1643:*:petal_apothecary:I don't know what it is 
+- 5585:*:wand_of_forest:I don't know what it is
+- 5586:0:manasteel_ingot:I don't know what it is
+- 5586:1:mana_pearl:I don't know what it is
+- 5586:2:mana_diamond:I don't know what it is
+- 5586:3:livingwood_twig:I don't know what it is
+- 5586:23:mana_powder:I don't know what it is
+- 1647:0:mana_spreader:I don't know what it is
+- 1647:1:pulse_mana_spreader:I don't know what it is
+- 1647:2:elven_mana_spreader:I don't know what it is
+- 1647:3:gaia_mana_spreader:I don't know what it is
+- 5473:*:thaumwand:I don't know what it is 
+- 1615:15:arcaneworkbench:I don't know what it is 
+- 8244:14:mutandis:I don't know what it is 
+- 8244:15:mutandis Extremis:I don't know what it is 
+- 3240:0:altar:I don't know what it is 
+- 8265:0:Mystic_Branch:I don't know what it is
+- 1687:0:terrestrial_a_p:I don't know what it is 
+- 1651:0:mana_pylon:I don't know what it is 
+- 5524:17:Thaumostatic_Harness:I don't know what it is
+- 8244:8:broom:I don't know what it is 
+- 241:1:panache:I don't know what it is 
+- 1651:2:gaia_pylon:I don't know what it is 
+- 5630:*:flugel_tiara:I don't know what it is 
+- 2579:0:analyzer:I don't know what it is 
+- 2581:0:culturevat:I don't know what it is 
+- 2584:0:archeplogy_workbench:I don't know what it is 
+- 2625:0:sifter:I don't know what it is 
+- 7012:4:Slimeling_Inventory_Bag:I don't know what it is 
+- 7073:0:upgrade_core:I don't know what it is
+- 5893:0:glider_wing:I don't know what it is
+- 7147:0:traveller's goggles:I don't know what it is
+- 7148:0:traveller's vest:I don't know what it is
+- 7149:0:traveller's wings:I don't know what it is
+- 7150:0:traveller's boots:I don't know what it is
+- 7151:0:traveller's gloves:I don't know what it is
+- 7152:0:traveller's belt:I don't know what it is
+- 6742:0:sigil:I don't know what it is 
+- 4103:0:chopstick:I don't know what it is
+- 5963:0:Juice Can:I don't know what it is
+- 5964:0:Juice Can:I don't know what it is
+- 5965:0:Juice Can:I don't know what it is
+- 5696:*:grisaia:I don't know what it is
+- 8174:0:Whitestone:I don't know what it is
+- 8188:0:Bloodstone:I don't know what it is
 
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to
 CraftingBanned:
