@@ -1,0 +1,62 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1upgrade you'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'E3BC'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling; tell: &eYou opened the rank up menu.'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 5627
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+poopoo:
+  COMMAND: 'tell: manu closed'
+  NAME: 'UPGRADE'
+  LORE:
+    - 'UPGRADE TIER4'
+  ID: 436
+  POSITION-X: 5
+  POSITION-Y: 1
+
+
+test-from-console1:
+  COMMAND: 'console: pex user {player} group set E4B0; console: Say {player} got to E4B0!'
+  NAME: '&cE4B0<工>'
+  LORE:
+    - 'type-engineer'
+  ID: 435
+  PRICE: 3
+  POSITION-X: 5
+  POSITION-Y: 4
+

@@ -1,0 +1,93 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1upgrade you'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'R00C'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling; tell: &eYou opened the rank up menu.'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 5627
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+poopoo:
+  COMMAND: 'tell: manu closed'
+  NAME: 'charged-resident rank up menu'
+  LORE:
+    - 'UPGRADE TIER1'
+  ID: 436
+  POSITION-X: 5
+  POSITION-Y: 1
+
+
+test-from-console1:
+  COMMAND: 'console: pex user {player} group set E100; console: Say {player} got to E100!'
+  NAME: '&cE100<工>'
+  LORE:
+    - 'type-engineer'
+  ID: 435
+  PRICE: 1
+  POSITION-X: 2
+  POSITION-Y: 4
+
+
+test-from-console2:
+  COMMAND: 'console: pex user {player} group set F100; console: Say {player} got to F100!'
+  NAME: '&cF100<農>'
+  LORE:
+    - 'type-farmer'
+  ID: 437
+  PRICE: 1
+  POSITION-X: 4
+  POSITION-Y: 4
+
+test-from-console3:
+  COMMAND: 'console: pex user {player} group set W100; console: Say {player} got to W100!'
+  NAME: '&cW100<魔>'
+  LORE:
+    - 'type-wizard'
+  ID: 438
+  PRICE: 1
+  POSITION-X: 6
+  POSITION-Y: 4
+
+
+test-from-console4:
+  COMMAND: 'console: pex user {player} group set T100; console: Say {player} got to T100!'
+  NAME: '&cT100<旅>'
+  LORE:
+    - 'type-traveller'
+  ID: 439
+  PRICE: 1
+  POSITION-X: 8
+  POSITION-Y: 4
