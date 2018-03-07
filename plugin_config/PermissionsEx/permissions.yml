@@ -1,3 +1,6 @@
+# 
+# ----------- Groups ------------- #
+
 users:
   f3592ee1-8b4a-480c-a5d5-330c788cd012:
     group:
@@ -69,11 +72,10 @@ users:
     - customnpcs.*
     options:
       name: eache
-      
-# ----------- Groups ------------- #
-
+  79ffd9cd-b508-4d7e-91b0-7aee6b4a628e:
+    group:
+    - E200
 groups:
-  
   V000:
     permissions:
     - essentials.spawn
@@ -100,557 +102,415 @@ groups:
     - essentials.silentquit
     options:
       default: true
-      
   R000:
     inheritance:
     - V000
     permissions:
     - essentials.spawn
     options: {}
-    
   R00C:
     permissions:
     - chestcommands.open.R00C.yml
     inheritance:
     - R000
     options: {}
-    
   E100:
     permissions:
     - rerecipecreators.recipes.E100
-    # Item bypass
-    # ex.- ItemRestrict.bypass.999.*.own
-    
-    # ThermalExpansion
-    - ItemRestrict.bypass.6265.0  .own #pneumatic_servo            
-    - ItemRestrict.bypass.6265.1  .own #redstone_reception_coil    
-    - ItemRestrict.bypass.6265.2  .own #redstone_transmission_coil 
-    - ItemRestrict.bypass.6265.3  .own #redstone_conductance_coil  
-    - ItemRestrict.bypass.3443.0  .own #machine_frame              
-    - ItemRestrict.bypass.3443.4  .own #leadstone_energycell_frame      
-    - ItemRestrict.bypass.3434.0  .own #Steam_Dynamo               
-    - ItemRestrict.bypass.3434.1  .own #Magmatic_Dynamo            
-    - ItemRestrict.bypass.3434.2  .own #Compression_Dynamo         
-    - ItemRestrict.bypass.3434.3  .own #Reactant_Dynamo            
-    - ItemRestrict.bypass.3434.4  .own #Enervation_Dynamo          
-    
-    # ImmersiveEngineering
-    - ItemRestrict.bypass.2682.9  .own #Kinetic_Dynamo    
-    - ItemRestrict.bypass.2682.10 .own #thermoelectric generator
-    - ItemRestrict.bypass.2684.6  .own #generator block         
-    - ItemRestrict.bypass.2686.0  .own #lightnig_rod_base      
-    - ItemRestrict.bypass.7030.0  .own #engineer's_hammer
-    
-    #  EnderIO
-    - ItemRestrict.bypass.5875.2  .own #binder_composite        
-    - ItemRestrict.bypass.5874.1  .own #basic_gear              
-    - ItemRestrict.bypass.5873.0  .own #basic_capasitor         
-    - ItemRestrict.bypass.2230.0  .own #StirlingGenerator       
-    - ItemRestrict.bypass.2231.0  .own #CombustionGenerator     
-    - ItemRestrict.bypass.2232.0  .own #ZombieGenerator         
-    - ItemRestrict.bypass.2233.0  .own #PhotovoltaicCell        
-    - ItemRestrict.bypass.2233.1  .own #AdvancedPhotovoltaicCell
-    
-    # Mekanism
-    - ItemRestrict.bypass.6338.0  .own #CompressedCarbon        
-    - ItemRestrict.bypass.6339.0  .own #CompressedRedstone      
-    - ItemRestrict.bypass.6340.0  .own #CompressedDiamond       
-    - ItemRestrict.bypass.6341.0  .own #CompressedObsidian      
-    - ItemRestrict.bypass.6232.0  .own #EnrichedAlloy           
-    - ItemRestrict.bypass.6233.0  .own #ReinforcedAlloy         
-    - ItemRestrict.bypass.6234.0  .own #AtomicAlloy             
-    - ItemRestrict.bypass.6236.0  .own #BasicControlCircuit          
-    - ItemRestrict.bypass.6236.1  .own #AdvancedControlCircuit          
-    - ItemRestrict.bypass.6236.2  .own #EliteControlCircuit          
-    - ItemRestrict.bypass.6236.3  .own #UltimateControlCircuit          
-    - ItemRestrict.bypass.6355.0  .own #ElectrolyticCore        
-    - ItemRestrict.bypass.6343.0  .own #TeleportationCore       
-    - ItemRestrict.bypass.6324.0  .own #EnergyTablet            
-    - ItemRestrict.bypass.2444.8  .own #SteelCasing             
-    - ItemRestrict.bypass.6323.0  .own #ObsidianIngot           
-    - ItemRestrict.bypass.7251.0  .own #SolarPanel              
-    - ItemRestrict.bypass.2823.0  .own #HeatGenerator           
-    - ItemRestrict.bypass.2823.3  .own #Gas-BurningGenerator     
-    - ItemRestrict.bypass.2823.4  .own #Bio-Generator            
-    - ItemRestrict.bypass.2823.6  .own #WindGenerator            
-    - ItemRestrict.bypass.2823.1  .own #SolarGenerator           
-    - ItemRestrict.bypass.2823.5  .own #Advanced Solar Generator 
-    
-    # Forestry for Minecraft
-    - ItemRestrict.bypass.2340.1  .own #peat-firedengine 
-    - ItemRestrict.bypass.2340.2  .own #biogusengine     
-    - ItemRestrict.bypass.2340.4  .own #clockworkengine  
-    
-    # Galacticraft
-    - ItemRestrict.bypass.2424.0  .own #Coal Generator       
-    - ItemRestrict.bypass.2422.0  .own #Basic Solar Panel    
-    - ItemRestrict.bypass.2422.4  .own #Advanced Solar Panel 
-    
-    # Mariculture
-    - ItemRestrict.bypass.2790.9  .own #generator 
-    
-    # AppliedEnergistics2
-    - ItemRestrict.bypass.478 .0  .own #vibration_chamber      
-    
-    # AppleMilkTea2
-    - ItemRestrict.bypass.186 .0  .own #manual_charge_generator
-
-    
+    - ItemRestrict.bypass.6265.0.own
+    - ItemRestrict.bypass.6265.1.own
+    - ItemRestrict.bypass.6265.2.own
+    - ItemRestrict.bypass.6265.3.own
+    - ItemRestrict.bypass.3443.0.own
+    - ItemRestrict.bypass.3443.4.own
+    - ItemRestrict.bypass.3434.0.own
+    - ItemRestrict.bypass.3434.1.own
+    - ItemRestrict.bypass.3434.2.own
+    - ItemRestrict.bypass.3434.3.own
+    - ItemRestrict.bypass.3434.4.own
+    - ItemRestrict.bypass.2682.9.own
+    - ItemRestrict.bypass.2682.10.own
+    - ItemRestrict.bypass.2684.6.own
+    - ItemRestrict.bypass.2686.0.own
+    - ItemRestrict.bypass.7030.0.own
+    - ItemRestrict.bypass.5875.2.own
+    - ItemRestrict.bypass.5874.1.own
+    - ItemRestrict.bypass.5873.0.own
+    - ItemRestrict.bypass.2230.0.own
+    - ItemRestrict.bypass.2231.0.own
+    - ItemRestrict.bypass.2232.0.own
+    - ItemRestrict.bypass.2233.0.own
+    - ItemRestrict.bypass.2233.1.own
+    - ItemRestrict.bypass.6338.0.own
+    - ItemRestrict.bypass.6339.0.own
+    - ItemRestrict.bypass.6340.0.own
+    - ItemRestrict.bypass.6341.0.own
+    - ItemRestrict.bypass.6232.0.own
+    - ItemRestrict.bypass.6233.0.own
+    - ItemRestrict.bypass.6234.0.own
+    - ItemRestrict.bypass.6236.0.own
+    - ItemRestrict.bypass.6236.1.own
+    - ItemRestrict.bypass.6236.2.own
+    - ItemRestrict.bypass.6236.3.own
+    - ItemRestrict.bypass.6355.0.own
+    - ItemRestrict.bypass.6343.0.own
+    - ItemRestrict.bypass.6324.0.own
+    - ItemRestrict.bypass.2444.8.own
+    - ItemRestrict.bypass.6323.0.own
+    - ItemRestrict.bypass.7251.0.own
+    - ItemRestrict.bypass.2823.0.own
+    - ItemRestrict.bypass.2823.3.own
+    - ItemRestrict.bypass.2823.4.own
+    - ItemRestrict.bypass.2823.6.own
+    - ItemRestrict.bypass.2823.1.own
+    - ItemRestrict.bypass.2823.5.own
+    - ItemRestrict.bypass.2340.1.own
+    - ItemRestrict.bypass.2340.2.own
+    - ItemRestrict.bypass.2340.4.own
+    - ItemRestrict.bypass.2424.0.own
+    - ItemRestrict.bypass.2422.0.own
+    - ItemRestrict.bypass.2422.4.own
+    - ItemRestrict.bypass.2790.9.own
+    - ItemRestrict.bypass.478.0.own
+    - ItemRestrict.bypass.186.0.own
+    - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
     options: {}
-    
   E10C:
     permissions:
     - chestcommands.open.E10C.yml
     inheritance:
     - E100
     options: {}
-    
   E200:
     permissions:
     - rerecipecreators.recipes.E200
-    # Item bypass
-    
-    # ThermalFoundation
-    - ItemRestrict.bypass.6120.512.own #pyrotheum_dust    
-    
-    # Mekanism
-    - ItemRestrict.bypass.2444.14 .own  #ThermalEvaporationController 
-    
-    # TinkersConstruct
-    - ItemRestrict.bypass.2731.*  .own #tool_forge         
-    - ItemRestrict.bypass.2771.0  .own #smeltery_controller
-    
-    
+    - ItemRestrict.bypass.6120.512.own
+    - ItemRestrict.bypass.2444.14.own
+    - ItemRestrict.bypass.2731.*.own
+    - ItemRestrict.bypass.2771.0.own
+    - -chestcommands.open.E10C.yml
     inheritance:
     - E10C
     options: {}
-    
   E20C:
     permissions:
     - chestcommands.open.E20C.yml
     inheritance:
     - E200
     options: {}
-    
   E3A0:
     permissions:
     - rerecipecreators.recipes.E3A0
-    # Item bypass
-    
-    # ThermalExpansion
-    - ItemRestrict.bypass.6120.140.own #enderium_gear 
-    
-    # Mekanism
-    - ItemRestrict.bypass.2824.0  .own #Reactor_Controller 
-    
+    - ItemRestrict.bypass.6120.140.own
+    - ItemRestrict.bypass.2824.0.own
+    - -chestcommands.open.E20C.yml
     inheritance:
     - E20C
     options: {}
-    
   E3B0:
     permissions:
     - rerecipecreators.recipes.E3B0
-    
-    # Item bypass
-    
-    # ThermalExpansion
-    - ItemRestrict.bypass.6120.513.own #Cryotheumdust     
-    
-    # Mekanism
-    - ItemRestrict.bypass.2824.0  .own #ReactorController 
-    
+    - ItemRestrict.bypass.6120.513.own
+    - ItemRestrict.bypass.2824.0.own
+    - -chestcommands.open.E20C.yml
     inheritance:
     - E20C
     options: {}
-    
   E3AC:
     permissions:
     - chestcommands.open.E3AC.yml
     inheritance:
     - E3A0
     options: {}
-    
   E3BC:
     permissions:
     - chestcommands.open.E3BC.yml
     inheritance:
     - E3B0
     options: {}
-    
   E4A0:
+    permissions:
+    - -chestcommands.open.E3AC.yml
     inheritance:
     - E3AC
     options: {}
-    
   E4B0:
+    permissions:
+    - -chestcommands.open.E3BC.yml
     inheritance:
     - E3BC
     options: {}
-    
   F100:
     permissions:
     - rerecipecreators.recipes.F100
-    
-    # Item bypass
-      
-    # AppleMilkTea2
-    - ItemRestrict.bypass.165 .0  .own #teamaker           
-    - ItemRestrict.bypass.166 .0  .own #blackteamaker      
-    - ItemRestrict.bypass.180 .0  .own #evaporator         
-    - ItemRestrict.bypass.178 .0  .own #foodprocessor      
-    - ItemRestrict.bypass.169 .0  .own #clay_pan           
-    - ItemRestrict.bypass.177 .0  .own #cooking_iron_plate 
-    
-    # Pams harvestcraft
-    - ItemRestrict.bypass.7390.0  .own #pot    
-    - ItemRestrict.bypass.7396.0  .own #juicer 
-    
-    # Mariculture
-    - ItemRestrict.bypass.7206.0  .own #fishing_rod_reed    
-    - ItemRestrict.bypass.7207.0  .own #fishing_rod_wood    
-    - ItemRestrict.bypass.7208.0  .own #fishing_rod_titanium
-    - ItemRestrict.bypass.7210.0  .own #fishing net         
-    - ItemRestrict.bypass.7217.0  .own #fishing_rodreed_flux
-    
+    - ItemRestrict.bypass.165.0.own
+    - ItemRestrict.bypass.166.0.own
+    - ItemRestrict.bypass.180.0.own
+    - ItemRestrict.bypass.178.0.own
+    - ItemRestrict.bypass.169.0.own
+    - ItemRestrict.bypass.177.0.own
+    - ItemRestrict.bypass.7390.0.own
+    - ItemRestrict.bypass.7396.0.own
+    - ItemRestrict.bypass.7206.0.own
+    - ItemRestrict.bypass.7207.0.own
+    - ItemRestrict.bypass.7208.0.own
+    - ItemRestrict.bypass.7210.0.own
+    - ItemRestrict.bypass.7217.0.own
+    - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
     options: {}
-    
   F10C:
     permissions:
     - chestcommands.open.F10C.yml
     inheritance:
     - F100
     options: {}
-    
   F200:
     permissions:
     - rerecipecreators.recipes.F200
-    
-    # Item bypass
-    # Forestry for Minecraft
-    - ItemRestrict.bypass.5912.0  .own #Sturdy_Casing        
-    - ItemRestrict.bypass.2344.0  .own #Farm_Block           
-    - ItemRestrict.bypass.2344.2  .own #Farm_Gearbox         
-    - ItemRestrict.bypass.2344.3  .own #Farm_Hatch           
-    - ItemRestrict.bypass.2344.4  .own #Farm_Valve           
-    - ItemRestrict.bypass.2344.5  .own #Farm_Control         
-    - ItemRestrict.bypass.2341.0  .own #Bottler              
-    - ItemRestrict.bypass.2341.1  .own #Carpenter            
-    - ItemRestrict.bypass.2341.3  .own #Fermenter            
-    - ItemRestrict.bypass.2341.4  .own #Moistener            
-    - ItemRestrict.bypass.2341.5  .own #Squeezer             
-    - ItemRestrict.bypass.2341.6  .own #Still                
-    - ItemRestrict.bypass.2342.0  .own #Thermionic_Fabricator
-    
-    # Pams harvestcraft
-    - ItemRestrict.bypass.2924.0  .own  #market
-    
-    # EnderIO	
-    - ItemRestrict.bypass.2250.0  .own #Farming_Station
-    
-    # Mariculture
-    - ItemRestrict.bypass.2790.5  .own #automatic_fisher
-    
-    # ExtraUtilities
-    - ItemRestrict.bypass.6753.0  .own #watering_can        
-    - ItemRestrict.bypass.6753.1  .own #watering_can(Empty) 
-    - ItemRestrict.bypass.6753.2  .own #watering_can(Broken)
-    
+    - ItemRestrict.bypass.5912.0.own
+    - ItemRestrict.bypass.2344.0.own
+    - ItemRestrict.bypass.2344.2.own
+    - ItemRestrict.bypass.2344.3.own
+    - ItemRestrict.bypass.2344.4.own
+    - ItemRestrict.bypass.2344.5.own
+    - ItemRestrict.bypass.2341.0.own
+    - ItemRestrict.bypass.2341.1.own
+    - ItemRestrict.bypass.2341.3.own
+    - ItemRestrict.bypass.2341.4.own
+    - ItemRestrict.bypass.2341.5.own
+    - ItemRestrict.bypass.2341.6.own
+    - ItemRestrict.bypass.2342.0.own
+    - ItemRestrict.bypass.2924.0.own
+    - ItemRestrict.bypass.2250.0.own
+    - ItemRestrict.bypass.2790.5.own
+    - ItemRestrict.bypass.6753.0.own
+    - ItemRestrict.bypass.6753.1.own
+    - ItemRestrict.bypass.6753.2.own
+    - -chestcommands.open.F10C.yml
     inheritance:
     - F10C
     options: {}
-    
   F20C:
     permissions:
     - chestcommands.open.F20C.yml
     inheritance:
     - F200
     options: {}
-    
   F3A0:
     permissions:
     - rerecipecreators.recipes.F3A0
-    
-    # Item bypass
-    # AgriCraft
-    - ItemRestrict.bypass.4253.0  .own #cropsticks(F300)
-    
-    #ForestryforMinecraft	
-    - ItemRestrict.bypass.6006.0  .own #Scoop    
-    - ItemRestrict.bypass.2318.0  .own #apiary   
-    - ItemRestrict.bypass.2318.2  .own #bee_house
-    
+    - ItemRestrict.bypass.4253.0.own
+    - ItemRestrict.bypass.6006.0.own
+    - ItemRestrict.bypass.2318.0.own
+    - ItemRestrict.bypass.2318.2.own
+    - -chestcommands.open.F20C.yml
     inheritance:
     - F20C
     options: {}
-    
-  F3B0:    
+  F3B0:
     permissions:
     - rerecipecreators.recipes.F3B0
-    
-    # Item bypass
-    # AgriCraft
-    - ItemRestrict.bypass.2792.2  .own #cropsticks(F300)
-    
-    # Mariculture
-    - ItemRestrict.bypass.180 .0  .own #Fish_feeder
-    
+    - ItemRestrict.bypass.2792.2.own
+    - ItemRestrict.bypass.180.0.own
+    - -chestcommands.open.F20C.yml
     inheritance:
     - F20C
     options: {}
-    
   F3AC:
     permissions:
     - chestcommands.open.F3AC.yml
     inheritance:
     - F3A0
     options: {}
-    
   F3BC:
     permissions:
     - chestcommands.open.F3BC.yml
     inheritance:
     - F3B0
     options: {}
-    
   F4A0:
+    permissions:
+    - -chestcommands.open.F3AC.yml
     inheritance:
     - F3AC
     options: {}
-    
   F4B0:
+    permissions:
+    - -chestcommands.open.F3BC.yml
     inheritance:
     - F3BC
     options: {}
-    
   W100:
     permissions:
     - rerecipecreators.recipes.W100
-    
-    # Item bypass
-      
-    # AppleMilkTea2
-    - ItemRestrict.bypass.180 .0  .own #evaporator
-    
-    # botania
-    - ItemRestrict.bypass.1643.*  .own #petal_apothecary   
-    - ItemRestrict.bypass.5585.*  .own #wand_of_forest     
-    - ItemRestrict.bypass.5586.0  .own #manasteel_ingot    
-    - ItemRestrict.bypass.5586.1  .own #mana_pearl         
-    - ItemRestrict.bypass.5586.2  .own #mana_diamond       
-    - ItemRestrict.bypass.5586.3  .own #livingwood_twig    
-    - ItemRestrict.bypass.5586.23 .own #mana_powder        
-    - ItemRestrict.bypass.1670.0  .own #mana_spreader      
-    - ItemRestrict.bypass.1670.1  .own #pulse_mana_spreader
-    - ItemRestrict.bypass.1670.2  .own #elven_mana_spreader
-    - ItemRestrict.bypass.1670.3  .own #gaia_mana_spreader 
-    
-    # Thaumcraft
-    - ItemRestrict.bypass.5473.*  .own #thaumwand      
-    - ItemRestrict.bypass.1615.15 .own #arcaneworkbench
-    
-    # Witchery
-    - ItemRestrict.bypass.8244.14 .own #mutandis         
-    - ItemRestrict.bypass.8244.15 .own #mutandis Extremis 
-    - ItemRestrict.bypass.3240.0  .own #altar            
-    - ItemRestrict.bypass.8265.0  .own #Mystic_Branch    
-    
+    - ItemRestrict.bypass.180.0.own
+    - ItemRestrict.bypass.1643.*.own
+    - ItemRestrict.bypass.5585.*.own
+    - ItemRestrict.bypass.5586.0.own
+    - ItemRestrict.bypass.5586.1.own
+    - ItemRestrict.bypass.5586.2.own
+    - ItemRestrict.bypass.5586.3.own
+    - ItemRestrict.bypass.5586.23.own
+    - ItemRestrict.bypass.1670.0.own
+    - ItemRestrict.bypass.1670.1.own
+    - ItemRestrict.bypass.1670.2.own
+    - ItemRestrict.bypass.1670.3.own
+    - ItemRestrict.bypass.5473.*.own
+    - ItemRestrict.bypass.1615.15.own
+    - ItemRestrict.bypass.8244.14.own
+    - ItemRestrict.bypass.8244.15.own
+    - ItemRestrict.bypass.3240.0.own
+    - ItemRestrict.bypass.8265.0.own
+    - -chestcommands.open.R00C.yml
     inheritance:
     - W00C
     options: {}
-    
   W10C:
     permissions:
     - chestcommands.open.W10C.yml
     inheritance:
     - W100
     options: {}
-    
   W200:
     permissions:
     - rerecipecreators.recipes.W200
-    
-    # Item bypass
-    # botania
-    - ItemRestrict.bypass.1687.0.own #terrestrial_a_p
-    - ItemRestrict.bypass.1651.0.own #mana_pylon     
-    
-    # Thaumcraft
-    - ItemRestrict.bypass.5524.17 .own #Thaumostatic_Harness
-    
+    - ItemRestrict.bypass.1687.0.own
+    - ItemRestrict.bypass.1651.0.own
+    - ItemRestrict.bypass.5524.17.own
+    - -chestcommands.open.W10C.yml
     inheritance:
     - W10C
     options: {}
-    
   W20C:
     permissions:
     - chestcommands.open.W20C.yml
     inheritance:
     - W200
     options: {}
-    
   W3A0:
     permissions:
     - rerecipecreators.recipes.W3A0
-    
-    # Item bypass
-    # Witchery
-    - ItemRestrict.bypass.8244.8  .own #broom
-    
+    - ItemRestrict.bypass.8244.8.own
+    - -chestcommands.open.W20C.yml
     inheritance:
     - W20C
     options: {}
-    
   W3B0:
     permissions:
     - rerecipecreators.recipes.W3B0
-    
-    # Item bypass
-    # AppleMilkTea2
-    - ItemRestrict.bypass.241 .1  .own #panache
-    
-    # botania
-    - ItemRestrict.bypass.1651.2  .own #gaia_pylon  
-    - ItemRestrict.bypass.5630.*  .own #flugel_tiara
-    
+    - ItemRestrict.bypass.241.1.own
+    - ItemRestrict.bypass.1651.2.own
+    - ItemRestrict.bypass.5630.*.own
+    - -chestcommands.open.W20C.yml
     inheritance:
     - W20C
     options: {}
-    
   W3AC:
     permissions:
     - chestcommands.open.W3AC.yml
     inheritance:
     - W3A0
     options: {}
-    
   W3BC:
     permissions:
     - chestcommands.open.W3BC.yml
     inheritance:
     - W3B0
     options: {}
-    
   W4A0:
+    permissions:
+    - -chestcommands.open.W3AC.yml
     inheritance:
     - W3AC
     options: {}
-    
   W4B0:
+    permissions:
+    - -chestcommands.open.W3BC.yml
     inheritance:
     - W3BC
     options: {}
-    
   T100:
     permissions:
     - rerecipecreators.recipes.T100
-    # Item bypass
-    # fossil
-    - ItemRestrict.bypass.2579.0   .own #analyzer                
-    - ItemRestrict.bypass.2581.0   .own #culturevat              
-    - ItemRestrict.bypass.2584.0   .own #archeplogy_workbench    
-    - ItemRestrict.bypass.2587.0   .own #feeder                  
-    - ItemRestrict.bypass.2625.0   .own #sifter                  
-    
-    # Galacticraft
-    - ItemRestrict.bypass.7012.4   .own #Slimeling_Inventory_Bag 
-    
-    
+    - ItemRestrict.bypass.2579.0.own
+    - ItemRestrict.bypass.2581.0.own
+    - ItemRestrict.bypass.2584.0.own
+    - ItemRestrict.bypass.2587.0.own
+    - ItemRestrict.bypass.2625.0.own
+    - ItemRestrict.bypass.7012.4.own
+    - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
     options: {}
-    
   T10C:
     permissions:
     - chestcommands.open.T10C.yml
-    
     inheritance:
     - T100
     options: {}
-    
   T200:
     permissions:
     - rerecipecreators.recipes.T200
-    # Item bypass
-    # ironbackpack
-    - ItemRestrict.bypass.7073.0   .own #upgrade_core       
-    
-    # EnderIO
-    - ItemRestrict.bypass.5893.0   .own #glider_wing        
-    
-    # TinkersConstruct
-    - ItemRestrict.bypass.7147.0   .own #traveller's goggles
-    - ItemRestrict.bypass.7148.0   .own #traveller's vest   
-    - ItemRestrict.bypass.7149.0   .own #traveller's wings   
-    - ItemRestrict.bypass.7150.0   .own #traveller's boots  
-    - ItemRestrict.bypass.7151.0   .own #traveller's gloves 
-    - ItemRestrict.bypass.7152.0   .own #traveller's belt   
-    
-    
+    - ItemRestrict.bypass.7073.0.own
+    - ItemRestrict.bypass.5893.0.own
+    - ItemRestrict.bypass.7147.0.own
+    - ItemRestrict.bypass.7148.0.own
+    - ItemRestrict.bypass.7149.0.own
+    - ItemRestrict.bypass.7150.0.own
+    - ItemRestrict.bypass.7151.0.own
+    - ItemRestrict.bypass.7152.0.own
+    - -chestcommands.open.T10C.yml
     inheritance:
     - T10C
     options: {}
-    
   T20C:
     permissions:
     - chestcommands.open.T20C.yml
-    
     inheritance:
     - T200
     options: {}
-    
   T3A0:
     permissions:
     - rerecipecreators.recipes.T3A0
-    
+    - -chestcommands.open.T20C.yml
     inheritance:
     - T20C
     options: {}
-    
   T3B0:
     permissions:
     - rerecipecreators.recipes.T3B0
-    
+    - -chestcommands.open.T20C.yml
     inheritance:
     - T20C
     options: {}
-    
   T3AC:
     permissions:
     - chestcommands.open.T3AC.yml
-    
     inheritance:
     - T3A0
     options: {}
-    
   T3BC:
     permissions:
     - chestcommands.open.T3BC.yml
-    
     inheritance:
     - T3B0
     options: {}
-    
   T4A0:
     permissions:
-    
+    - -chestcommands.open.T3AC.yml
     inheritance:
     - T3AC
     options: {}
-    
   T4B0:
     permissions:
-    
+    - -chestcommands.open.T3BC.yml
     inheritance:
     - T3BC
     options: {}
-    
-    
-# -------------------------------# 
-
 worlds:
   nether:
     inheritance:
