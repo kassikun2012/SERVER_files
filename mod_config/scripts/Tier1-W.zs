@@ -1,5 +1,5 @@
 
-/* ----- Remove ------*/
+/* ----- Remove -------*/
 // DCsAppleMilk
 recipes.remove(<DCsAppleMilk:defeatedcrow.evaporator>);
 
