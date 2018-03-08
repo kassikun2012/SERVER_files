@@ -1,4 +1,4 @@
-// AppleMilk
+// AppleMilk_
 recipes.remove(<DCsAppleMilk:defeatedcrow.cocktail:1>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.chopsticks>);
 
