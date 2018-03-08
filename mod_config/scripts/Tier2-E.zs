@@ -1,5 +1,5 @@
 
-/*-----------------------*/
+/*------------------------*/
 /* ----- Remove ------*/
 // ThermalExpansion
 recipes.remove(<ThermalExpansion:Device:2>);
