@@ -127,11 +127,11 @@ recipes.remove(<DCsAppleMilk:defeatedcrow.battery:2>);
 <ThermalExpansion:material:3>.addTooltip(format.aqua("Required 'E100'"));
 <ThermalExpansion:Frame:0>.addTooltip(format.aqua("Required 'E100'"));
 <ThermalExpansion:Frame:4>.addTooltip(format.aqua("Required 'E100'"));
-<ThermalExpansion:Dynamo:0>.addTooltip(format.aqua("Required 'E100'");
-<ThermalExpansion:Dynamo:1>.addTooltip(format.aqua("Required 'E100'");
-<ThermalExpansion:Dynamo:2>.addTooltip(format.aqua("Required 'E100'");
-<ThermalExpansion:Dynamo:3>.addTooltip(format.aqua("Required 'E100'");
-<ThermalExpansion:Dynamo:4>.addTooltip(format.aqua("Required 'E100'");
+<ThermalExpansion:Dynamo:0>.addTooltip(format.aqua("Required 'E100'"));
+<ThermalExpansion:Dynamo:1>.addTooltip(format.aqua("Required 'E100'"));
+<ThermalExpansion:Dynamo:2>.addTooltip(format.aqua("Required 'E100'"));
+<ThermalExpansion:Dynamo:3>.addTooltip(format.aqua("Required 'E100'"));
+<ThermalExpansion:Dynamo:4>.addTooltip(format.aqua("Required 'E100'"));
 
 // ImmersiveEngineering
 <ImmersiveEngineering:metalDevice:9>.addTooltip(format.aqua("Required 'E100'"));
