@@ -26,9 +26,6 @@ recipes.remove(<EnderIO:blockFarmStation>);
 // Mariculture
 recipes.remove(<Mariculture:machines_single:5>);
 
-// botania
-recipes.remove(<Botania:manaResource:3>);
-
 // ExtraUtilities
 recipes.remove(<ExtraUtilities:watering_can:1>);
 
@@ -57,9 +54,6 @@ recipes.remove(<ExtraUtilities:watering_can:1>);
 
 // Mariculture
 <Mariculture:machines_single:5>.addTooltip(format.aqua("Required 'F200'"));
-
-// botania
-<Botania:manaResource:3>.addTooltip(format.aqua("Required 'F200'"));
 
 // ExtraUtilities
 <ExtraUtilities:watering_can:0>.addTooltip(format.aqua("Required 'F200'"));

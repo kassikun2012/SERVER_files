@@ -5,6 +5,7 @@ recipes.remove(<DCsAppleMilk:defeatedcrow.evaporator>);
 
 // Botania
 recipes.remove(<Botania:altar>);
+recipes.remove(<Botania:manaResource:3>);
 recipes.remove(<Botania:spreader>);
 recipes.remove(<Botania:spreader:1>);
 recipes.remove(<Botania:spreader:2>);
@@ -26,6 +27,7 @@ recipes.remove(<witchery:mysticbranch>);
 <Botania:manaResource:0>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:manaResource:1>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:manaResource:2>.addTooltip(format.aqua("Required 'W100'"));
+<Botania:manaResource:3>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:manaResource:23>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:spreader:0>.addTooltip(format.aqua("Required 'W100'"));
 <Botania:spreader:1>.addTooltip(format.aqua("Required 'W100'"));
