@@ -68,7 +68,7 @@ NEI.hide(<nevermine:SkeletalLeggings>  );
 NEI.hide(<nevermine:SkeletalBoots>     );
 
 // RandomThings
-NEI.hide(<RandomThings:whiteStone>);
+NEI.hide(<RandomThings:whitestone:*>);
 NEI.hide(<RandomThings:magneticForce>);
 NEI.hide(<RandomThings:spiritBinder>);
 NEI.hide(<RandomThings:bloodStone>);

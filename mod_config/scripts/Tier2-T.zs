@@ -14,7 +14,7 @@ recipes.remove(<EnderIO:itemGliderWing>);
 // watstone
 recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warpStone>);
-recipes.remove(<waystones:warpScrol>);
+recipes.remove(<waystones:warpScroll>);
 
 // TinkersConstruct
 recipes.remove(<TConstruct:travelGoggles>);
@@ -37,7 +37,7 @@ recipes.remove(<TConstruct:travelBelt>);
 // waystone
 <waystones:waystone>.addTooltip(format.aqua("Required 'T200'"));
 <waystones:warpStone>.addTooltip(format.aqua("Required 'T200'"));
-<waystones:warpScrol>.addTooltip(format.aqua("Required 'T200'"));
+<waystones:warpScroll>.addTooltip(format.aqua("Required 'T200'"));
 
 // TinkersConstruct
 <TConstruct:travelGoggles>.addTooltip(format.aqua("Required 'T200'"));

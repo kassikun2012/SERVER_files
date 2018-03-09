@@ -12,7 +12,7 @@ recipes.remove(<Botania:pylon>);
 // waystones
 recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warpStone>);
-recipes.remove(<waystones:warpScrol>);
+recipes.remove(<waystones:warpScroll>);
 
 /*----- tooltips -----*/
 // DCsAppleMilk
@@ -29,4 +29,4 @@ recipes.remove(<waystones:warpScrol>);
 // waystones
 <waystones:waystone>.addTooltip(format.aqua("Required 'W200'"));
 <waystones:warpStone>.addTooltip(format.aqua("Required 'W200'"));
-<waystones:warpScrol>.addTooltip(format.aqua("Required 'W200'"));
+<waystones:warpScroll>.addTooltip(format.aqua("Required 'W200'"));
