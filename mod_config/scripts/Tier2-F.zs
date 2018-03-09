@@ -59,7 +59,7 @@ recipes.remove(<ExtraUtilities:watering_can:1>);
 <Mariculture:machines_single:5>.addTooltip(format.aqua("Required 'F200'"));
 
 // botania
-<Botania:manaResource:3>..addTooltip(format.aqua("Required 'F200'"));
+<Botania:manaResource:3>.addTooltip(format.aqua("Required 'F200'"));
 
 // ExtraUtilities
 <ExtraUtilities:watering_can:0>.addTooltip(format.aqua("Required 'F200'"));

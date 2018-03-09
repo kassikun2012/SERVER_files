@@ -154,7 +154,7 @@ recipes.remove(<DCsAppleMilk:defeatedcrow.battery:2>);
 <Mariculture:machines_single:9>.addTooltip(format.aqua("Required 'E100'"));
 
 // Galacticraft
-<GalacticraftCore:tile.machine.addTooltip(format.aqua("Required 'E100'"));
+<GalacticraftCore:tile.machine>.addTooltip(format.aqua("Required 'E100'"));
 <GalacticraftCore:tile.solar>.addTooltip(format.aqua("Required 'E100'"));
 <GalacticraftCore:tile.solar:4>.addTooltip(format.aqua("Required 'E100'"));
 
