@@ -24,18 +24,18 @@ OwnershipBanned:
 - 6265:1:redstone_reception_coil:You don't need it 
 - 6265:2:redstone_transmission_coil:You don't need it 
 - 6265:3:redstone_conductance_coil:You don't need it 
-- 3443:0:machine_frame:You don't need it 
-- 3443:4:leadstone_energycell_frame:You don't need it
-- 3434:0:Steam_Dynamo:You don't need it 
-- 3434:1:Magmatic_Dynamo:You don't need it 
-- 3434:2:Compression_Dynamo:You don't need it 
-- 3434:3:Reactant_Dynamo:You don't need it 
-- 3434:4:Enervation_Dynamo:You don't need it 
+- 3422:0:machine_frame:You don't need it 
+- 3422:4:leadstone_energycell_frame:You don't need it
+- 3413:0:Steam_Dynamo:You don't need it 
+- 3413:1:Magmatic_Dynamo:You don't need it 
+- 3413:2:Compression_Dynamo:You don't need it 
+- 3413:3:Reactant_Dynamo:You don't need it 
+- 3413:4:Enervation_Dynamo:You don't need it 
 - 2682:9:Kinetic_Dynamo:You don't need it 
 - 2682:10:thermoelectric generator:You don't need it 
 - 2684:6:generator block:You don't need it
 - 2686:0:lightnig_rod_base:You don't need it 
-- 7030:0:engineer's_hammer:You don't need it 
+- 7026:0:engineer's_hammer:You don't need it 
 - 5875:2:binder_composite:You don't need it 
 - 5874:1:basic_gear:You don't need it 
 - 5873:0:basic_capasitor:You don't need it 
@@ -44,23 +44,23 @@ OwnershipBanned:
 - 2232:0:ZombieGenerator:You don't need it 
 - 2233:0:PhotovoltaicCell:You don't need it 
 - 2233:1:AdvancedPhotovoltaicCell:You don't need it 
-- 6338:0:CompressedCarbon:You don't need it
-- 6339:0:CompressedRedstone:You don't need it
-- 6340:0:CompressedDiamond:You don't need it
-- 6341:0:CompressedObsidian:You don't need it
-- 6332:0:EnrichedAlloy:You don't need it
-- 6333:0:ReinforcedAlloy:You don't need it
-- 6334:0:AtomicAlloy:You don't need it
-- 6336:0:BasicControlCircuit:You don't need it
-- 6336:1:AdvencedControlCircuit:You don't need it
-- 6336:2:EliteControlCircuit:You don't need it
-- 6336:3:UltimateControlCircuit:You don't need it
-- 6355:0:ElectrolyticCore:You don't need it
-- 6343:0:TeleportationCore:You don't need it
-- 6324:0:EnergyTablet:You don't need it
+- 6337:0:CompressedCarbon:You don't need it
+- 6338:0:CompressedRedstone:You don't need it
+- 6339:0:CompressedDiamond:You don't need it
+- 6340:0:CompressedObsidian:You don't need it
+- 6331:0:EnrichedAlloy:You don't need it
+- 6332:0:ReinforcedAlloy:You don't need it
+- 6333:0:AtomicAlloy:You don't need it
+- 6335:0:BasicControlCircuit:You don't need it
+- 6335:1:AdvencedControlCircuit:You don't need it
+- 6335:2:EliteControlCircuit:You don't need it
+- 6335:3:UltimateControlCircuit:You don't need it
+- 6354:0:ElectrolyticCore:You don't need it
+- 6342:0:TeleportationCore:You don't need it
+- 6323:0:EnergyTablet:You don't need it
 - 2444:8:SteelCasing:You don't need it
-- 6323:0:ObsidianIngot:You don't need it
-- 7251:0:SolarPanel:You don't need it
+- 6322:0:ObsidianIngot:You don't need it
+- 7247:0:SolarPanel:You don't need it
 - 2823:0:HeatGenerator:You don't need it
 - 2823:1:SolarGenerator:You don't need it 
 - 2823:3:Gas-BurningGenerator:You don't need it 
@@ -76,6 +76,7 @@ OwnershipBanned:
 - 2790:9:generator:You don't need it 
 - 478:0:vibration_chamber:You don't need it
 - 186:0:manual_charge_generator:You don't need it
+- 4126:2:Citrus_Battery:You don't need it
 - 6120:512:pyrotheum_dust:You don't need it 
 - 2444:14:ThermalEvaporationController:You don't need it 
 - 2731:*:tool_forge:You don't need it
@@ -88,19 +89,19 @@ OwnershipBanned:
 - 166:0:blackteamaker:You don't need it 
 - 180:0:evaporator:You don't need it 
 - 178:0:foodprocessor:You don't need it 
-- 169:0:clay_pan:You don't need it 
+- 168:0:clay_pan:You don't need it 
 - 177:0:cooking_iron_plate:You don't need it 
 - 4096:0:Grater:You don't need it 
 - 4159:0:Diamond Grater:You don't need it 
 - 4158:0:Wooden Grater:You don't need it 
 - 245:0:Dring Rack:You don't need it 
-- 7390:0:pot:You don't need it 
-- 7396:0:juicer:You don't need it 
-- 7206:0:fishing_rod_reed:You don't need it
-- 7207:0:fishing_rod_wood:You don't need it
-- 7208:0:fishing_rod_titanium:You don't need it
-- 7210:0:fishing net:You don't need it
-- 7217:0:fishing_rodreed_flux:You don't need it
+- 7348:0:pot:You don't need it 
+- 7354:0:juicer:You don't need it 
+- 7202:0:fishing_rod_reed:You don't need it
+- 7203:0:fishing_rod_wood:You don't need it
+- 7204:0:fishing_rod_titanium:You don't need it
+- 7206:0:fishing net:You don't need it
+- 7213:0:fishing_rodreed_flux:You don't need it
 - 5912:0:Sturdy_Casing:You don't need it
 - 2344:0:Farm_Block:You don't need it
 - 2344:2:Farm_Gearbox:You don't need it
@@ -114,12 +115,12 @@ OwnershipBanned:
 - 2341:5:Squeezer:You don't need it
 - 2341:6:Still:You don't need it
 - 2342:0:Thermionic_Fabricator:You don't need it
-- 2924:0:market:You don't need it 
+- 2903:0:market:You don't need it 
 - 2250:0:Farming_Station:You don't need it 
 - 2790:5:automatic_fisher:You don't need it
-- 6753:0:watering_can:You don't need it
-- 6753:1:watering_can(Empty):You don't need it
-- 6753:2:watering_can(Broken):You don't need it
+- 6750:0:watering_can:You don't need it
+- 6750:1:watering_can(Empty):You don't need it
+- 6750:2:watering_can(Broken):You don't need it
 - 4253:0:cropsticks:You don't need it 
 - 6006:0:Scoop:You don't need it
 - 2318:0:apiary:You don't need it
@@ -139,14 +140,14 @@ OwnershipBanned:
 - 1647:3:gaia_mana_spreader:You don't need it
 - 5473:*:thaumwand:You don't need it 
 - 1615:15:arcaneworkbench:You don't need it 
-- 8244:14:mutandis:You don't need it 
-- 8244:15:mutandis Extremis:You don't need it 
-- 3240:0:altar:You don't need it 
-- 8265:0:Mystic_Branch:You don't need it
+- 8202:14:mutandis:You don't need it 
+- 8202:15:mutandis Extremis:You don't need it 
+- 3219:0:altar:You don't need it 
+- 8223:0:Mystic_Branch:You don't need it
 - 1687:0:terrestrial_a_p:You don't need it 
 - 1651:0:mana_pylon:You don't need it 
-- 5524:17:Thaumostatic_Harness:You don't need it
-- 8244:8:broom:You don't need it 
+- 5490:17:Thaumostatic_Harness:You don't need it
+- 8202:8:broom:You don't need it 
 - 241:1:panache:You don't need it 
 - 1651:2:gaia_pylon:You don't need it 
 - 5630:*:flugel_tiara:You don't need it 
@@ -154,23 +155,23 @@ OwnershipBanned:
 - 2581:0:culturevat:You don't need it 
 - 2584:0:archeplogy_workbench:You don't need it 
 - 2625:0:sifter:You don't need it 
-- 7012:4:Slimeling_Inventory_Bag:You don't need it 
-- 7073:0:upgrade_core:You don't need it
+- 7008:4:Slimeling_Inventory_Bag:You don't need it 
+- 7069:0:upgrade_core:You don't need it
 - 5893:0:glider_wing:You don't need it
-- 7147:0:traveller's goggles:You don't need it
-- 7148:0:traveller's vest:You don't need it
-- 7149:0:traveller's wings:You don't need it
-- 7150:0:traveller's boots:You don't need it
-- 7151:0:traveller's gloves:You don't need it
-- 7152:0:traveller's belt:You don't need it
-- 6742:0:sigil:You don't need it 
+- 7143:0:traveller's goggles:You don't need it
+- 7144:0:traveller's vest:You don't need it
+- 7145:0:traveller's wings:You don't need it
+- 7146:0:traveller's boots:You don't need it
+- 7147:0:traveller's gloves:You don't need it
+- 7148:0:traveller's belt:You don't need it
+ # - 6742:0:sigil:You don't need it 
 - 4103:0:chopstick:You don't need it
 - 5963:0:Juice Can:You don't need it
 - 5964:0:Juice Can:You don't need it
 - 5965:0:Juice Can:You don't need it
 - 5696:*:grisaia:You don't need it
-- 8174:0:Whitestone:You don't need it
-- 8188:0:Bloodstone:You don't need it
+- 8132:0:Whitestone:You don't need it
+- 8146:0:Bloodstone:You don't need it
 
 #CRAFTING BANS - Block crafting only! You don't need to add here items already added to
 CraftingBanned:

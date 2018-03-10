@@ -125,18 +125,18 @@ groups:
     - ItemRestrict.bypass.6265.1.own
     - ItemRestrict.bypass.6265.2.own
     - ItemRestrict.bypass.6265.3.own
-    - ItemRestrict.bypass.3443.0.own
-    - ItemRestrict.bypass.3443.4.own
-    - ItemRestrict.bypass.3434.0.own
-    - ItemRestrict.bypass.3434.1.own
-    - ItemRestrict.bypass.3434.2.own
-    - ItemRestrict.bypass.3434.3.own
-    - ItemRestrict.bypass.3434.4.own
+    - ItemRestrict.bypass.3422.0.own
+    - ItemRestrict.bypass.3422.4.own
+    - ItemRestrict.bypass.3413.0.own
+    - ItemRestrict.bypass.3413.1.own
+    - ItemRestrict.bypass.3413.2.own
+    - ItemRestrict.bypass.3413.3.own
+    - ItemRestrict.bypass.3413.4.own
     - ItemRestrict.bypass.2682.9.own
     - ItemRestrict.bypass.2682.10.own
     - ItemRestrict.bypass.2684.6.own
     - ItemRestrict.bypass.2686.0.own
-    - ItemRestrict.bypass.7030.0.own
+    - ItemRestrict.bypass.7026.0.own
     - ItemRestrict.bypass.5875.2.own
     - ItemRestrict.bypass.5874.1.own
     - ItemRestrict.bypass.5873.0.own
@@ -145,23 +145,23 @@ groups:
     - ItemRestrict.bypass.2232.0.own
     - ItemRestrict.bypass.2233.0.own
     - ItemRestrict.bypass.2233.1.own
+    - ItemRestrict.bypass.6337.0.own
     - ItemRestrict.bypass.6338.0.own
     - ItemRestrict.bypass.6339.0.own
     - ItemRestrict.bypass.6340.0.own
-    - ItemRestrict.bypass.6341.0.own
+    - ItemRestrict.bypass.6231.0.own
     - ItemRestrict.bypass.6232.0.own
     - ItemRestrict.bypass.6233.0.own
-    - ItemRestrict.bypass.6234.0.own
-    - ItemRestrict.bypass.6236.0.own
-    - ItemRestrict.bypass.6236.1.own
-    - ItemRestrict.bypass.6236.2.own
-    - ItemRestrict.bypass.6236.3.own
-    - ItemRestrict.bypass.6355.0.own
-    - ItemRestrict.bypass.6343.0.own
-    - ItemRestrict.bypass.6324.0.own
-    - ItemRestrict.bypass.2444.8.own
+    - ItemRestrict.bypass.6235.0.own
+    - ItemRestrict.bypass.6235.1.own
+    - ItemRestrict.bypass.6235.2.own
+    - ItemRestrict.bypass.6235.3.own
+    - ItemRestrict.bypass.6354.0.own
+    - ItemRestrict.bypass.6342.0.own
     - ItemRestrict.bypass.6323.0.own
-    - ItemRestrict.bypass.7251.0.own
+    - ItemRestrict.bypass.2444.8.own
+    - ItemRestrict.bypass.6322.0.own
+    - ItemRestrict.bypass.7247.0.own
     - ItemRestrict.bypass.2823.0.own
     - ItemRestrict.bypass.2823.3.own
     - ItemRestrict.bypass.2823.4.own
@@ -177,6 +177,7 @@ groups:
     - ItemRestrict.bypass.2790.9.own
     - ItemRestrict.bypass.478.0.own
     - ItemRestrict.bypass.186.0.own
+    - ItemRestrict.bypass.4126.0.own
     - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
@@ -263,15 +264,19 @@ groups:
     - ItemRestrict.bypass.166.0.own
     - ItemRestrict.bypass.180.0.own
     - ItemRestrict.bypass.178.0.own
-    - ItemRestrict.bypass.169.0.own
+    - ItemRestrict.bypass.168.0.own
     - ItemRestrict.bypass.177.0.own
-    - ItemRestrict.bypass.7390.0.own
-    - ItemRestrict.bypass.7396.0.own
+    - ItemRestrict.bypass.4096.0.own
+    - ItemRestrict.bypass.4159.0.own
+    - ItemRestrict.bypass.4158.0.own
+    - ItemRestrict.bypass.245.0.own
+    - ItemRestrict.bypass.7348.0.own
+    - ItemRestrict.bypass.7354.0.own
+    - ItemRestrict.bypass.7202.0.own
+    - ItemRestrict.bypass.7203.0.own
+    - ItemRestrict.bypass.7204.0.own
     - ItemRestrict.bypass.7206.0.own
-    - ItemRestrict.bypass.7207.0.own
-    - ItemRestrict.bypass.7208.0.own
-    - ItemRestrict.bypass.7210.0.own
-    - ItemRestrict.bypass.7217.0.own
+    - ItemRestrict.bypass.7213.0.own
     - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
@@ -300,12 +305,12 @@ groups:
     - ItemRestrict.bypass.2341.5.own
     - ItemRestrict.bypass.2341.6.own
     - ItemRestrict.bypass.2342.0.own
-    - ItemRestrict.bypass.2924.0.own
+    - ItemRestrict.bypass.2903.0.own
     - ItemRestrict.bypass.2250.0.own
     - ItemRestrict.bypass.2790.5.own
-    - ItemRestrict.bypass.6753.0.own
-    - ItemRestrict.bypass.6753.1.own
-    - ItemRestrict.bypass.6753.2.own
+    - ItemRestrict.bypass.6750.0.own
+    - ItemRestrict.bypass.6750.1.own
+    - ItemRestrict.bypass.6750.2.own
     - -chestcommands.open.F10C.yml
     inheritance:
     - F10C
@@ -385,10 +390,10 @@ groups:
     - ItemRestrict.bypass.1670.3.own
     - ItemRestrict.bypass.5473.*.own
     - ItemRestrict.bypass.1615.15.own
-    - ItemRestrict.bypass.8244.14.own
-    - ItemRestrict.bypass.8244.15.own
-    - ItemRestrict.bypass.3240.0.own
-    - ItemRestrict.bypass.8265.0.own
+    - ItemRestrict.bypass.8202.14.own
+    - ItemRestrict.bypass.8202.15.own
+    - ItemRestrict.bypass.3219.0.own
+    - ItemRestrict.bypass.8223.0.own
     - -chestcommands.open.R00C.yml
     inheritance:
     - W00C
@@ -405,7 +410,7 @@ groups:
     - rerecipecreators.recipes.W200
     - ItemRestrict.bypass.1687.0.own
     - ItemRestrict.bypass.1651.0.own
-    - ItemRestrict.bypass.5524.17.own
+    - ItemRestrict.bypass.5490.17.own
     - -chestcommands.open.W10C.yml
     inheritance:
     - W10C
@@ -421,7 +426,7 @@ groups:
   W3A0:
     permissions:
     - rerecipecreators.recipes.W3A0
-    - ItemRestrict.bypass.8244.8.own
+    - ItemRestrict.bypass.8202.8.own
     - -chestcommands.open.W20C.yml
     inheritance:
     - W20C
@@ -474,7 +479,7 @@ groups:
     - ItemRestrict.bypass.2584.0.own
     - ItemRestrict.bypass.2587.0.own
     - ItemRestrict.bypass.2625.0.own
-    - ItemRestrict.bypass.7012.4.own
+    - ItemRestrict.bypass.7008.4.own
     - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
@@ -490,14 +495,14 @@ groups:
   T200:
     permissions:
     - rerecipecreators.recipes.T200
-    - ItemRestrict.bypass.7073.0.own
+    - ItemRestrict.bypass.7069.0.own
     - ItemRestrict.bypass.5893.0.own
+    - ItemRestrict.bypass.7143.0.own
+    - ItemRestrict.bypass.7144.0.own
+    - ItemRestrict.bypass.7145.0.own
+    - ItemRestrict.bypass.7146.0.own
     - ItemRestrict.bypass.7147.0.own
     - ItemRestrict.bypass.7148.0.own
-    - ItemRestrict.bypass.7149.0.own
-    - ItemRestrict.bypass.7150.0.own
-    - ItemRestrict.bypass.7151.0.own
-    - ItemRestrict.bypass.7152.0.own
     - -chestcommands.open.T10C.yml
     inheritance:
     - T10C
