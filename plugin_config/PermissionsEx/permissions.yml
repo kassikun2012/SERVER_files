@@ -251,6 +251,10 @@ groups:
     - ItemRestrict.bypass.178.0.own
     - ItemRestrict.bypass.169.0.own
     - ItemRestrict.bypass.177.0.own
+    - ItemRestrict.bypass.4096.0.own
+    - ItemRestrict.bypass.4159.0.own
+    - ItemRestrict.bypass.4158.0.own
+    - ItemRestrict.bypass.245.0.own
     - ItemRestrict.bypass.7390.0.own
     - ItemRestrict.bypass.7396.0.own
     - ItemRestrict.bypass.7206.0.own
