@@ -43,7 +43,7 @@ recipes.remove(<ExtraUtilities:nodeUpgrade:9>);
 <ThermalExpansion:Workbench:2>.addTooltip(format.aqua("Required 'E200'"));
 <ThermalExpansion:Workbench:3>.addTooltip(format.aqua("Required 'E200'"));
 <ThermalExpansion:Workbench:4>.addTooltip(format.aqua("Required 'E200'"));
-<ThermalFoundation:material:512>.addTooltip(format.aqua("Required 'E200'"));
+<ThermalFoundation:material:512>.addTooltip(format.darkRed("Required 'E200'"));
 
 // EnderIO
 <EnderIO:blockCrafter>.addTooltip(format.aqua("Required 'E200'"));
@@ -56,11 +56,11 @@ recipes.remove(<ExtraUtilities:nodeUpgrade:9>);
 <bluepower:manager>.addTooltip(format.aqua("Required 'E200'"));
 
 // Mekanism
-<Mekanism:BasicBlock:14>.addTooltip(format.aqua("Required 'E200'"));
+<Mekanism:BasicBlock:14>.addTooltip(format.darkRed("Required 'E200'"));
 
 // TConstruct
-<TConstruct:ToolForgeBlock:*>.addTooltip(format.aqua("Required 'E200'"));
-<TConstruct:Smeltery>.addTooltip(format.aqua("Required 'E200'"));
+<TConstruct:ToolForgeBlock:*>.addTooltip(format.darkRed("Required 'E200'"));
+<TConstruct:Smeltery>.addTooltip(format.darkRed("Required 'E200'"));
 
 // ExtraUtilities
 <ExtraUtilities:nodeUpgrade>.addTooltip(format.aqua("Required 'E200'"));

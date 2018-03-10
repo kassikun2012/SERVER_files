@@ -58,11 +58,11 @@ recipes.remove(<GalacticraftMars:item.null:4>);
 <Forestry:builderBagT2>.addTooltip(format.aqua("Required 'T100'"));
 
 // fossil
-<fossil:analyzer>.addTooltip(format.aqua("Required 'T100'"));
-<fossil:cultureVat>.addTooltip(format.aqua("Required 'T100'"));
-<fossil:fossilworkbench>.addTooltip(format.aqua("Required 'T100'"));
+<fossil:analyzer>.addTooltip(format.yellow("Required 'T100'"));
+<fossil:cultureVat>.addTooltip(format.yellow("Required 'T100'"));
+<fossil:fossilworkbench>.addTooltip(format.yellow("Required 'T100'"));
 <fossil:feederIdle>.addTooltip(format.aqua("Required 'T100'"));
-<fossil:sifter>.addTooltip(format.aqua("Required 'T100'"));
+<fossil:sifter>.addTooltip(format.yellow("Required 'T100'"));
 
 // Galacticraft
-<GalacticraftMars:item.null:4>.addTooltip(format.aqua("Required 'T100'"));
+<GalacticraftMars:item.null:4>.addTooltip(format.yellow("Required 'T100'"));

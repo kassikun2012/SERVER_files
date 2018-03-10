@@ -21,11 +21,11 @@ recipes.remove(<waystones:warpScroll>);
 <DCsAppleMilk:defeatedcrow.princessClam:2>.addTooltip(format.aqua("Required 'W200'"));
 
 // Botania
-<Botania:terraPlate>.addTooltip(format.aqua("Required 'W200'"));
-<Botania:pylon>.addTooltip(format.aqua("Required 'W200'"));
+<Botania:terraPlate>.addTooltip(format.yellow("Required 'W200'"));
+<Botania:pylon>.addTooltip(format.yellow("Required 'W200'"));
 
 // Thaumcraft
-<Thaumcraft:ItemResource:17>.addTooltip(format.aqua("Required 'W200'"));
+<Thaumcraft:ItemResource:17>.addTooltip(format.yellow("Required 'W200'"));
 // waystones
 <waystones:waystone>.addTooltip(format.aqua("Required 'W200'"));
 <waystones:warpStone>.addTooltip(format.aqua("Required 'W200'"));

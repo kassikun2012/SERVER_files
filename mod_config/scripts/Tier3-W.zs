@@ -27,13 +27,13 @@ recipes.remove(<Botania:flightTiara:0>);
 <DCsAppleMilk:defeatedcrow.princessClam:3>.addTooltip(format.aqua("Required 'W3A0'"));
 
 // witchery
-<witchery:ingredient:8>.addTooltip(format.aqua("Required 'W3A0'"));
+<witchery:ingredient:8>.addTooltip(format.yellow("Required 'W3A0'"));
 
 /* tier3b */
 
 // DCsAppleMilk
-<DCsAppleMilk:defeatedcrow.cocktail2:1>.addTooltip(format.aqua("Required 'W3B0'"));
+<DCsAppleMilk:defeatedcrow.cocktail2:1>.addTooltip(format.yellow("Required 'W3B0'"));
 
 // Botania
-<Botania:pylon:2>.addTooltip(format.aqua("Required 'W3B0'"));
-<Botania:flightTiara:0>.addTooltip(format.aqua("Required 'W3B0'"));
+<Botania:pylon:2>.addTooltip(format.yellow("Required 'W3B0'"));
+<Botania:flightTiara:0>.addTooltip(format.yellow("Required 'W3B0'"));

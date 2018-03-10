@@ -27,19 +27,19 @@ recipes.remove(<EnderIO:blockTelePad>);
 /* Tier3a */
 // ThermalExpansion
 <ThermalExpansion:Tesseract>.addTooltip(format.aqua("Required 'E3A0'"));
-<ThermalFoundation:material:140>.addTooltip(format.aqua("Required 'E3A0'"));
+<ThermalFoundation:material:140>.addTooltip(format.yellow("Required 'E3A0'"));
 
 // Mekanism
 <Mekanism:MachineBlock2:8>.addTooltip(format.aqua("Required 'E3A0'"));
-<MekanismGenerators:Reactor>.addTooltip(format.aqua("Required 'E3A0'"));
+<MekanismGenerators:Reactor>.addTooltip(format.yellow("Required 'E3A0'"));
 
 /* Tier3b */
 // ThermalExpansion
-<ThermalFoundation:material:513>.addTooltip(format.aqua("Required 'E3B0'"));
+<ThermalFoundation:material:513>.addTooltip(format.yellow("Required 'E3B0'"));
 
 // Mekanism
 <Mekanism:MachineBlock:4>.addTooltip(format.aqua("Required 'E3B0'"));
-<MekanismGenerators:Reactor>.addTooltip(format.aqua("Required 'E3B0'"));
+<MekanismGenerators:Reactor>.addTooltip(format.yellow("Required 'E3B0'"));
 
 // EndeIO
 <EnderIO:blockTransceiver>.addTooltip(format.aqua("Required 'E3B0'"));

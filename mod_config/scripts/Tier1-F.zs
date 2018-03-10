@@ -77,22 +77,22 @@ recipes.remove(<RandomThings:fertilizedDirt>);
 
 /*----- tooltips -----*/
 // DCsAppleMilk
-<DCsAppleMilk:defeatedcrow.teaMakerNext>.addTooltip(format.aqua("Required 'F100'"));
-<DCsAppleMilk:defeatedcrow.teaMakerBlack>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.teaMakerNext>.addTooltip(format.yellow("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.teaMakerBlack>.addTooltip(format.yellow("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.emptyCup>.addTooltip(format.aqua("Required 'F100'"));
-<DCsAppleMilk:defeatedcrow.evaporator>.addTooltip(format.aqua("Required 'F100'"));
-<DCsAppleMilk:defeatedcrow.processor>.addTooltip(format.aqua("Required 'F100'"));
-<DCsAppleMilk:defeatedcrow.emptyPanG>.addTooltip(format.aqua("Required 'F100'"));
-<DCsAppleMilk:defeatedcrow.teppanII>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.evaporator>.addTooltip(format.yellow("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.processor>.addTooltip(format.yellow("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.emptyPanG>.addTooltip(format.yellow("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.teppanII>.addTooltip(format.yellow("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.filledCup:2>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.filledCup:4>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.filledCup:6>.addTooltip(format.aqua("Required 'F100'"));
-<DCsAppleMilk:defeatedcrow.grater>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.grater>.addTooltip(format.yellow("Required 'F100'"));
 
 // AMTAddonJP
-<AMTAddonJP:addonamtjp.grater_diamond>.addTooltip(format.aqua("Required 'F100'"));
-<AMTAddonJP:addonamtjp.grater_wooden>.addTooltip(format.aqua("Required 'F100'"));
-<AMTAddonJP:addonamtjp.drying_rack>.addTooltip(format.aqua("Required 'F100'"));
+<AMTAddonJP:addonamtjp.grater_diamond>.addTooltip(format.yellow("Required 'F100'"));
+<AMTAddonJP:addonamtjp.grater_wooden>.addTooltip(format.yellow("Required 'F100'"));
+<AMTAddonJP:addonamtjp.drying_rack>.addTooltip(format.yellow("Required 'F100'"));
 
 // Forestry
 <Forestry:gearCopper>.addTooltip(format.aqua("Required 'F100'"));
@@ -100,8 +100,8 @@ recipes.remove(<RandomThings:fertilizedDirt>);
 <Forestry:gearBronze>.addTooltip(format.aqua("Required 'F100'"));
 
 // harvestcraft
-<harvestcraft:potItem>.addTooltip(format.aqua("Required 'F100'"));
-<harvestcraft:juicerItem>.addTooltip(format.aqua("Required 'F100'"));
+<harvestcraft:potItem>.addTooltip(format.yellow("Required 'F100'"));
+<harvestcraft:juicerItem>.addTooltip(format.yellow("Required 'F100'"));
 <harvestcraft:pamappleSapling>.addTooltip(format.aqua("Required 'F100'"));
 <harvestcraft:pamalmondSapling>.addTooltip(format.aqua("Required 'F100'"));
 <harvestcraft:pamapricotSapling>.addTooltip(format.aqua("Required 'F100'"));
@@ -140,11 +140,11 @@ recipes.remove(<RandomThings:fertilizedDirt>);
 <harvestcraft:pamgooseberrySapling>.addTooltip(format.aqua("Required 'F100'"));
 
 // Mariculture
-<Mariculture:rod_reed>.addTooltip(format.aqua("Required 'F100'"));
-<Mariculture:rod_wood>.addTooltip(format.aqua("Required 'F100'"));
-<Mariculture:rod_titanium>.addTooltip(format.aqua("Required 'F100'"));
-<Mariculture:rod_flux>.addTooltip(format.aqua("Required 'F100'"));
-<Mariculture:net>.addTooltip(format.aqua("Required 'F100'"));
+<Mariculture:rod_reed>.addTooltip(format.yellow("Required 'F100'"));
+<Mariculture:rod_wood>.addTooltip(format.yellow("Required 'F100'"));
+<Mariculture:rod_titanium>.addTooltip(format.yellow("Required 'F100'"));
+<Mariculture:rod_flux>.addTooltip(format.yellow("Required 'F100'"));
+<Mariculture:net>.addTooltip(format.yellow("Required 'F100'"));
 
 // RandomThings
 <RandomThings:fertilizedDirt>.addTooltip(format.aqua("Required 'F100'"));
