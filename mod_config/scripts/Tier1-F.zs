@@ -5,10 +5,20 @@
 // DCsAppleMilk
 recipes.remove(<DCsAppleMilk:defeatedcrow.teaMakerNext>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.teaMakerBlack>);
+recipes.remove(<DCsAppleMilk:defeatedcrow.emptyCup>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.evaporator>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.processor>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.emptyPanG>);
 recipes.remove(<DCsAppleMilk:defeatedcrow.teppanII>);
+recipes.remove(<DCsAppleMilk:defeatedcrow.filledCup:2>);
+recipes.remove(<DCsAppleMilk:defeatedcrow.filledCup:4>);
+recipes.remove(<DCsAppleMilk:defeatedcrow.filledCup:6>);
+recipes.remove(<DCsAppleMilk:defeatedcrow.grater>);
+
+// AMTAddonJP
+recipes.remove(<AMTAddonJP:addonamtjp.grater_diamond>);
+recipes.remove(<AMTAddonJP:addonamtjp.grater_wooden>);
+recipes.remove(<AMTAddonJP:addonamtjp.drying_rack>);
 
 // Forestry
 recipes.remove(<Forestry:gearCopper>);
@@ -69,10 +79,20 @@ recipes.remove(<RandomThings:fertilizedDirt>);
 // DCsAppleMilk
 <DCsAppleMilk:defeatedcrow.teaMakerNext>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.teaMakerBlack>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.emptyCup>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.evaporator>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.processor>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.emptyPanG>.addTooltip(format.aqua("Required 'F100'"));
 <DCsAppleMilk:defeatedcrow.teppanII>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.filledCup:2>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.filledCup:4>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.filledCup:6>.addTooltip(format.aqua("Required 'F100'"));
+<DCsAppleMilk:defeatedcrow.grater>.addTooltip(format.aqua("Required 'F100'"));
+
+// AMTAddonJP
+<AMTAddonJP:addonamtjp.grater_diamond>.addTooltip(format.aqua("Required 'F100'"));
+<AMTAddonJP:addonamtjp.grater_wooden>.addTooltip(format.aqua("Required 'F100'"));
+<AMTAddonJP:addonamtjp.drying_rack>.addTooltip(format.aqua("Required 'F100'"));
 
 // Forestry
 <Forestry:gearCopper>.addTooltip(format.aqua("Required 'F100'"));
