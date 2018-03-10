@@ -1,7 +1,7 @@
 
-# Modpack 0.1.1 Minecraft 1.7.10
- - [FINALCITY modpack 0.1.1](https://www.dropbox.com/s/cc4srw07inu9wrs/finalcitymodconfig0.1.1.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.1.1](../Finalcitytwitch.zip) その手の人向け
+# Modpack 0.1.2 Minecraft 1.7.10
+ - [FINALCITY modpack 0.1.2](https://www.dropbox.com/s/6efegzutdmfgmb8/finalcitymodconfig0.1.2.zip?dl=0) Dropbox  
+ - [FINALCITY twitchpack 0.1.2](../Finalcitytwitch.zip) その手の人向け
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](http://defeatedcrow.wiki.fc2.com/wiki/JapaneseAddonForAppleMilkTea2) defeatedcrow様
@@ -30,6 +30,7 @@
  - [ComputerCraft1.75.jar](https://minecraft.curseforge.com/projects/computercraft) dan200様
  - [Computronics-1.7.10-1.6.5.jar](https://github.com/asiekierka/Computronics) Adrian Siekierka様
  - [CraftTweaker-1.7.10-3.0.13.jar](https://minecraft.curseforge.com/projects/crafttweaker) CraftTweaker様
+ - [CustomChestLoot-1.7.10-2.0.1.jar](https://minecraft.curseforge.com/projects/custom-chest-loot) FatherToast様
  - [CustomNPCs_1.7.10d(21feb16).jar](https://minecraft.curseforge.com/projects/custom-npcs) Noppes様
  - [CyanosLootableBodies-1.7.10-backport_1.3.7.jar](https://minecraft.curseforge.com/projects/drcyanos-lootable-bodies) Minecraft Mod Development Mods様
  - [DynamicTransport-0.1.2.0.jar](https://minecraft.curseforge.com/projects/dynamic-transport) SlimeVoid Development Team様
@@ -57,8 +58,6 @@
  - [Mariculture-Deluxe-1.7.10-1.2.4.2a-5.jar](https://minecraft.curseforge.com/projects/mariculture) joshiejack様
  - [Mekanism-1.7.10-9.1.1.1031.jar](https://minecraft.curseforge.com/projects/mekanism) aidancbrady様
  - [MekanismGenerators-1.7.10-9.1.1.1031.jar](https://minecraft.curseforge.com/projects/mekanism) aidancbrady様
- - [MetallurgyCore-1.7.10-4.0.4.18.jar](https://minecraft.curseforge.com/projects/metallurgy-core) JeanGlassmaker様
- - [meteors-1.7.10-2.14.3.jar](https://minecraft.curseforge.com/projects/falling-meteors-mod) AlexDGr8r様
  - [MicdoodleCore-1.7-3.0.12.497.jar](https://micdoodle8.com/mods/galacticraft) Micdoodle8様
  - [ModTweaker2-0.9.6.jar](https://minecraft.curseforge.com/projects/modtweaker) jaredlll08様
  - [Morpheus-1.7.10-1.6.21.jar](https://minecraft.curseforge.com/projects/morpheus) Quetzi様
@@ -97,6 +96,7 @@
  - [TConstruct-1.7.10-1.8.8.build991.jar](https://minecraft.curseforge.com/projects/tinkers-construct) SlimeKnights様
  - [Thaumcraft-1.7.10-4.2.3.5.jar](https://minecraft.curseforge.com/projects/thaumcraft) Azanor様
  - [thaumicenergistics-1.0.0.5-RV2.jar](https://minecraft.curseforge.com/projects/thaumic-energistics) Nividica様
+ - [ThaumPatch-1.7.10-1.0.2.9-universal.jar](https://minecraft.curseforge.com/projects/thaumpatch) Kamesuta様
  - [ThermalDynamics-\[1.7.10\]1.2.1-172.jar](https://minecraft.curseforge.com/projects/thermal-dynamics) TeamCoFH様
  - [ThermalExpansion-\[1.7.10\]4.1.5-248.jar](https://minecraft.curseforge.com/projects/thermalexpansion) TeamCoFH様
  - [ThermalFoundation-\[1.7.10\]1.2.6-118.jar](https://minecraft.curseforge.com/projects/thermal-foundation) TeamCoFH様
