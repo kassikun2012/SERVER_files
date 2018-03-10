@@ -74,7 +74,9 @@ users:
       name: eache
   79ffd9cd-b508-4d7e-91b0-7aee6b4a628e:
     group:
-    - E200
+    - V000
+    options:
+      name: a0n0
 groups:
   V000:
     permissions:
@@ -83,12 +85,11 @@ groups:
     - chestcommands.open.terminal.yml
     - essentials.list
     - essentials.motd
-    - essentials.msg
+    - -lunachat.join.G
     - essentials.suicide
     - essentials.afk
     - essentials.afk.auto
     - iConomy.holdings
-    - iConomy.payment
     - randombox.openbox
     - autorank.check
     - autorank.leaderboard
@@ -101,19 +102,22 @@ groups:
     - randombox.main
     - essentials.silentquit
     options:
+      prefix: '&7[V000]&f'
       default: true
   R000:
     inheritance:
     - V000
     permissions:
     - essentials.spawn
-    options: {}
+    options:
+      prefix: '&f[R000]&f'
   R00C:
     permissions:
     - chestcommands.open.R00C.yml
     inheritance:
     - R000
-    options: {}
+    options:
+      prefix: '&f[R00C]&f'
   E100:
     permissions:
     - rerecipecreators.recipes.E100
@@ -176,13 +180,15 @@ groups:
     - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
-    options: {}
+    options:
+      prefix: '&4[E100]&f'
   E10C:
     permissions:
     - chestcommands.open.E10C.yml
     inheritance:
     - E100
-    options: {}
+    options:
+      prefix: '&4[E10C]&f'
   E200:
     permissions:
     - rerecipecreators.recipes.E200
@@ -193,13 +199,15 @@ groups:
     - -chestcommands.open.E10C.yml
     inheritance:
     - E10C
-    options: {}
+    options:
+      prefix: '&4[E200]&f'
   E20C:
     permissions:
     - chestcommands.open.E20C.yml
     inheritance:
     - E200
-    options: {}
+    options:
+      prefix: '&4[E20C]&f'
   E3A0:
     permissions:
     - rerecipecreators.recipes.E3A0
@@ -208,7 +216,8 @@ groups:
     - -chestcommands.open.E20C.yml
     inheritance:
     - E20C
-    options: {}
+    options:
+      prefix: '&4[E3A0]&f'
   E3B0:
     permissions:
     - rerecipecreators.recipes.E3B0
@@ -217,31 +226,36 @@ groups:
     - -chestcommands.open.E20C.yml
     inheritance:
     - E20C
-    options: {}
+    options:
+      prefix: '&4[E3B0]&f'
   E3AC:
     permissions:
     - chestcommands.open.E3AC.yml
     inheritance:
     - E3A0
-    options: {}
+    options:
+      prefix: '&4[E3AC]&f'
   E3BC:
     permissions:
     - chestcommands.open.E3BC.yml
     inheritance:
     - E3B0
-    options: {}
+    options:
+      prefix: '&4[E3BC]&f'
   E4A0:
     permissions:
     - -chestcommands.open.E3AC.yml
     inheritance:
     - E3AC
-    options: {}
+    options:
+      prefix: '&c[E4A0]&f'
   E4B0:
     permissions:
     - -chestcommands.open.E3BC.yml
     inheritance:
     - E3BC
-    options: {}
+    options:
+      prefix: '&c[E4B0]&f'
   F100:
     permissions:
     - rerecipecreators.recipes.F100
@@ -251,10 +265,6 @@ groups:
     - ItemRestrict.bypass.178.0.own
     - ItemRestrict.bypass.169.0.own
     - ItemRestrict.bypass.177.0.own
-    - ItemRestrict.bypass.4096.0.own
-    - ItemRestrict.bypass.4159.0.own
-    - ItemRestrict.bypass.4158.0.own
-    - ItemRestrict.bypass.245.0.own
     - ItemRestrict.bypass.7390.0.own
     - ItemRestrict.bypass.7396.0.own
     - ItemRestrict.bypass.7206.0.own
@@ -265,13 +275,15 @@ groups:
     - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
-    options: {}
+    options:
+      prefix: '&2[F100]&f'
   F10C:
     permissions:
     - chestcommands.open.F10C.yml
     inheritance:
     - F100
-    options: {}
+    options:
+      prefix: '&2[F10C]&f'
   F200:
     permissions:
     - rerecipecreators.recipes.F200
@@ -297,13 +309,15 @@ groups:
     - -chestcommands.open.F10C.yml
     inheritance:
     - F10C
-    options: {}
+    options:
+      prefix: '&2[F200]&f'
   F20C:
     permissions:
     - chestcommands.open.F20C.yml
     inheritance:
     - F200
-    options: {}
+    options:
+      prefix: '&2[F20C]&f'
   F3A0:
     permissions:
     - rerecipecreators.recipes.F3A0
@@ -314,7 +328,8 @@ groups:
     - -chestcommands.open.F20C.yml
     inheritance:
     - F20C
-    options: {}
+    options:
+      prefix: '&2[F3A0]&f'
   F3B0:
     permissions:
     - rerecipecreators.recipes.F3B0
@@ -323,31 +338,36 @@ groups:
     - -chestcommands.open.F20C.yml
     inheritance:
     - F20C
-    options: {}
+    options:
+      prefix: '&2[F3B0]&f'
   F3AC:
     permissions:
     - chestcommands.open.F3AC.yml
     inheritance:
     - F3A0
-    options: {}
+    options:
+      prefix: '&2[F3AC]&f'
   F3BC:
     permissions:
     - chestcommands.open.F3BC.yml
     inheritance:
     - F3B0
-    options: {}
+    options:
+      prefix: '&2[F3BC]&f'
   F4A0:
     permissions:
     - -chestcommands.open.F3AC.yml
     inheritance:
     - F3AC
-    options: {}
+    options:
+      prefix: '&a[F4A0]&f'
   F4B0:
     permissions:
     - -chestcommands.open.F3BC.yml
     inheritance:
     - F3BC
-    options: {}
+    options:
+      prefix: '&a[F4B0]&f'
   W100:
     permissions:
     - rerecipecreators.recipes.W100
@@ -372,7 +392,8 @@ groups:
     - -chestcommands.open.R00C.yml
     inheritance:
     - W00C
-    options: {}
+    options:
+      prefix: '&5[W100]&f'
   W10C:
     permissions:
     - chestcommands.open.W10C.yml
@@ -388,13 +409,15 @@ groups:
     - -chestcommands.open.W10C.yml
     inheritance:
     - W10C
-    options: {}
+    options:
+      prefix: '&5[W10C]&f'
   W20C:
     permissions:
     - chestcommands.open.W20C.yml
     inheritance:
     - W200
-    options: {}
+    options:
+      prefix: '&5[W20C]&f'
   W3A0:
     permissions:
     - rerecipecreators.recipes.W3A0
@@ -402,7 +425,8 @@ groups:
     - -chestcommands.open.W20C.yml
     inheritance:
     - W20C
-    options: {}
+    options:
+      prefix: '&5[W3A0]&f'
   W3B0:
     permissions:
     - rerecipecreators.recipes.W3B0
@@ -412,31 +436,36 @@ groups:
     - -chestcommands.open.W20C.yml
     inheritance:
     - W20C
-    options: {}
+    options:
+      prefix: '&5[W3B0]&f'
   W3AC:
     permissions:
     - chestcommands.open.W3AC.yml
     inheritance:
     - W3A0
-    options: {}
+    options:
+      prefix: '&5[W3AC]&f'
   W3BC:
     permissions:
     - chestcommands.open.W3BC.yml
     inheritance:
     - W3B0
-    options: {}
+    options:
+      prefix: '&5[W3BC]&f'
   W4A0:
     permissions:
     - -chestcommands.open.W3AC.yml
     inheritance:
     - W3AC
-    options: {}
+    options:
+      prefix: '&d[W4A0]&f'
   W4B0:
     permissions:
     - -chestcommands.open.W3BC.yml
     inheritance:
     - W3BC
-    options: {}
+    options:
+      prefix: '&d[W4B0]&f'
   T100:
     permissions:
     - rerecipecreators.recipes.T100
@@ -449,13 +478,15 @@ groups:
     - -chestcommands.open.R00C.yml
     inheritance:
     - R00C
-    options: {}
+    options:
+      prefix: '&1[T100]&f'
   T10C:
     permissions:
     - chestcommands.open.T10C.yml
     inheritance:
     - T100
-    options: {}
+    options:
+      prefix: '&1[T10C]&f'
   T200:
     permissions:
     - rerecipecreators.recipes.T200
@@ -470,51 +501,59 @@ groups:
     - -chestcommands.open.T10C.yml
     inheritance:
     - T10C
-    options: {}
+    options:
+      prefix: '&1[T200]&f'
   T20C:
     permissions:
     - chestcommands.open.T20C.yml
     inheritance:
     - T200
-    options: {}
+    options:
+      prefix: '&1[T20C]&f'
   T3A0:
     permissions:
     - rerecipecreators.recipes.T3A0
     - -chestcommands.open.T20C.yml
     inheritance:
     - T20C
-    options: {}
+    options:
+      prefix: '&1[T3A0]&f'
   T3B0:
     permissions:
     - rerecipecreators.recipes.T3B0
     - -chestcommands.open.T20C.yml
     inheritance:
     - T20C
-    options: {}
+    options:
+      prefix: '&1[T3B0]&f'
   T3AC:
     permissions:
     - chestcommands.open.T3AC.yml
     inheritance:
     - T3A0
-    options: {}
+    options:
+      prefix: '&1[T3AC]&f'
   T3BC:
     permissions:
     - chestcommands.open.T3BC.yml
     inheritance:
     - T3B0
-    options: {}
+    options:
+      prefix: '&1[T3BC]&f'
   T4A0:
     permissions:
     - -chestcommands.open.T3AC.yml
     inheritance:
     - T3AC
-    options: {}
+    options:
+      prefix: '&b[T4A0]&f'
   T4B0:
     permissions:
     - -chestcommands.open.T3BC.yml
     inheritance:
     - T3BC
-    options: {}
+    options:
+      prefix: '&b[T4B0]&f'
 worlds:
   nether:
     inheritance:
