@@ -15,6 +15,8 @@ recipes.remove(<Mariculture:machines_single_rendered:2>);
 /*----- tooltips -----*/
 // AgriCraft
 <AgriCraft:cropsItem>.addTooltip(format.darkGreen("Required 'F300'"));
+<AgriCraft:clipper>.addTooltip(format.darkGreen("Required 'F300'"));
+<AgriCraft:clipping>.addTooltip(format.darkGreen("Required 'F300'"));
 
 /* tier3a */
 // Forestry

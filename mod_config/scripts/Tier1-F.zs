@@ -138,6 +138,18 @@ recipes.remove(<RandomThings:fertilizedDirt>);
 <harvestcraft:pamvanillabeanSapling>.addTooltip(format.green("Required 'F100'"));
 <harvestcraft:pamwalnutSapling>.addTooltip(format.green("Required 'F100'"));
 <harvestcraft:pamgooseberrySapling>.addTooltip(format.green("Required 'F100'"));
+<harvestcraft:cuttingboardItem>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:skilletItem>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:saucepanItem>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:bakewareItem>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:mortarandpestleItem>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:mixingbowlItem>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:apiary>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:presser>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:oven>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:churn>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:fishtrap>.addTooltip(format.darkGreen("Required 'F100'"));
+<harvestcraft:animaltrap>.addTooltip(format.darkGreen("Required 'F100'"));
 
 // Mariculture
 <Mariculture:rod_reed>.addTooltip(format.darkGreen("Required 'F100'"));
@@ -145,6 +157,13 @@ recipes.remove(<RandomThings:fertilizedDirt>);
 <Mariculture:rod_titanium>.addTooltip(format.darkGreen("Required 'F100'"));
 <Mariculture:rod_flux>.addTooltip(format.darkGreen("Required 'F100'"));
 <Mariculture:net>.addTooltip(format.darkGreen("Required 'F100'"));
+<Mariculture:machines_multi_rendered:3>.addTooltip(format.darkGreen("Required 'F100'"));
+<Mariculture:tanks>.addTooltip(format.darkGreen("Required 'F100'"));
+<Mariculture:machines_multi>.addTooltip(format.darkGreen("Required 'F100'"));
+<Mariculture:machines_single:6>.addTooltip(format.darkGreen("Required 'F100'"));
+<Mariculture:mirror_basic>.addTooltip(format.darkGreen("Required 'F100'"));
+<Mariculture:mirror_magic>.addTooltip(format.darkGreen("Required 'F100'"));
+<Mariculture:mirror_celestial>.addTooltip(format.darkGreen("Required 'F100'"));
 
 // RandomThings
 <RandomThings:fertilizedDirt>.addTooltip(format.green("Required 'F100'"));

@@ -45,6 +45,11 @@ recipes.remove(<ExtraUtilities:watering_can:1>);
 <Forestry:factory:3>.addTooltip(format.darkGreen("Required 'F200'"));
 <Forestry:factory:6>.addTooltip(format.darkGreen("Required 'F200'"));
 <Forestry:factory:4>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:treealyzer>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:infuser>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:flutterlyzer>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:core:1>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:grafter>.addTooltip(format.darkGreen("Required 'F200'"));
 
 // harvestcraft
 <harvestcraft:market>.addTooltip(format.darkGreen("Required 'F200'"));

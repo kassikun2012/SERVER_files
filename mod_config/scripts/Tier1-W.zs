@@ -10,7 +10,7 @@ recipes.remove(<Botania:spreader>);
 recipes.remove(<Botania:spreader:1>);
 recipes.remove(<Botania:spreader:2>);
 recipes.remove(<Botania:spreader:3>);
-
+recipes.remove(<Botania:auraRing>);
 // Thaumcraft
 recipes.remove(<Thaumcraft:WandCasting:*>);
 
@@ -33,6 +33,7 @@ recipes.remove(<witchery:mysticbranch>);
 <Botania:spreader:1>.addTooltip(format.darkPurple("Required 'W100'"));
 <Botania:spreader:2>.addTooltip(format.darkPurple("Required 'W100'"));
 <Botania:spreader:3>.addTooltip(format.darkPurple("Required 'W100'"));
+<Botania:auraRing>.addTooltip(format.darkPurple("Required 'W100'"));
 
 // Thaumcraft
 <Thaumcraft:WandCasting:*>.addTooltip(format.darkPurple("Required 'W100'"));
