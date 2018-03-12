@@ -1,5 +1,4 @@
-# 
-# ----------- Groups ------------ #
+# ----------- Users ------------- #
 
 users:
   f3592ee1-8b4a-480c-a5d5-330c788cd012:
@@ -74,13 +73,38 @@ users:
       name: eache
   79ffd9cd-b508-4d7e-91b0-7aee6b4a628e:
     group:
-    - V000
+    - R000
     options:
       name: a0n0
+  ba457d54-b864-408c-86d5-91dbdfe6ad8a:
+    group:
+    - R000
+    options:
+      name: f04041
+  1216217a-1aa1-4d1e-94cc-a26387590090:
+    group:
+    - W100
+    options:
+      name: kurosemi
+  8a849caf-242b-4e48-8af0-60da99574674:
+    group:
+    - R00C
+    options:
+      name: c2FUMAc2
+  d2db4a89-fdb3-4d61-b89a-94f2e3c3f2dd:
+    group:
+    - R000
+    options:
+      name: Toranekojp
+  4c679e30-abc1-4310-b282-bd8aa95c6c74:
+    group:
+    - R00C
+    options:
+      name: For_Teleport
 groups:
   V000:
     permissions:
-    - essentials.spawn
+    - -factions.create
     - essentials.kits.new
     - chestcommands.open.terminal.yml
     - essentials.list
@@ -89,11 +113,10 @@ groups:
     - essentials.suicide
     - essentials.afk
     - essentials.afk.auto
-    - iConomy.holdings
+    - essentials.balance
     - randombox.openbox
     - autorank.check
     - autorank.leaderboard
-    - scs.use
     - portal.use.*
     - automessage.receive.*
     - cofh.*
@@ -108,7 +131,7 @@ groups:
     inheritance:
     - V000
     permissions:
-    - essentials.spawn
+    - setspawn.spawn
     options:
       prefix: '&f[R000]&f'
   R00C:
@@ -120,6 +143,7 @@ groups:
       prefix: '&f[R00C]&f'
   E100:
     permissions:
+    - factions.create
     - rerecipecreators.recipes.E100
     - ItemRestrict.bypass.6265.0.own
     - ItemRestrict.bypass.6265.1.own
@@ -259,6 +283,7 @@ groups:
       prefix: '&c[E4B0]&f'
   F100:
     permissions:
+    - factions.create
     - rerecipecreators.recipes.F100
     - ItemRestrict.bypass.165.0.own
     - ItemRestrict.bypass.166.0.own
@@ -375,6 +400,7 @@ groups:
       prefix: '&a[F4B0]&f'
   W100:
     permissions:
+    - factions.create
     - rerecipecreators.recipes.W100
     - ItemRestrict.bypass.180.0.own
     - ItemRestrict.bypass.1643.*.own
@@ -394,9 +420,10 @@ groups:
     - ItemRestrict.bypass.8202.15.own
     - ItemRestrict.bypass.3219.0.own
     - ItemRestrict.bypass.8223.0.own
+    - ItemRestrict.bypass.1647.*.own
     - -chestcommands.open.R00C.yml
     inheritance:
-    - W00C
+    - R00C
     options:
       prefix: '&5[W100]&f'
   W10C:
@@ -519,6 +546,9 @@ groups:
     permissions:
     - rerecipecreators.recipes.T3A0
     - -chestcommands.open.T20C.yml
+    - backpack.use
+    - backpack.fullpickup
+    - backpack.KeepOnDeath
     inheritance:
     - T20C
     options:
@@ -527,6 +557,7 @@ groups:
     permissions:
     - rerecipecreators.recipes.T3B0
     - -chestcommands.open.T20C.yml
+    - worldedit.navigation.jumpto.command
     inheritance:
     - T20C
     options:
@@ -564,3 +595,4 @@ worlds:
     inheritance:
     - world
 schema-version: 1
+
