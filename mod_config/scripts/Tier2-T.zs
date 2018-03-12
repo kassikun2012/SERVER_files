@@ -26,23 +26,23 @@ recipes.remove(<TConstruct:travelBelt>);
 
 /*----- tooltips -----*/
 // IronBackpacks
-<ironbackpacks:upgradeCore>.addTooltip(format.yellow("Required 'T200'"));
+<ironbackpacks:upgradeCore>.addTooltip(format.darkBlue("Required 'T200'"));
 
 // Galacticraft
-<GalacticraftCore:item.oxygenMask>.addTooltip(format.aqua("Required 'T200'"));
+<GalacticraftCore:item.oxygenMask>.addTooltip(format.blue("Required 'T200'"));
 
 // EnderIO
-<EnderIO:itemGliderWing>.addTooltip(format.yellow("Required 'T200'"));
+<EnderIO:itemGliderWing>.addTooltip(format.darkBlue("Required 'T200'"));
 
 // waystone
-<waystones:waystone>.addTooltip(format.aqua("Required 'T200'"));
-<waystones:warpStone>.addTooltip(format.aqua("Required 'T200'"));
-<waystones:warpScroll>.addTooltip(format.aqua("Required 'T200'"));
+<waystones:waystone>.addTooltip(format.blue("Required 'T200'"));
+<waystones:warpStone>.addTooltip(format.blue("Required 'T200'"));
+<waystones:warpScroll>.addTooltip(format.blue("Required 'T200'"));
 
 // TinkersConstruct
-<TConstruct:travelGoggles>.addTooltip(format.yellow("Required 'T200'"));
-<TConstruct:travelVest>.addTooltip(format.yellow("Required 'T200'"));
-<TConstruct:travelWings>.addTooltip(format.yellow("Required 'T200'"));
-<TConstruct:travelBoots>.addTooltip(format.yellow("Required 'T200'"));
-<TConstruct:travelGlove>.addTooltip(format.yellow("Required 'T200'"));
-<TConstruct:travelBelt>.addTooltip(format.yellow("Required 'T200'"));
+<TConstruct:travelGoggles>.addTooltip(format.darkBlue("Required 'T200'"));
+<TConstruct:travelVest>.addTooltip(format.darkBlue("Required 'T200'"));
+<TConstruct:travelWings>.addTooltip(format.darkBlue("Required 'T200'"));
+<TConstruct:travelBoots>.addTooltip(format.darkBlue("Required 'T200'"));
+<TConstruct:travelGlove>.addTooltip(format.darkBlue("Required 'T200'"));
+<TConstruct:travelBelt>.addTooltip(format.darkBlue("Required 'T200'"));

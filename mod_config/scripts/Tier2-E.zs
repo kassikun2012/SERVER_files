@@ -38,22 +38,22 @@ recipes.remove(<ExtraUtilities:nodeUpgrade:9>);
 
 /*----- tooltips -----*/
 // ThermalExpansion
-<ThermalExpansion:Device:2>.addTooltip(format.aqua("Required 'E200'"));
-<ThermalExpansion:Workbench:1>.addTooltip(format.aqua("Required 'E200'"));
-<ThermalExpansion:Workbench:2>.addTooltip(format.aqua("Required 'E200'"));
-<ThermalExpansion:Workbench:3>.addTooltip(format.aqua("Required 'E200'"));
-<ThermalExpansion:Workbench:4>.addTooltip(format.aqua("Required 'E200'"));
+<ThermalExpansion:Device:2>.addTooltip(format.red("Required 'E200'"));
+<ThermalExpansion:Workbench:1>.addTooltip(format.red("Required 'E200'"));
+<ThermalExpansion:Workbench:2>.addTooltip(format.red("Required 'E200'"));
+<ThermalExpansion:Workbench:3>.addTooltip(format.red("Required 'E200'"));
+<ThermalExpansion:Workbench:4>.addTooltip(format.red("Required 'E200'"));
 <ThermalFoundation:material:512>.addTooltip(format.darkRed("Required 'E200'"));
 
 // EnderIO
-<EnderIO:blockCrafter>.addTooltip(format.aqua("Required 'E200'"));
-<EnderIO:blockKillerJoe>.addTooltip(format.aqua("Required 'E200'"));
-<EnderIO:blockInventoryPanel>.addTooltip(format.aqua("Required 'E200'"));
-<EnderIO:itemTravelStaff:*>.addTooltip(format.aqua("Required 'E200'"));
+<EnderIO:blockCrafter>.addTooltip(format.red("Required 'E200'"));
+<EnderIO:blockKillerJoe>.addTooltip(format.red("Required 'E200'"));
+<EnderIO:blockInventoryPanel>.addTooltip(format.red("Required 'E200'"));
+<EnderIO:itemTravelStaff:*>.addTooltip(format.red("Required 'E200'"));
 
 // bluepower
-<bluepower:auto_project_table>.addTooltip(format.aqua("Required 'E200'"));
-<bluepower:manager>.addTooltip(format.aqua("Required 'E200'"));
+<bluepower:auto_project_table>.addTooltip(format.red("Required 'E200'"));
+<bluepower:manager>.addTooltip(format.red("Required 'E200'"));
 
 // Mekanism
 <Mekanism:BasicBlock:14>.addTooltip(format.darkRed("Required 'E200'"));
@@ -63,11 +63,11 @@ recipes.remove(<ExtraUtilities:nodeUpgrade:9>);
 <TConstruct:Smeltery>.addTooltip(format.darkRed("Required 'E200'"));
 
 // ExtraUtilities
-<ExtraUtilities:nodeUpgrade>.addTooltip(format.aqua("Required 'E200'"));
-<ExtraUtilities:nodeUpgrade:2>.addTooltip(format.aqua("Required 'E200'"));
-<ExtraUtilities:nodeUpgrade:3>.addTooltip(format.aqua("Required 'E200'"));
-<ExtraUtilities:nodeUpgrade:5>.addTooltip(format.aqua("Required 'E200'"));
-<ExtraUtilities:nodeUpgrade:6>.addTooltip(format.aqua("Required 'E200'"));
-<ExtraUtilities:nodeUpgrade:7>.addTooltip(format.aqua("Required 'E200'"));
-<ExtraUtilities:nodeUpgrade:8>.addTooltip(format.aqua("Required 'E200'"));
-<ExtraUtilities:nodeUpgrade:9>.addTooltip(format.aqua("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade>.addTooltip(format.red("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade:2>.addTooltip(format.red("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade:3>.addTooltip(format.red("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade:5>.addTooltip(format.red("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade:6>.addTooltip(format.red("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade:7>.addTooltip(format.red("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade:8>.addTooltip(format.red("Required 'E200'"));
+<ExtraUtilities:nodeUpgrade:9>.addTooltip(format.red("Required 'E200'"));

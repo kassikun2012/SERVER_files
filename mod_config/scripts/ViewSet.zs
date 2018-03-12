@@ -90,76 +90,76 @@ NEI.hide(<harvestcraft:pumpkincheesecakeItem>);
 
 /* Tooltip Settings */
 // AppleMilk
-<DCsAppleMilk:defeatedcrow.cocktail:1>.addTooltip(format.red("DeleteRecipe"));
-<DCsAppleMilk:defeatedcrow.chopsticks>.addTooltip(format.red("DeleteRecipe"));
+<DCsAppleMilk:defeatedcrow.cocktail:1>.addTooltip(format.gold("DeleteRecipe"));
+<DCsAppleMilk:defeatedcrow.chopsticks>.addTooltip(format.gold("DeleteRecipe"));
 
 // Botania
-<Botania:manaCookie>.addTooltip(format.red("DeleteRecipe"));
-<Botania:rfGenerator>.addTooltip(format.red("DeleteRecipe"));
+<Botania:manaCookie>.addTooltip(format.gold("DeleteRecipe"));
+<Botania:rfGenerator>.addTooltip(format.gold("DeleteRecipe"));
 
 // ExtraUtilities
-<ExtraUtilities:angelRing:*>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:unstableingot:*>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:watering_can:*>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:generator:*>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:spike_base_wood>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:spike_base>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:spike_base_gold>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:spike_base_diamond>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:decorativeBlock1:11>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:peaceful_table_top>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:extractor_base:*>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:builderswand>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:erosionShovel>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:destructionpickaxe>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:defoliageAxe>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:temporalHoe>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:ethericsword>.addTooltip(format.red("DeleteRecipe"));
-<ExtraUtilities:shears>.addTooltip(format.red("DeleteRecipe"));
+<ExtraUtilities:angelRing:*>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:unstableingot:*>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:watering_can:*>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:generator:*>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:spike_base_wood>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:spike_base>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:spike_base_gold>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:spike_base_diamond>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:decorativeBlock1:11>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:peaceful_table_top>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:extractor_base:*>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:builderswand>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:erosionShovel>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:destructionpickaxe>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:defoliageAxe>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:temporalHoe>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:ethericsword>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:shears>.addTooltip(format.gold("DeleteRecipe"));
 
 // EnderIO
-<EnderIO:blockPoweredSpawner>.addTooltip(format.red("DeleteRecipe"));
+<EnderIO:blockPoweredSpawner>.addTooltip(format.gold("DeleteRecipe"));
 
 // Forestry
-<Forestry:canJuice>.addTooltip(format.red("DeleteRecipe"));
-<Forestry:waxCapsuleJuice>.addTooltip(format.red("DeleteRecipe"));
-<Forestry:refractoryJuice>.addTooltip(format.red("DeleteRecipe"));
+<Forestry:canJuice>.addTooltip(format.gold("DeleteRecipe"));
+<Forestry:waxCapsuleJuice>.addTooltip(format.gold("DeleteRecipe"));
+<Forestry:refractoryJuice>.addTooltip(format.gold("DeleteRecipe"));
 
 // GalacticraftCore
-<GalacticraftCore:item.basicItem:15>.addTooltip(format.red("DeleteRecipe"));
-<GalacticraftCore:item.basicItem:16>.addTooltip(format.red("DeleteRecipe"));
-<GalacticraftCore:item.basicItem:17>.addTooltip(format.red("DeleteRecipe"));
-<GalacticraftCore:item.basicItem:18>.addTooltip(format.red("DeleteRecipe"));
+<GalacticraftCore:item.basicItem:15>.addTooltip(format.gold("DeleteRecipe"));
+<GalacticraftCore:item.basicItem:16>.addTooltip(format.gold("DeleteRecipe"));
+<GalacticraftCore:item.basicItem:17>.addTooltip(format.gold("DeleteRecipe"));
+<GalacticraftCore:item.basicItem:18>.addTooltip(format.gold("DeleteRecipe"));
 
 // nevermine
-<nevermine:SkeletalHelmet>.addTooltip(format.red("DeleteRecipe"));
-<nevermine:SkeletalChestplate>.addTooltip(format.red("DeleteRecipe"));
-<nevermine:SkeletalLeggings>.addTooltip(format.red("DeleteRecipe"));
-<nevermine:SkeletalBoots>.addTooltip(format.red("DeleteRecipe"));
+<nevermine:SkeletalHelmet>.addTooltip(format.gold("DeleteRecipe"));
+<nevermine:SkeletalChestplate>.addTooltip(format.gold("DeleteRecipe"));
+<nevermine:SkeletalLeggings>.addTooltip(format.gold("DeleteRecipe"));
+<nevermine:SkeletalBoots>.addTooltip(format.gold("DeleteRecipe"));
 
 // Mariculture
-<Mariculture:upgrade:*>.addTooltip(format.red("DeleteRecipe"));
+<Mariculture:upgrade:*>.addTooltip(format.gold("DeleteRecipe"));
 
 // TConstruct
-<TConstruct:MeatBlock>.addTooltip(format.red("DeleteRecipe"));
+<TConstruct:MeatBlock>.addTooltip(format.gold("DeleteRecipe"));
 
 // Mekanism
- <nevermine:SkeletalHelmet>    .addTooltip(format.red("DeleteRecipe"));
- <nevermine:SkeletalChestplate>.addTooltip(format.red("DeleteRecipe"));
- <nevermine:SkeletalLeggings>  .addTooltip(format.red("DeleteRecipe"));
- <nevermine:SkeletalBoots>     .addTooltip(format.red("DeleteRecipe"));
+ <nevermine:SkeletalHelmet>    .addTooltip(format.gold("DeleteRecipe"));
+ <nevermine:SkeletalChestplate>.addTooltip(format.gold("DeleteRecipe"));
+ <nevermine:SkeletalLeggings>  .addTooltip(format.gold("DeleteRecipe"));
+ <nevermine:SkeletalBoots>     .addTooltip(format.gold("DeleteRecipe"));
 
 // RandomThings
-<RandomThings:magneticForce>.addTooltip(format.red("DeleteRecipe"));
-<RandomThings:spiritBinder>.addTooltip(format.red("DeleteRecipe"));
+<RandomThings:magneticForce>.addTooltip(format.gold("DeleteRecipe"));
+<RandomThings:spiritBinder>.addTooltip(format.gold("DeleteRecipe"));
 
 
 // harvestcraft
-<harvestcraft:carrotcakeItem>.addTooltip(format.red("DeleteRecipe"));
-<harvestcraft:cheesecakeItem>.addTooltip(format.red("DeleteRecipe"));
-<harvestcraft:cherrycheesecakeItem>.addTooltip(format.red("DeleteRecipe"));
-<harvestcraft:pineappleupsidedowncakeItem>.addTooltip(format.red("DeleteRecipe"));
-<harvestcraft:chocolatesprinklecakeItem>.addTooltip(format.red("DeleteRecipe"));
-<harvestcraft:redvelvetcakeItem>.addTooltip(format.red("DeleteRecipe"));
-<harvestcraft:holidaycakeItem>.addTooltip(format.red("DeleteRecipe"));
-<harvestcraft:pumpkincheesecakeItem>.addTooltip(format.red("DeleteRecipe"));
+<harvestcraft:carrotcakeItem>.addTooltip(format.gold("DeleteRecipe"));
+<harvestcraft:cheesecakeItem>.addTooltip(format.gold("DeleteRecipe"));
+<harvestcraft:cherrycheesecakeItem>.addTooltip(format.gold("DeleteRecipe"));
+<harvestcraft:pineappleupsidedowncakeItem>.addTooltip(format.gold("DeleteRecipe"));
+<harvestcraft:chocolatesprinklecakeItem>.addTooltip(format.gold("DeleteRecipe"));
+<harvestcraft:redvelvetcakeItem>.addTooltip(format.gold("DeleteRecipe"));
+<harvestcraft:holidaycakeItem>.addTooltip(format.gold("DeleteRecipe"));
+<harvestcraft:pumpkincheesecakeItem>.addTooltip(format.gold("DeleteRecipe"));

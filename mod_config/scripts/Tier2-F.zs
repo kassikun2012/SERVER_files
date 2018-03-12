@@ -32,30 +32,30 @@ recipes.remove(<ExtraUtilities:watering_can:1>);
 /*----- tooltips -----*/
 
 // Forestry
-<Forestry:sturdyMachine>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:ffarm:0>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:ffarm:2>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:ffarm:3>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:ffarm:4>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:ffarm:5>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:factory:1>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:factory2:0>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:factory:0>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:factory:5>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:factory:3>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:factory:6>.addTooltip(format.yellow("Required 'F200'"));
-<Forestry:factory:4>.addTooltip(format.yellow("Required 'F200'"));
+<Forestry:sturdyMachine>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:ffarm:0>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:ffarm:2>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:ffarm:3>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:ffarm:4>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:ffarm:5>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:factory:1>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:factory2:0>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:factory:0>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:factory:5>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:factory:3>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:factory:6>.addTooltip(format.darkGreen("Required 'F200'"));
+<Forestry:factory:4>.addTooltip(format.darkGreen("Required 'F200'"));
 
 // harvestcraft
-<harvestcraft:market>.addTooltip(format.yellow("Required 'F200'"));
+<harvestcraft:market>.addTooltip(format.darkGreen("Required 'F200'"));
 
 // EnderIO
-<EnderIO:blockFarmStation>.addTooltip(format.yellow("Required 'F200'"));
+<EnderIO:blockFarmStation>.addTooltip(format.darkGreen("Required 'F200'"));
 
 // Mariculture
-<Mariculture:machines_single:5>.addTooltip(format.yellow("Required 'F200'"));
+<Mariculture:machines_single:5>.addTooltip(format.darkGreen("Required 'F200'"));
 
 // ExtraUtilities
-<ExtraUtilities:watering_can:0>.addTooltip(format.yellow("Required 'F200'"));
-<ExtraUtilities:watering_can:1>.addTooltip(format.yellow("Required 'F200'"));
-<ExtraUtilities:watering_can:2>.addTooltip(format.yellow("Required 'F200'"));
+<ExtraUtilities:watering_can:0>.addTooltip(format.darkGreen("Required 'F200'"));
+<ExtraUtilities:watering_can:1>.addTooltip(format.darkGreen("Required 'F200'"));
+<ExtraUtilities:watering_can:2>.addTooltip(format.darkGreen("Required 'F200'"));

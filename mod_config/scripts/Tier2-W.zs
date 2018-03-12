@@ -16,17 +16,17 @@ recipes.remove(<waystones:warpScroll>);
 
 /*----- tooltips -----*/
 // DCsAppleMilk
-<DCsAppleMilk:defeatedcrow.incenseBase>.addTooltip(format.aqua("Required 'W200'"));
-<DCsAppleMilk:defeatedcrow.princessClam:1>.addTooltip(format.aqua("Required 'W200'"));
-<DCsAppleMilk:defeatedcrow.princessClam:2>.addTooltip(format.aqua("Required 'W200'"));
+<DCsAppleMilk:defeatedcrow.incenseBase>.addTooltip(format.lightPurple("Required 'W200'"));
+<DCsAppleMilk:defeatedcrow.princessClam:1>.addTooltip(format.lightPurple("Required 'W200'"));
+<DCsAppleMilk:defeatedcrow.princessClam:2>.addTooltip(format.lightPurple("Required 'W200'"));
 
 // Botania
-<Botania:terraPlate>.addTooltip(format.yellow("Required 'W200'"));
-<Botania:pylon>.addTooltip(format.yellow("Required 'W200'"));
+<Botania:terraPlate>.addTooltip(format.darkPurple("Required 'W200'"));
+<Botania:pylon>.addTooltip(format.darkPurple("Required 'W200'"));
 
 // Thaumcraft
-<Thaumcraft:ItemResource:17>.addTooltip(format.yellow("Required 'W200'"));
+<Thaumcraft:ItemResource:17>.addTooltip(format.darkPurple("Required 'W200'"));
 // waystones
-<waystones:waystone>.addTooltip(format.aqua("Required 'W200'"));
-<waystones:warpStone>.addTooltip(format.aqua("Required 'W200'"));
-<waystones:warpScroll>.addTooltip(format.aqua("Required 'W200'"));
+<waystones:waystone>.addTooltip(format.lightPurple("Required 'W200'"));
+<waystones:warpStone>.addTooltip(format.lightPurple("Required 'W200'"));
+<waystones:warpScroll>.addTooltip(format.lightPurple("Required 'W200'"));
