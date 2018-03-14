@@ -32,6 +32,8 @@ NEI.hide(<ExtraUtilities:defoliageAxe>);
 NEI.hide(<ExtraUtilities:temporalHoe>);
 NEI.hide(<ExtraUtilities:ethericsword>);
 NEI.hide(<ExtraUtilities:shears>);
+NEI.hide(<ExtraUtilities:enderQuarry>);
+NEI.hide(<ExtraUtilities:enderQuarryUpgrade:*>);
 
 // EnderIO
 NEI.hide(<EnderIO:blockPoweredSpawner>);
@@ -116,6 +118,9 @@ NEI.hide(<harvestcraft:pumpkincheesecakeItem>);
 <ExtraUtilities:temporalHoe>.addTooltip(format.gold("DeleteRecipe"));
 <ExtraUtilities:ethericsword>.addTooltip(format.gold("DeleteRecipe"));
 <ExtraUtilities:shears>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:enderQuarry>.addTooltip(format.gold("DeleteRecipe"));
+<ExtraUtilities:enderQuarryUpgrade:*>.addTooltip(format.gold("DeleteRecipe"));
+
 
 // EnderIO
 <EnderIO:blockPoweredSpawner>.addTooltip(format.gold("DeleteRecipe"));

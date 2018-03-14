@@ -33,6 +33,12 @@ recipes.remove(<fossil:sifter>);
 // Galacticraft
 recipes.remove(<GalacticraftMars:item.null:4>);
 
+// BluePower
+recipes.remove(<bluepower:canvas_bag:0>);
+
+// TinkersConstruct
+recipes.remove(<TConstruct:knapsack>);
+
 
 /*----- tooltips -----*/
 // IronBackpacks
@@ -66,3 +72,9 @@ recipes.remove(<GalacticraftMars:item.null:4>);
 
 // Galacticraft
 <GalacticraftMars:item.null:4>.addTooltip(format.darkBlue("Required 'T100'"));
+
+// BluePower
+<bluepower:canvas_bag:0>.addTooltip(format.darkBlue("Required 'T100'"));
+
+// TinkersConstruct
+<TConstruct:knapsack>.addTooltip(format.darkBlue("Required 'T100'"));

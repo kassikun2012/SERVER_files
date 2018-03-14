@@ -24,6 +24,8 @@ recipes.remove(<ExtraUtilities:spike_base_diamond>);
 recipes.remove(<ExtraUtilities:decorativeBlock1:11>);
 recipes.remove(<ExtraUtilities:peaceful_table_top>);
 recipes.remove(<ExtraUtilities:extractor_base:*>);
+recipes.remove(<ExtraUtilities:enderQuarry>);
+recipes.remove(<ExtraUtilities:enderQuarryUpgrade:*>);
 //CursedEarthEnabled=true>false - cfg
 //MicroBlocksEnabled=true>false -cfg
 
