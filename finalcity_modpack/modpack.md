@@ -1,7 +1,7 @@
 
-# Modpack 0.1.2 Minecraft 1.7.10
- - [FINALCITY modpack 0.1.2](https://www.dropbox.com/s/6efegzutdmfgmb8/finalcitymodconfig0.1.2.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.1.2](../Finalcitytwitch.zip) その手の人向け
+# Modpack 0.1.3 Minecraft 1.7.10
+ - [FINALCITY modpack 0.1.3](https://www.dropbox.com/s/ywj65gkr92yg68n/finalcitymodconfig0.1.3.zip?dl=0) Dropbox  
+ - [FINALCITY twitchpack 0.1.3](../Finalcitytwitch.zip) その手の人向け
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](http://defeatedcrow.wiki.fc2.com/wiki/JapaneseAddonForAppleMilkTea2) defeatedcrow様
