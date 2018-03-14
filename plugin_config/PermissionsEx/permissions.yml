@@ -73,7 +73,7 @@ users:
       name: eache
   79ffd9cd-b508-4d7e-91b0-7aee6b4a628e:
     group:
-    - R000
+    - T100
     options:
       name: a0n0
   ba457d54-b864-408c-86d5-91dbdfe6ad8a:
@@ -83,28 +83,46 @@ users:
       name: f04041
   1216217a-1aa1-4d1e-94cc-a26387590090:
     group:
-    - W100
+    - W3B0
     options:
       name: kurosemi
   8a849caf-242b-4e48-8af0-60da99574674:
     group:
-    - R00C
+    - E4B0
     options:
       name: c2FUMAc2
   d2db4a89-fdb3-4d61-b89a-94f2e3c3f2dd:
     group:
-    - R000
+    - W100
     options:
       name: Toranekojp
   4c679e30-abc1-4310-b282-bd8aa95c6c74:
     group:
-    - R00C
+    - F100
     options:
       name: For_Teleport
+  ec19764e-f61f-4906-97a1-16ebf3f136da:
+    group:
+    - F200
+    options:
+      name: karekusa
+  4c57a750-b0c3-4c44-b450-991a8d9cda4c:
+    group:
+    - R000
+    options:
+      name: huminsho
+  ac8104b9-dd24-4604-9597-14fbbe680d67:
+    group:
+    - R000
+    options:
+      name: kassikun2012
 groups:
   V000:
     permissions:
     - -factions.create
+    - -factions.join
+    - -factions.invite
+    - -factions.flag
     - essentials.kits.new
     - chestcommands.open.terminal.yml
     - essentials.list
@@ -239,6 +257,13 @@ groups:
     - ItemRestrict.bypass.6120.140.own
     - ItemRestrict.bypass.2824.0.own
     - -chestcommands.open.E20C.yml
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - E20C
     options:
@@ -249,6 +274,13 @@ groups:
     - ItemRestrict.bypass.6120.513.own
     - ItemRestrict.bypass.2824.0.own
     - -chestcommands.open.E20C.yml
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - E20C
     options:
@@ -263,6 +295,7 @@ groups:
   E3BC:
     permissions:
     - chestcommands.open.E3BC.yml
+    - chestcommands.open.E3BC.yml
     inheritance:
     - E3B0
     options:
@@ -270,6 +303,15 @@ groups:
   E4A0:
     permissions:
     - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
+    - chestcommands.open.E3BC.yml
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - E3AC
     options:
@@ -277,6 +319,15 @@ groups:
   E4B0:
     permissions:
     - -chestcommands.open.E3BC.yml
+    - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - E3BC
     options:
@@ -284,6 +335,7 @@ groups:
   F100:
     permissions:
     - factions.create
+    - rerecipecreators.recipes.F100
     - rerecipecreators.recipes.F100
     - ItemRestrict.bypass.165.0.own
     - ItemRestrict.bypass.166.0.own
@@ -382,6 +434,13 @@ groups:
     - ItemRestrict.bypass.2318.0.own
     - ItemRestrict.bypass.2318.2.own
     - -chestcommands.open.F20C.yml
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - F20C
     options:
@@ -392,6 +451,13 @@ groups:
     - ItemRestrict.bypass.4253.0.own
     - ItemRestrict.bypass.2792.2.own
     - -chestcommands.open.F20C.yml
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - F20C
     options:
@@ -413,13 +479,31 @@ groups:
   F4A0:
     permissions:
     - -chestcommands.open.F3AC.yml
+    - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - F3AC
     options:
       prefix: '&a[F4A0]&f'
   F4B0:
     permissions:
+    - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
     - -chestcommands.open.F3BC.yml
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - F3BC
     options:
@@ -487,6 +571,13 @@ groups:
     - rerecipecreators.recipes.W3A0
     - ItemRestrict.bypass.8202.8.own
     - -chestcommands.open.W20C.yml
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - W20C
     options:
@@ -498,6 +589,13 @@ groups:
     - ItemRestrict.bypass.1651.2.own
     - ItemRestrict.bypass.5630.*.own
     - -chestcommands.open.W20C.yml
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - W20C
     options:
@@ -519,6 +617,15 @@ groups:
   W4A0:
     permissions:
     - -chestcommands.open.W3AC.yml
+    - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - W3AC
     options:
@@ -526,6 +633,15 @@ groups:
   W4B0:
     permissions:
     - -chestcommands.open.W3BC.yml
+    - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - W3BC
     options:
@@ -539,6 +655,8 @@ groups:
     - ItemRestrict.bypass.2625.0.own
     - ItemRestrict.bypass.7008.4.own
     - -chestcommands.open.R00C.yml
+    - worldborder.bypass
+
     inheritance:
     - R00C
     options:
@@ -580,6 +698,13 @@ groups:
     - backpack.use
     - backpack.fullpickup
     - backpack.KeepOnDeath
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - T20C
     options:
@@ -589,6 +714,13 @@ groups:
     - rerecipecreators.recipes.T3B0
     - -chestcommands.open.T20C.yml
     - worldedit.navigation.jumpto.command
+    - factions.join
+    - areashop.help
+    - areashop.buy
+    - areashop.resell
+    - areashop.stopresell
+    - areashop.info
+    - areashop.me
     inheritance:
     - T20C
     options:
@@ -610,6 +742,15 @@ groups:
   T4A0:
     permissions:
     - -chestcommands.open.T3AC.yml
+    - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - T3AC
     options:
@@ -617,6 +758,15 @@ groups:
   T4B0:
     permissions:
     - -chestcommands.open.T3BC.yml
+    - -chestcommands.open.E3AC.yml
+    - worldedit.selection.pos
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.setparent.own.*
+    - areashop.sellown
+    - factions.invite
     inheritance:
     - T3BC
     options:
