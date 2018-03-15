@@ -83,7 +83,7 @@ users:
       name: f04041
   1216217a-1aa1-4d1e-94cc-a26387590090:
     group:
-    - W3B0
+    - W4B0
     options:
       name: kurosemi
   8a849caf-242b-4e48-8af0-60da99574674:
@@ -103,7 +103,7 @@ users:
       name: For_Teleport
   ec19764e-f61f-4906-97a1-16ebf3f136da:
     group:
-    - F200
+    - F3B0
     options:
       name: karekusa
   4c57a750-b0c3-4c44-b450-991a8d9cda4c:
@@ -113,13 +113,50 @@ users:
       name: huminsho
   ac8104b9-dd24-4604-9597-14fbbe680d67:
     group:
-    - R000
+    - F100
     options:
       name: kassikun2012
+  b4618769-f3c2-4d97-8e3f-ce8ce9d30caf:
+    group:
+    - F100
+    options:
+      name: Seita_0219
+  07b1588b-7fdb-4f5a-97dc-f98555467e2b:
+    group:
+    - E100
+    options:
+      name: shigre200
+  f522cbe8-4582-42bf-b3f3-f5eac702b7f5:
+    group:
+    - R000
+    options:
+      name: _fariel_
+  726d47c2-156f-49eb-83b9-b14ccb94ff48:
+    group:
+    - E100
+    options:
+      name: tomosige
+  08a133ca-c02e-4ef4-aaaf-75b335343fd4:
+    group:
+    - E100
+    options:
+      name: hinatanbo312
+  0f286fc2-0c86-42d5-8518-c306cad74f03:
+    group:
+    - R00C
+    options:
+      name: MORIMORI0317OTCF
+  8e70b72e-eaca-43b8-b212-277c1e939e44:
+    group:
+    - R000
+    options:
+      name: PumPkin0MIA
 groups:
   V000:
     permissions:
     - -factions.create
+    - ItemRestrict.bypass.6120.1.own
+    - ItemRestrict.bypass.6120.0.own
     - -factions.join
     - -factions.invite
     - -factions.flag
@@ -656,7 +693,6 @@ groups:
     - ItemRestrict.bypass.7008.4.own
     - -chestcommands.open.R00C.yml
     - worldborder.bypass
-
     inheritance:
     - R00C
     options:
