@@ -155,8 +155,77 @@ groups:
   V000:
     permissions:
     - -factions.create
-    - ItemRestrict.bypass.6120.1.own
     - ItemRestrict.bypass.6120.0.own
+    - ItemRestrict.bypass.6120.1.own
+    - ItemRestrict.bypass.6120.2.own
+    - ItemRestrict.bypass.6120.3.own
+    - ItemRestrict.bypass.6120.4.own
+    - ItemRestrict.bypass.6120.8.own
+    - ItemRestrict.bypass.6120.12.own
+    - ItemRestrict.bypass.6120.13.own
+    - ItemRestrict.bypass.6120.16.own
+    - ItemRestrict.bypass.6120.17.own
+    - ItemRestrict.bypass.6120.20.own
+    - ItemRestrict.bypass.6120.32.own
+    - ItemRestrict.bypass.6120.33.own
+    - ItemRestrict.bypass.6120.34.own
+    - ItemRestrict.bypass.6120.35.own
+    - ItemRestrict.bypass.6120.36.own
+    - ItemRestrict.bypass.6120.37.own
+    - ItemRestrict.bypass.6120.38.own
+    - ItemRestrict.bypass.6120.39.own
+    - ItemRestrict.bypass.6120.40.own
+    - ItemRestrict.bypass.6120.41.own
+    - ItemRestrict.bypass.6120.42.own
+    - ItemRestrict.bypass.6120.43.own
+    - ItemRestrict.bypass.6120.44.own
+    - ItemRestrict.bypass.6120.64.own
+    - ItemRestrict.bypass.6120.65.own
+    - ItemRestrict.bypass.6120.66.own
+    - ItemRestrict.bypass.6120.67.own
+    - ItemRestrict.bypass.6120.68.own
+    - ItemRestrict.bypass.6120.69.own
+    - ItemRestrict.bypass.6120.70.own
+    - ItemRestrict.bypass.6120.71.own
+    - ItemRestrict.bypass.6120.72.own
+    - ItemRestrict.bypass.6120.73.own
+    - ItemRestrict.bypass.6120.74.own
+    - ItemRestrict.bypass.6120.75.own
+    - ItemRestrict.bypass.6120.76.own
+    - ItemRestrict.bypass.6120.96.own
+    - ItemRestrict.bypass.6120.97.own
+    - ItemRestrict.bypass.6120.98.own
+    - ItemRestrict.bypass.6120.99.own
+    - ItemRestrict.bypass.6120.100.own
+    - ItemRestrict.bypass.6120.101.own
+    - ItemRestrict.bypass.6120.102.own
+    - ItemRestrict.bypass.6120.103.own
+    - ItemRestrict.bypass.6120.104.own
+    - ItemRestrict.bypass.6120.105.own
+    - ItemRestrict.bypass.6120.106.own
+    - ItemRestrict.bypass.6120.107.own
+    - ItemRestrict.bypass.6120.108.own
+    - ItemRestrict.bypass.6120.128.own
+    - ItemRestrict.bypass.6120.129.own
+    - ItemRestrict.bypass.6120.130.own
+    - ItemRestrict.bypass.6120.131.own
+    - ItemRestrict.bypass.6120.132.own
+    - ItemRestrict.bypass.6120.133.own
+    - ItemRestrict.bypass.6120.134.own
+    - ItemRestrict.bypass.6120.135.own
+    - ItemRestrict.bypass.6120.136.own
+    - ItemRestrict.bypass.6120.137.own
+    - ItemRestrict.bypass.6120.138.own
+    - ItemRestrict.bypass.6120.139.own
+    - ItemRestrict.bypass.6120.514.own
+    - ItemRestrict.bypass.6120.515.own
+    - ItemRestrict.bypass.6120.516.own
+    - ItemRestrict.bypass.6120.1024.own
+    - ItemRestrict.bypass.6120.1025.own
+    - ItemRestrict.bypass.6120.1026.own
+    - ItemRestrict.bypass.6120.1027.own
+    - ItemRestrict.bypass.6120.1028.own
+    - ItemRestrict.bypass.6120.1029.own
     - -factions.join
     - -factions.invite
     - -factions.flag
