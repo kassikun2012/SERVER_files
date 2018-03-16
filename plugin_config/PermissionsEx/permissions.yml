@@ -555,6 +555,8 @@ groups:
     permissions:
     - rerecipecreators.recipes.F3B0
     - ItemRestrict.bypass.4253.0.own
+    - ItemRestrict.bypass.4259.0.own
+    - ItemRestrict.bypass.4260.0.own
     - ItemRestrict.bypass.2792.2.own
     - -chestcommands.open.F20C.yml
     - factions.join
