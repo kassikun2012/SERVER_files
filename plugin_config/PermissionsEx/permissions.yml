@@ -74,6 +74,10 @@ users:
   79ffd9cd-b508-4d7e-91b0-7aee6b4a628e:
     group:
     - T100
+    permissions:
+    - permissions.*
+    - chestcommands.open.core.yml
+    - rerecipecreators.reload
     options:
       name: a0n0
   ba457d54-b864-408c-86d5-91dbdfe6ad8a:
@@ -84,11 +88,19 @@ users:
   1216217a-1aa1-4d1e-94cc-a26387590090:
     group:
     - W4B0
+    permissions:
+    - permissions.*
+    - chestcommands.open.core.yml
+    - rerecipecreators.reload
     options:
       name: kurosemi
   8a849caf-242b-4e48-8af0-60da99574674:
     group:
     - E4B0
+    permissions:
+    - permissions.*
+    - chestcommands.open.core.yml
+    - rerecipecreators.reload
     options:
       name: c2FUMAc2
   d2db4a89-fdb3-4d61-b89a-94f2e3c3f2dd:
@@ -98,12 +110,16 @@ users:
       name: Toranekojp
   4c679e30-abc1-4310-b282-bd8aa95c6c74:
     group:
-    - F100
+    - F10C
     options:
       name: For_Teleport
   ec19764e-f61f-4906-97a1-16ebf3f136da:
     group:
     - F3B0
+    permissions:
+    - permissions.*
+    - chestcommands.open.core.yml
+    - rerecipecreators.reload
     options:
       name: karekusa
   4c57a750-b0c3-4c44-b450-991a8d9cda4c:
@@ -113,12 +129,12 @@ users:
       name: huminsho
   ac8104b9-dd24-4604-9597-14fbbe680d67:
     group:
-    - F100
+    - F200
     options:
       name: kassikun2012
   b4618769-f3c2-4d97-8e3f-ce8ce9d30caf:
     group:
-    - F100
+    - F20C
     options:
       name: Seita_0219
   07b1588b-7fdb-4f5a-97dc-f98555467e2b:
@@ -148,9 +164,34 @@ users:
       name: MORIMORI0317OTCF
   8e70b72e-eaca-43b8-b212-277c1e939e44:
     group:
-    - R000
+    - W100
     options:
       name: PumPkin0MIA
+  8d649a1d-4928-4bd0-99ff-dfcc26940628:
+    group:
+    - E100
+    options:
+      name: Ley_Seirin
+  c6234682-7565-414d-9089-009eb2b7d81f:
+    group:
+    - R000
+    options:
+      name: diesu
+  b4a95aa3-3ea4-438f-a2ac-ee198cdb2189:
+    group:
+    - R000
+    options:
+      name: nobletango
+  28c58c7f-4391-4db5-bc8c-16cdb748c33c:
+    group:
+    - T200
+    options:
+      name: Honon
+  45e39fd8-adf7-4ea2-9fa3-69355e5cf3eb:
+    group:
+    - R000
+    options:
+      name: nanaoh_2014
 groups:
   V000:
     permissions:
