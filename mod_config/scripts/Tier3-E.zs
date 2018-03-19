@@ -1,10 +1,10 @@
-
+import crafttweaker.oredict.IOreDict;
 /*------------------------*/
 /* ----- Remove ------*/
 
 /* Tier3a */
 // ThermalExpansion
-recipes.remove(<ThermalExpansion:Tesseract>);
+recipes.removeShaped(<ThermalExpansion:Tesseract>,[[<ore:ingotBlonze>,<ore:ingotSilver>,<ore:ingotBlonze>],[<ore:ingotSilver>,<ThermalExpansion:Frame:11>,<ore:ingotSilver>],[<ore:ingotBlonze>,<ore:ingotSilver>,<ore:ingotBlonze>]]);
 recipes.remove(<ThermalFoundation:material:140>);
 
 // Mekanism
