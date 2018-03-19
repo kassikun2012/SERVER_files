@@ -1,3 +1,4 @@
+import crafttweaker.oredict.IOreDict;
 /* --------------------- */
 
 /* ----- Remove ------*/
@@ -39,6 +40,18 @@ recipes.remove(<bluepower:canvas_bag:0>);
 // TinkersConstruct
 recipes.remove(<TConstruct:knapsack>);
 
+// ImmersiveEngineering
+recipes.remove(<ImmersiveEngineering:woodenDevice:4>);
+
+// ThermalExpansion
+recipes.removeShaped(<ThermalExpansion:satchel:1>,[[null,<ore:itemLeather>,null],[<ore:ingotTin>,<minecraft:wool:*>,<ore:ingotTin>],[<ore:itemLeather>,null,<ore:itemLeather>]]);
+recipes.removeShaped(<ThermalExpansion:satchel:1>,[[null,<ThermalExpansion:Rockwool:*>,null],[<ore:ingotTin>,<minecraft:wool:*>,<ore:ingotTin>],[<ThermalExpansion:Rockwool:*>,null,<ThermalExpansion:Rockwool:*>]]);
+
+// ExtraUtilities
+recipes.removeShaped(<ExtraUtilities:golden_bag>,[[<minecraft:wool:*>,<minecraft:diamond>,<minecraft:wool:*>],[<minecraft:gold_ingot>,<minecraft:chest>,<minecraft:gold_ingot>],[<minecraft:wool:*>,<minecraft:gold_block>,<minecraft:wool:*>]]);
+
+//EnderStorage
+recipes.remove(<EnderStorage:enderPouch:*>);
 
 /*----- tooltips -----*/
 // IronBackpacks
@@ -78,3 +91,15 @@ recipes.remove(<TConstruct:knapsack>);
 
 // TinkersConstruct
 <TConstruct:knapsack>.addTooltip(format.darkBlue("Required 'T100'"));
+
+// ImmersiveEngineering
+<ImmersiveEngineering:woodenDevice:4>.addTooltip(format.blue("Required 'T100'"));
+
+// ThermalExpansion
+<ThermalExpansion:satchel:1>.addTooltip(format.blue("Required 'T100'"));
+
+// ExtraUtilities
+<ExtraUtilities:golden_bag>.addTooltip(format.blue("Required 'T100'"));
+
+//EnderStorage
+<EnderStorage:enderPouch:*>.addTooltip(format.blue("Required 'T100'"));
