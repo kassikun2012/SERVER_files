@@ -1,4 +1,3 @@
-import mods.thermalexpansion.RedstoneFurnace;
 /* ----- Remove --------*/
 // DCsAppleMilk
 recipes.remove(<DCsAppleMilk:defeatedcrow.evaporator>);
@@ -18,7 +17,7 @@ recipes.remove(<Thaumcraft:WandCasting:*>);
 recipes.remove(<witchery:altar>);
 recipes.remove(<witchery:mysticbranch>);
 furnace.remove(<witchery:ingredient:27>);
-mods.thermalexpansion.RedstoneFurnace.removeRecipe(<witchery:ingredient:27>);
+mods.thermalexpansion.Furnace.removeRecipe(<witchery:ingredient:27>);
 
 /*----- tooltips -----*/
 // DCsAppleMilk
