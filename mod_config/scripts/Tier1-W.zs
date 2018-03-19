@@ -17,7 +17,7 @@ recipes.remove(<Thaumcraft:WandCasting:*>);
 // witchery
 recipes.remove(<witchery:altar>);
 recipes.remove(<witchery:mysticbranch>);
-recipes.remove(<witchery:ingredient:27>);
+furnace.remove(<witchery:ingredient:27>);
 
 /*----- tooltips -----*/
 // DCsAppleMilk
