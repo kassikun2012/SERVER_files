@@ -1,4 +1,3 @@
-import crafttweaker.oredict.IOreDictEntry;
 /* --------------------- */
 
 /* ----- Remove ------*/
