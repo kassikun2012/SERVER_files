@@ -680,6 +680,7 @@ groups:
     - ItemRestrict.bypass.8202.15.own
     - ItemRestrict.bypass.3219.0.own
     - ItemRestrict.bypass.8223.0.own
+    - ItemRestrict.bypass.8202.27.own
     - -chestcommands.open.R00C.yml
     inheritance:
     - R00C

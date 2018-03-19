@@ -17,6 +17,7 @@ recipes.remove(<Thaumcraft:WandCasting:*>);
 // witchery
 recipes.remove(<witchery:altar>);
 recipes.remove(<witchery:mysticbranch>);
+recipes.remove(<witchery:ingredient:27>);
 
 /*----- tooltips -----*/
 // DCsAppleMilk
@@ -43,3 +44,4 @@ recipes.remove(<witchery:mysticbranch>);
 <witchery:ingredient:14>.addTooltip(format.darkPurple("Required 'W100'"));
 <witchery:altar>.addTooltip(format.darkPurple("Required 'W100'"));
 <witchery:mysticbranch>.addTooltip(format.darkPurple("Required 'W100'"));
+<witchery:ingredient:27>.addTooltip(format.darkPurple("Required 'W100'"));
