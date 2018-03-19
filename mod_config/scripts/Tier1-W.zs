@@ -1,4 +1,4 @@
-import mods.thermalexpansion.RedstoneFurnace
+import mods.thermalexpansion.RedstoneFurnace;
 /* ----- Remove --------*/
 // DCsAppleMilk
 recipes.remove(<DCsAppleMilk:defeatedcrow.evaporator>);
