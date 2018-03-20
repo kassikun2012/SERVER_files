@@ -1,3 +1,32 @@
+/* ----------------------- */
+
+/* ----- Remove ------*/
+// Forestry
+recipes.remove(<Forestry:sturdyMachine>);
+recipes.remove(<Forestry:ffarm:0>);
+recipes.remove(<Forestry:ffarm:2>);
+recipes.remove(<Forestry:ffarm:3>);
+recipes.remove(<Forestry:ffarm:4>);
+recipes.remove(<Forestry:ffarm:5>);
+recipes.remove(<Forestry:factory:1>);
+recipes.remove(<Forestry:factory2:0>);
+recipes.remove(<Forestry:factory:5>);
+recipes.remove(<Forestry:factory:0>);
+recipes.remove(<Forestry:factory:3>);
+recipes.remove(<Forestry:factory:6>);
+recipes.remove(<Forestry:factory:4>);
+
+// harvestcraft
+recipes.remove(<harvestcraft:market>);
+
+// EnderIO
+recipes.remove(<EnderIO:blockFarmStation>);
+
+// Mariculture
+recipes.remove(<Mariculture:machines_single:5>);
+
+// ExtraUtilities
+recipes.remove(<ExtraUtilities:watering_can:1>);
 
 /* ---------------------- */
 
@@ -19,7 +48,6 @@ recipes.remove(<waystones:warpScroll>);
 // TinkersConstruct
 recipes.remove(<TConstruct:travelGoggles>);
 recipes.remove(<TConstruct:travelVest>);
-recipes.remove(<TConstruct:travelWings>);
 recipes.remove(<TConstruct:travelBoots>);
 recipes.remove(<TConstruct:travelGlove>);
 recipes.remove(<TConstruct:travelBelt>);
@@ -42,7 +70,6 @@ recipes.remove(<TConstruct:travelBelt>);
 // TinkersConstruct
 <TConstruct:travelGoggles>.addTooltip(format.darkBlue("Required 'T200'"));
 <TConstruct:travelVest>.addTooltip(format.darkBlue("Required 'T200'"));
-<TConstruct:travelWings>.addTooltip(format.darkBlue("Required 'T200'"));
 <TConstruct:travelBoots>.addTooltip(format.darkBlue("Required 'T200'"));
 <TConstruct:travelGlove>.addTooltip(format.darkBlue("Required 'T200'"));
 <TConstruct:travelBelt>.addTooltip(format.darkBlue("Required 'T200'"));
