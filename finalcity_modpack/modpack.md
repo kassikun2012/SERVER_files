@@ -1,7 +1,7 @@
 
-# Modpack 0.1.3 Minecraft 1.7.10
- - [FINALCITY modpack 0.1.3](https://www.dropbox.com/s/ywj65gkr92yg68n/finalcitymodconfig0.1.3.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.1.3](../Finalcitytwitch.zip) その手の人向け
+# Modpack 0.1.4 Minecraft 1.7.10
+ - [FINALCITY modpack 0.1.4](https://www.dropbox.com/s/5kbou1md061f9sf/finalcitymodconfig0.1.4.zip?dl=0) Dropbox  
+ - [FINALCITY twitchpack 0.1.4](../Finalcitytwitch.zip) その手の人向け
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](http://defeatedcrow.wiki.fc2.com/wiki/JapaneseAddonForAppleMilkTea2) defeatedcrow様
@@ -32,7 +32,6 @@
  - [CraftTweaker-1.7.10-3.0.13.jar](https://minecraft.curseforge.com/projects/crafttweaker) CraftTweaker様
  - [CustomChestLoot-1.7.10-2.0.1.jar](https://minecraft.curseforge.com/projects/custom-chest-loot) FatherToast様
  - [CustomNPCs_1.7.10d(21feb16).jar](https://minecraft.curseforge.com/projects/custom-npcs) Noppes様
- - [CyanosLootableBodies-1.7.10-backport_1.3.7.jar](https://minecraft.curseforge.com/projects/drcyanos-lootable-bodies) Minecraft Mod Development Mods様
  - [DynamicTransport-0.1.2.0.jar](https://minecraft.curseforge.com/projects/dynamic-transport) SlimeVoid Development Team様
  - [Enchiridion 2-1.7.10-2.0.2a.jar](https://minecraft.curseforge.com/projects/enchiridion) PenguinSquad様
  - [EnderCore-1.7.10-0.2.0.39_beta.jar](https://minecraft.curseforge.com/projects/endercore) SleepyTrousers様
@@ -42,8 +41,10 @@
  - [forestry_1.7.10-4.2.16.64.jar](https://minecraft.curseforge.com/projects/forestry) Forestry (Minecraft Mod) 様
  - [fossilsarcheology-7.3.2.jar](https://minecraft.curseforge.com/projects/fossils-and-archeology-revival) Fossils and Archeology Revival様
  - [freebug_1.7.10_0.0.5.jar](https://github.com/finalcity/freebug.jar) *Originalmod* FINALCITY_DEV
+ - freebug_ofcb.jar *Originalmod* FINALCITY_DEV
  - [Galacticraft-Planets-1.7-3.0.12.497.jar](https://micdoodle8.com/mods/galacticraft) Micdoodle8様
  - [GalacticraftCore-1.7-3.0.12.497.jar](https://micdoodle8.com/mods/galacticraft) Micdoodle8様
+ - [gravestone-1.10.1.jar](https://minecraft.curseforge.com/projects/gravestone-mod) EuhDawson様
  - [Hats-4.0.1.jar](https://minecraft.curseforge.com/projects/hats) iChun様 
  - [HatStand-4.0.0.jar](https://minecraft.curseforge.com/projects/hat-stand) iChun様
  - [iChunUtil-4.2.3.jar](https://minecraft.curseforge.com/projects/ichunutil) iChun様 
