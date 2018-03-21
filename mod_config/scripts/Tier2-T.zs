@@ -45,12 +45,6 @@ recipes.remove(<waystones:waystone>);
 recipes.remove(<waystones:warpStone>);
 recipes.remove(<waystones:warpScroll>);
 
-// TinkersConstruct
-recipes.remove(<TConstruct:travelGoggles>);
-recipes.remove(<TConstruct:travelVest>);
-recipes.remove(<TConstruct:travelBoots>);
-recipes.remove(<TConstruct:travelGlove>);
-recipes.remove(<TConstruct:travelBelt>);
 
 /*----- tooltips -----*/
 // IronBackpacks
@@ -66,10 +60,3 @@ recipes.remove(<TConstruct:travelBelt>);
 <waystones:waystone>.addTooltip(format.blue("Required 'T200'"));
 <waystones:warpStone>.addTooltip(format.blue("Required 'T200'"));
 <waystones:warpScroll>.addTooltip(format.blue("Required 'T200'"));
-
-// TinkersConstruct
-<TConstruct:travelGoggles>.addTooltip(format.darkBlue("Required 'T200'"));
-<TConstruct:travelVest>.addTooltip(format.darkBlue("Required 'T200'"));
-<TConstruct:travelBoots>.addTooltip(format.darkBlue("Required 'T200'"));
-<TConstruct:travelGlove>.addTooltip(format.darkBlue("Required 'T200'"));
-<TConstruct:travelBelt>.addTooltip(format.darkBlue("Required 'T200'"));
