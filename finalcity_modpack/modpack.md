@@ -1,7 +1,7 @@
 
 # Modpack 0.1.4 Minecraft 1.7.10
- - [FINALCITY modpack 0.1.4](https://www.dropbox.com/s/5kbou1md061f9sf/finalcitymodconfig0.1.4.zip?dl=0) Dropbox  
- - [FINALCITY twitchpack 0.1.4](../Finalcitytwitch.zip) その手の人向け
+ - [FINALCITY modpack 0.1.7](https://www.dropbox.com/s/k9k6ioeq5w5nlc6/finalcitymodconfig0.1.7.zip?dl=0) Dropbox  
+ - [FINALCITY twitchpack 0.1.7]
 
 ## ModList
  - [AddonforAMT-JP-1.7.10_1.4h.jar](http://defeatedcrow.wiki.fc2.com/wiki/JapaneseAddonForAppleMilkTea2) defeatedcrow様
@@ -44,7 +44,6 @@
  - freebug_ofcb.jar *Originalmod* FINALCITY_DEV
  - [Galacticraft-Planets-1.7-3.0.12.497.jar](https://micdoodle8.com/mods/galacticraft) Micdoodle8様
  - [GalacticraftCore-1.7-3.0.12.497.jar](https://micdoodle8.com/mods/galacticraft) Micdoodle8様
- - [gravestone-1.10.1.jar](https://minecraft.curseforge.com/projects/gravestone-mod) EuhDawson様
  - [Hats-4.0.1.jar](https://minecraft.curseforge.com/projects/hats) iChun様 
  - [HatStand-4.0.0.jar](https://minecraft.curseforge.com/projects/hat-stand) iChun様
  - [iChunUtil-4.2.3.jar](https://minecraft.curseforge.com/projects/ichunutil) iChun様 
