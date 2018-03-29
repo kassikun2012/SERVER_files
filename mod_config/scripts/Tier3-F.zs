@@ -1,4 +1,3 @@
-
 /* ----- Remove -------*/
 // AgriCraft
 recipes.remove(<AgriCraft:cropsItem>);

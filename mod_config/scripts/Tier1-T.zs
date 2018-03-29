@@ -3,9 +3,6 @@
 /* ----- Remove ------*/
 // IronBackpacks
 recipes.remove(<ironbackpacks:basicBackpack>);
-recipes.remove(<ironbackpacks:ironBackpack>);
-recipes.remove(<ironbackpacks:goldBackpack>);
-recipes.remove(<ironbackpacks:diamondBackpack>);
 
 // Forestry
 recipes.remove(<Forestry:apiaristBag>);
@@ -54,10 +51,7 @@ recipes.remove(<EnderStorage:enderPouch:*>);
 
 /*----- tooltips -----*/
 // IronBackpacks
-<ironbackpacks:basicBackpack>.addTooltip(format.blue("Required 'T100'"));
-<ironbackpacks:ironBackpack>.addTooltip(format.blue("Required 'T100'"));
-<ironbackpacks:goldBackpack>.addTooltip(format.blue("Required 'T100'"));
-<ironbackpacks:diamondBackpack>.addTooltip(format.blue("Required 'T100'"));
+<ironbackpacks:basicBackpack>.addTooltip(format.blue("Required 'T3A0'"));
 
 // Forestry
 <Forestry:apiaristBag>.addTooltip(format.blue("Required 'T100'"));

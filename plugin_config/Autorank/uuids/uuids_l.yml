@@ -1,8 +1,0 @@
-# This file stores all uuids of players that Autorank has looked up before.
-# Each file stores accounts with the starting letter of the player's name.
-Ley_Seirin:
-  uuid: 8d649a1d-4928-4bd0-99ff-dfcc26940628
-  updateTime: 1516706842859
-Lychever:
-  uuid: de3dec91-15b8-413c-9de9-7d27eefb656f
-  updateTime: 1516706843640

@@ -13,6 +13,9 @@ NEI.hide(<DCsAppleMilk:defeatedcrow.chopsticks>);
 // Botania
 NEI.hide(<Botania:manaCookie>);
 NEI.hide(<Botania:rfGenerator>);
+NEI.hide(<Botania:spawnerMover>);
+NEI.hide(<Botania:spawnerClaw>);
+
 // ExtraUtilities
 NEI.hide(<ExtraUtilities:angelRing:*>);
 NEI.hide(<ExtraUtilities:unstableingot:*>);
@@ -24,7 +27,6 @@ NEI.hide(<ExtraUtilities:spike_base_gold>);
 NEI.hide(<ExtraUtilities:spike_base_diamond>);
 NEI.hide(<ExtraUtilities:decorativeBlock1:11>);
 NEI.hide(<ExtraUtilities:peaceful_table_top>);
-NEI.hide(<ExtraUtilities:extractor_base:*>);
 NEI.hide(<ExtraUtilities:builderswand>);
 NEI.hide(<ExtraUtilities:erosionShovel>);
 NEI.hide(<ExtraUtilities:destructionpickaxe>);
@@ -110,7 +112,6 @@ NEI.hide(<harvestcraft:pumpkincheesecakeItem>);
 <ExtraUtilities:spike_base_diamond>.addTooltip(format.gold("DeleteRecipe"));
 <ExtraUtilities:decorativeBlock1:11>.addTooltip(format.gold("DeleteRecipe"));
 <ExtraUtilities:peaceful_table_top>.addTooltip(format.gold("DeleteRecipe"));
-<ExtraUtilities:extractor_base:*>.addTooltip(format.gold("DeleteRecipe"));
 <ExtraUtilities:builderswand>.addTooltip(format.gold("DeleteRecipe"));
 <ExtraUtilities:erosionShovel>.addTooltip(format.gold("DeleteRecipe"));
 <ExtraUtilities:destructionpickaxe>.addTooltip(format.gold("DeleteRecipe"));

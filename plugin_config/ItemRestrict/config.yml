@@ -36,7 +36,7 @@ chatMessages:
     #Chat messages.
     #The place holder:  %reason  will be replaced with the reason provided in the RestrictedItems.yml
     noPermission: '&cYou do not have permission!'
-    restrictedConfiscated: '&cRestricted item confiscated! Reason: &7%reason'
+    restrictedConfiscated: '&cERROR! &c%reason'
     restricted: '&cRestricted item! Reason: &7%reason'
     pickupRestricted: '&cYou cant pickup a restricted item. Reason: &7%reason'
     ussageRestricted: '&cUssage of this item is restricted. Reason: &7%reason'

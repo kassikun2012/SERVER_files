@@ -6,6 +6,9 @@ recipes.remove(<DCsAppleMilk:defeatedcrow.chopsticks>);
 // Botania
 mods.botania.ManaInfusion.removeRecipe(<Botania:manaCookie>);
 recipes.remove(<Botania:rfGenerator>);
+recipes.remove(<Botania:spawnerMover>);
+recipes.remove(<Botania:spawnerClaw>);
+
 
 
 // ExtraUtilities
@@ -23,7 +26,6 @@ recipes.remove(<ExtraUtilities:spike_base_gold>);
 recipes.remove(<ExtraUtilities:spike_base_diamond>);
 recipes.remove(<ExtraUtilities:decorativeBlock1:11>);
 recipes.remove(<ExtraUtilities:peaceful_table_top>);
-recipes.remove(<ExtraUtilities:extractor_base:*>);
 recipes.remove(<ExtraUtilities:enderQuarry>);
 recipes.remove(<ExtraUtilities:enderQuarryUpgrade:*>);
 //CursedEarthEnabled=true>false - cfg

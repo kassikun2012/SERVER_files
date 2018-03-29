@@ -73,7 +73,7 @@ users:
       name: eache
   79ffd9cd-b508-4d7e-91b0-7aee6b4a628e:
     group:
-    - T10C
+    - T20C
     permissions:
     - permissions.*
     - chestcommands.open.core.yml
@@ -92,6 +92,9 @@ users:
     - permissions.*
     - chestcommands.open.core.yml
     - rerecipecreators.reload
+    - iConomy.accounts.give
+    - iConomy.accounts.take
+    - essentials.balancetop
     options:
       name: kurosemi
   8a849caf-242b-4e48-8af0-60da99574674:
@@ -101,16 +104,17 @@ users:
     - permissions.*
     - chestcommands.open.core.yml
     - rerecipecreators.reload
+    - essentials.balancetop
     options:
       name: c2FUMAc2
   d2db4a89-fdb3-4d61-b89a-94f2e3c3f2dd:
     group:
-    - W100
+    - W3B0
     options:
       name: Toranekojp
   4c679e30-abc1-4310-b282-bd8aa95c6c74:
     group:
-    - F10C
+    - F3AC
     options:
       name: For_Teleport
   ec19764e-f61f-4906-97a1-16ebf3f136da:
@@ -120,16 +124,17 @@ users:
     - permissions.*
     - chestcommands.open.core.yml
     - rerecipecreators.reload
+    - essentials.balancetop
     options:
       name: karekusa
   4c57a750-b0c3-4c44-b450-991a8d9cda4c:
     group:
-    - R000
+    - T100
     options:
       name: huminsho
   ac8104b9-dd24-4604-9597-14fbbe680d67:
     group:
-    - F20C
+    - F4A0
     options:
       name: kassikun2012
   b4618769-f3c2-4d97-8e3f-ce8ce9d30caf:
@@ -139,12 +144,12 @@ users:
       name: Seita_0219
   07b1588b-7fdb-4f5a-97dc-f98555467e2b:
     group:
-    - E3A0
+    - E4A0
     options:
       name: shigre200
   f522cbe8-4582-42bf-b3f3-f5eac702b7f5:
     group:
-    - R000
+    - F100
     options:
       name: _fariel_
   726d47c2-156f-49eb-83b9-b14ccb94ff48:
@@ -154,7 +159,7 @@ users:
       name: tomosige
   08a133ca-c02e-4ef4-aaaf-75b335343fd4:
     group:
-    - E200
+    - E4B0
     options:
       name: hinatanbo312
   0f286fc2-0c86-42d5-8518-c306cad74f03:
@@ -164,17 +169,17 @@ users:
       name: MORIMORI0317OTCF
   8e70b72e-eaca-43b8-b212-277c1e939e44:
     group:
-    - W10C
+    - W4B0
     options:
       name: PumPkin0MIA
   8d649a1d-4928-4bd0-99ff-dfcc26940628:
     group:
-    - E3A0
+    - E4A0
     options:
       name: Ley_Seirin
   c6234682-7565-414d-9089-009eb2b7d81f:
     group:
-    - T100
+    - T4B0
     options:
       name: diesu
   b4a95aa3-3ea4-438f-a2ac-ee198cdb2189:
@@ -184,7 +189,7 @@ users:
       name: nobletango
   28c58c7f-4391-4db5-bc8c-16cdb748c33c:
     group:
-    - T200
+    - T3A0
     options:
       name: Honon
   45e39fd8-adf7-4ea2-9fa3-69355e5cf3eb:
@@ -192,6 +197,156 @@ users:
     - R00C
     options:
       name: nanaoh_2014
+  e047d6dd-b2aa-4612-a40b-bd05643b79c7:
+    group:
+    - R000
+    options:
+      name: sandishcloth
+  cfc8e574-308e-45c4-b333-da5a0f876bb4:
+    group:
+    - R000
+    options:
+      name: rashico
+  12892f29-9eef-47ed-b8fb-df3e0e90db0c:
+    group:
+    - T3B0
+    options:
+      name: Quarri6343
+  19872506-7aba-488a-8bf8-e3f15c8a62d4:
+    group:
+    - E100
+    options:
+      name: nemono
+  e8b1eab4-a37b-46a3-8e31-94afe6eae5fd:
+    group:
+    - W200
+    options:
+      name: yuhki2003
+  c98bff54-012d-4c31-91c8-199969bdac67:
+    group:
+    - F100
+    options:
+      name: airou1117
+  ee1189a8-193b-498e-bb09-6e5ee7c3a963:
+    group:
+    - W100
+    options:
+      name: b7n
+  60dc7723-f23f-4dc8-a5f0-13812207d410:
+    group:
+    - W200
+    options:
+      name: Tatituteto
+  55a6c127-69fc-4cee-a196-2e173eb51c1f:
+    group:
+    - R000
+    options:
+      name: IA_140
+  1811af0c-1182-4db8-bf39-d056abe8cac2:
+    group:
+    - E3B0
+    options:
+      name: rkcyk706
+  7da44ab1-d74a-457f-8f88-fdcb7b921411:
+    group:
+    - R000
+    options:
+      name: Rexia_MB
+  b00ae9f7-6ea8-4ada-b6b7-a21aa8337a5b:
+    group:
+    - R00C
+    options:
+      name: falisdoll
+  bfbea3fd-fe21-487e-abe3-f087a863d1c4:
+    group:
+    - E200
+    options:
+      name: APAMU
+  6276d541-617d-4b37-a00f-9a1d8480791b:
+    group:
+    - W200
+    options:
+      name: read1025
+  e1db1fa2-d0be-4075-8c16-9c489e3a2941:
+    group:
+    - W100
+    options:
+      name: bagu_chan
+  0bca0a06-6924-4612-9b28-494703e94e6c:
+    group:
+    - E100
+    options:
+      name: Tofucan
+  43ec5d0a-d045-4fe8-8b0e-836f10ba7293:
+    group:
+    - W20C
+    options:
+      name: enoshun
+  d5b27662-bb9e-4cad-9885-5bffe524ba6c:
+    group:
+    - W100
+    options:
+      name: ks76
+  1aa4de83-97b3-42b6-ad04-0ba5003fab82:
+    group:
+    - E100
+    options:
+      name: KaNeKi_CHROMA_RZ
+  31551493-7657-41b9-a3fc-0f040dae1df9:
+    group:
+    - T3A0
+    options:
+      name: sousuke0422
+  e0ac03ec-5456-4f92-a7fd-6aa769ac24a8:
+    group:
+    - F200
+    options:
+      name: kya_pita
+  03b3d8a3-d22d-4755-bfe3-84d431968525:
+    group:
+    - F100
+    options:
+      name: yuuya_lo
+  24185b89-a2bf-4619-9b2a-81c20ca35967:
+    group:
+    - W100
+    options:
+      name: Adon_
+  34d0f290-b5c3-4751-8867-3dd6bde58a29:
+    group:
+    - R000
+    options:
+      name: pemopamo
+  32f74f04-29df-4c7c-8a86-1a4aa97f71b1:
+    group:
+    - R000
+    options:
+      name: Syou_112
+  1b4f2c21-d106-45cd-8296-7f2813bfa46f:
+    group:
+    - T100
+    options:
+      name: syunta0616
+  f9d0d72c-8c97-4c7e-83fe-b755b5321ae2:
+    group:
+    - R000
+    options:
+      name: rasyal
+  db898a50-baa9-454e-a4af-68b7aaf63fec:
+    group:
+    - W100
+    options:
+      name: tamachan228
+  a9454a18-904a-430a-a9f4-d59c0bdaeaa3:
+    group:
+    - R000
+    options:
+      name: lukaphone
+  4b46d0df-0894-43b7-83dc-11bdaf136c4e:
+    group:
+    - R000
+    options:
+      name: flederick_ruin
 groups:
   V000:
     permissions:
@@ -267,6 +422,7 @@ groups:
     - ItemRestrict.bypass.6120.1027.own
     - ItemRestrict.bypass.6120.1028.own
     - ItemRestrict.bypass.6120.1029.own
+    - gravestone.*
     - -factions.join
     - -factions.invite
     - -factions.flag
@@ -458,6 +614,7 @@ groups:
     - worldguard.region.setparent.own.*
     - chestcommands.open.E3BC.yml
     - areashop.sellown
+    - worldguard.region.remove.own.*
     - factions.invite
     inheritance:
     - E3AC
@@ -473,6 +630,7 @@ groups:
     - worldguard.region.info.*
     - worldguard.region.flag.regions.own.*
     - worldguard.region.setparent.own.*
+    - worldguard.region.remove.own.*
     - areashop.sellown
     - factions.invite
     inheritance:
@@ -635,6 +793,7 @@ groups:
     - worldguard.region.info.*
     - worldguard.region.flag.regions.own.*
     - worldguard.region.setparent.own.*
+    - worldguard.region.remove.own.*
     - areashop.sellown
     - factions.invite
     inheritance:
@@ -651,6 +810,7 @@ groups:
     - worldguard.region.flag.regions.own.*
     - worldguard.region.setparent.own.*
     - -chestcommands.open.F3BC.yml
+    - worldguard.region.remove.own.*
     - areashop.sellown
     - factions.invite
     inheritance:
@@ -774,6 +934,7 @@ groups:
     - worldguard.region.info.*
     - worldguard.region.flag.regions.own.*
     - worldguard.region.setparent.own.*
+    - worldguard.region.remove.own.*
     - areashop.sellown
     - factions.invite
     inheritance:
@@ -792,12 +953,14 @@ groups:
     - worldguard.region.setparent.own.*
     - areashop.sellown
     - factions.invite
+    - worldguard.region.remove.own.*
     inheritance:
     - W3BC
     options:
       prefix: '&d[W4B0]&f'
   T100:
     permissions:
+    - factions.create
     - rerecipecreators.recipes.T100
     - ItemRestrict.bypass.2579.0.own
     - ItemRestrict.bypass.2581.0.own
@@ -805,8 +968,10 @@ groups:
     - ItemRestrict.bypass.2625.0.own
     - ItemRestrict.bypass.7008.4.own
     - -chestcommands.open.R00C.yml
+    - chestcommands.open.tf.yml
     - worldborder.bypass
     - essentials.warps.tf
+    - essentials.warp
     inheritance:
     - R00C
     options:
@@ -864,6 +1029,7 @@ groups:
     - rerecipecreators.recipes.T3B0
     - -chestcommands.open.T20C.yml
     - worldedit.navigation.jumpto.command
+    - worldedit.navigation.jumpto.tool
     - factions.join
     - areashop.help
     - areashop.buy
@@ -899,6 +1065,7 @@ groups:
     - worldguard.region.info.*
     - worldguard.region.flag.regions.own.*
     - worldguard.region.setparent.own.*
+    - worldguard.region.remove.own.*
     - areashop.sellown
     - factions.invite
     inheritance:
@@ -915,6 +1082,7 @@ groups:
     - worldguard.region.info.*
     - worldguard.region.flag.regions.own.*
     - worldguard.region.setparent.own.*
+    - worldguard.region.remove.own.*
     - areashop.sellown
     - factions.invite
     inheritance:
@@ -926,4 +1094,3 @@ worlds:
     inheritance:
     - world
 schema-version: 1
-
