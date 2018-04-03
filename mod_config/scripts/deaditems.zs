@@ -93,3 +93,6 @@ recipes.remove(<harvestcraft:chocolatesprinklecakeItem>);
 recipes.remove(<harvestcraft:redvelvetcakeItem>);
 recipes.remove(<harvestcraft:holidaycakeItem>);
 recipes.remove(<harvestcraft:pumpkincheesecakeItem>);
+
+//Opencomputers
+recipes.remove(<OpenComputers:item:62>);
